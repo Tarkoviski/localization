@@ -11,4 +11,4 @@ This repo contains the latest approved translations on [Steam Translation Server
  * dotaS2
  * items
 
-Last updated: 2017-01-15 16:24:18
+Last updated: 2017-01-20 08:54:43
