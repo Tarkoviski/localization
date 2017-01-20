@@ -9,6 +9,15 @@ This repo contains the latest approved translations on [Steam Translation Server
 * Dota 2
  * dota
  * dotaS2
+* Counter-Strike: Global Offensive
+ * csgo
+* Portal
+ * portal
+ * closecaptions
+* Portal 2
+ * portal2
+ * subtitles
+ * subtitles_dlc1
  * items
 
-Last updated: 2017-01-20 08:54:43
+Last updated: 2017-01-20 09:33:11
