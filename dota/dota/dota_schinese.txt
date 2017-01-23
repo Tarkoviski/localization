@@ -26772,6 +26772,7 @@
 "DOTA_Tooltip_modifier_item_helm_of_the_dominator_aura_Description"	"生命恢复速率增加%dMODIFIER_PROPERTY_HEALTH_REGEN_CONSTANT%点/秒，攻击速度提升%dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%。"
 "DOTA_Guide_Browse"	"浏览所有攻略 >"
 "DOTA_Shop_Tip_Popular"	"高亮英雄的热门物品。"
-"DOTA_Shop_Tip_EditCommonItems"	"编辑常驻物品"
+"DOTA_Shop_Tip_EditCommonItems"	"编辑常驻物品<br>常驻物品在所有英雄之间共享。"
+"DOTA_Item_Build_Auto_Items"	"热门物品"
 }
 }

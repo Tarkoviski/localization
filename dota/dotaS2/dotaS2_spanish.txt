@@ -4547,6 +4547,7 @@
 "DOTA_Tournament_Media_Coverage"	"Cobertura de medios"
 "DOTA_Custom_Game_Plus"	"+"
 "DOTA_Custom_Game_Purchase"	"Pase"
+"DOTA_Custom_Game_ThankYou"	"Pase adquirido"
 "DOTA_SortOption_Relevance"	"Más relevante"
 "DOTA_SortOption_Oldest"	"Más antiguo"
 "DOTA_SortOption_PriceLowToHigh"	"Precio (de menor a mayor)"
@@ -4868,6 +4869,8 @@
 "dota_lobby_type_weekend_tourney_semifinals"	"Semifinal"
 "dota_lobby_type_weekend_tourney_finals"	"Gran final"
 "dota_page_match_details_header_total"	"Total"
+"DOTA_HUD_NetGraph_Left_1"	"FPS / Ping"
+"DOTA_HUD_NetGraph_Left_2"	"Pérdida / kbps"
 "DOTA_HUD_NetGraph_Right_1"	"{d:fps} / {d:ping}"
 "DOTA_HUD_NetGraph_Right_2"	"{d:loss} / {d:kbps}"
 "DOTA_Compendium_SecondaryTabHeader_PlayerCards"	"Cromos de Jugadores"
@@ -4987,4 +4990,5 @@
 "FrontPage_Title_Terrain"	"Nuevo terreno"
 "FrontPage_700_Title"	"El siguiente capítulo ha comenzado"
 "DOTA_ChatCommand_GameLobby_Name"	"Sala"
+"DOTA_HUD_DeathTime"	"Hora de la muerte: {d:death_time}"
 }

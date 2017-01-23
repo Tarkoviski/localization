@@ -6872,4 +6872,6 @@
 "DOTA_BotScripting_Upvotes"	"Одобрено: <span class='Value'>{i:upvotes}</span>"
 "DOTA_BotScripting_SortUpvotes"	"Одобрено"
 "DOTA_BotScripting_SortSubscriptions"	"Абонаменти"
+"dota_settings_upgradetalents"	"Подобряване на талантите"
+"DOTA_HUD_DeathTime"	"Време на смъртта: {d:death_time}"
 }

@@ -26628,5 +26628,9 @@ Shoot the alien explosive drones to take out enemies or Engineer buildings."
 "[english]TF_DataCenter_bt2"	"Beta 2"
 "TF_DataCenter_beta"	"Бета"
 "[english]TF_DataCenter_beta"	"Beta"
+"TF_ShowPromotionalCodesButton"	"Показывать кнопку \"Просмотреть промо-коды\""
+"[english]TF_ShowPromotionalCodesButton"	"Show 'View Promotional Codes' button"
+"Tooltip_ShowPromotionalCodesButton"	"Отображает в главном меню кнопку \"Просмотреть промо-коды\" у тех игроков, кто активировал код на Well Spun Hat для RIFT."
+"[english]Tooltip_ShowPromotionalCodesButton"	"Toggles the 'View Promotional Codes' button in the main menu for players that have used the 'RIFT Well Spun Hat Claim Code'."
 }
 }

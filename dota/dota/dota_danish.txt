@@ -15908,6 +15908,7 @@ Selvom de havde vundet, så de overlevende ikke meget at fejre: byen lå i ruine
 "DOTA_Item_Virtus_Werebear_Style2"	"Trin 3"
 "Crate_Signatures_Upsell"	"Tilgængelig som en officiel signeret genstand!"
 "DOTA_Advertisement_Signature_Treasure"	"Signeret %s1 - %s2"
+"DOTA_Advertisement_Signature_TreasureHeader"	"Signerede udødelige genstande"
 "DOTA_Advertisement_Signature_TreasureSubHeader"	"Få autograf på dine nye udødelige genstande af din yndlings Dota 2-personlighed."
 "Store_Autographed_Immortals"	"Signerede skatte"
 "DOTA_Advertisement_Compendium_EmoticonsHeader"	"25 chat-emotikoner"
@@ -15972,6 +15973,7 @@ Selvom de havde vundet, så de overlevende ikke meget at fejre: byen lå i ruine
 "StoreBanner_Header_HerosHeirloom"	"Hero's Heirloom"
 "StoreBanner_Header_ChampionsChest"	"Champion's Chest"
 "go_to_location"	"Gå til kamp"
+"DOTA_Workshop_UploadCustomGame"	"Uploadet tilpasset spiltilstand"
 "DOTA_Workshop_Preparing"	"Forbereder fil..."
 "DOTA_Workshop_Uploading"	"Uploader fil..."
 "custom_game_needs_update"	"SKAL OPDATERES"
@@ -22278,6 +22280,7 @@ Selvom de havde vundet, så de overlevende ikke meget at fejre: byen lå i ruine
 "DOTA_Chat_RadiantCourier"	"Radiant-kurér"
 "DOTA_Chat_DireCourier"	"Dire-kurér"
 "npc_dota_neutral_creep"	"Neutralt kryb"
+"dota_item_build_common_items"	"Fastgjorte genstande"
 "dota_division_north_america"	"Nordamerika"
 "dota_division_south_america"	"Sydamerika"
 "DOTA_Tooltip_modifier_windrunner_shackle_shot"	"Shackleshot"
@@ -23219,5 +23222,7 @@ Selvom de havde vundet, så de overlevende ikke meget at fejre: byen lå i ruine
 "DOTA_InvitedToLobbyHeader"	"Lobbyinvitation"
 "DOTA_InvitedToLobbyPending"	"Du har en afventende lobbyinvitation"
 "DOTA_Tooltip_modifier_item_helm_of_the_dominator_aura_Description"	"Øger helbredsregenerering med %dMODIFIER_PROPERTY_HEALTH_REGEN_CONSTANT% og angrebshastighed med %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT%."
+"DOTA_Guide_Browse"	"Gennemse alle guider >"
+"DOTA_Shop_Tip_Popular"	"Fremhæv populære genstande for denne helt."
 }
 }

@@ -6877,4 +6877,6 @@ Aber auch Helden, die früh Druck ausüben können, wie Zeus und Death Prophet, 
 "DOTA_BotScripting_Upvotes"	"Positiv bewertet: <span class='Value'>{i:upvotes}</span>"
 "DOTA_BotScripting_SortUpvotes"	"Positive Bewertungen"
 "DOTA_BotScripting_SortSubscriptions"	"Abonnements"
+"dota_settings_upgradetalents"	"Talente aufwerten"
+"DOTA_HUD_DeathTime"	"Wiedereinstiegszeit: {d:death_time}"
 }

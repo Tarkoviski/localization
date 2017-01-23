@@ -26727,5 +26727,11 @@ Shoot the alien explosive drones to take out enemies or Engineer buildings."
 "[english]TF_DataCenter_dum"	"Dumm1"
 "TF_DataCenter_beta"	"Bêta"
 "[english]TF_DataCenter_beta"	"Beta"
+"TF_AutoBalanceVolunteer_ChatText"	"Une nouvelle notification concernant l'aide à l'équilibrage est désormais disponible sur le menu principal."
+"[english]TF_AutoBalanceVolunteer_ChatText"	"You have a notification in the main menu about volunteering to switch teams..."
+"TF_ShowPromotionalCodesButton"	"Afficher le bouton Voir les codes promotionnels"
+"[english]TF_ShowPromotionalCodesButton"	"Show 'View Promotional Codes' button"
+"Tooltip_ShowPromotionalCodesButton"	"Affiche le bouton Voir les codes promotionnels sur le menu principal. Ce bouton est destiné aux joueurs ayant utilisé le code promotionnel du Well Spun Hat de RIFT."
+"[english]Tooltip_ShowPromotionalCodesButton"	"Toggles the 'View Promotional Codes' button in the main menu for players that have used the 'RIFT Well Spun Hat Claim Code'."
 }
 }

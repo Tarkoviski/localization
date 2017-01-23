@@ -6878,4 +6878,6 @@ Oblíbenosti se těší také pusheři prvních fází hry (jmenovitě Zeus a De
 "DOTA_BotScripting_Upvotes"	"Kladné hlasy: <span class='Value'>{i:upvotes}</span>"
 "DOTA_BotScripting_SortUpvotes"	"Kladné hlasy"
 "DOTA_BotScripting_SortSubscriptions"	"Odběry"
+"dota_settings_upgradetalents"	"Vylepšit talenty"
+"DOTA_HUD_DeathTime"	"Čas do oživení: {d:death_time}"
 }

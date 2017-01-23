@@ -24794,6 +24794,7 @@ Zet, odhozený roztříštěním měsíce kamsi do vzdáleného koutu galaxie, b
 "DOTA_Chat_RadiantCourier"	"Kurýr týmu Radiant"
 "DOTA_Chat_DireCourier"	"Kurýr týmu Dire"
 "npc_dota_neutral_creep"	"Neutrální creep"
+"dota_item_build_common_items"	"Vybrané předměty"
 "dota_division_north_america"	"Severní Amerika"
 "dota_division_south_america"	"Jižní Amerika"
 "DOTA_Tooltip_modifier_windrunner_shackle_shot"	"Shackleshot"
@@ -26075,5 +26076,7 @@ Sun Wukong, jako vyměněný, se ctí splnil zadaný úkol a odčinil tak své h
 "DOTA_InvitedToLobbyHeader"	"Pozvánka do lobby"
 "DOTA_InvitedToLobbyPending"	"Máš nevyřízenou pozvánku do lobby"
 "DOTA_Tooltip_modifier_item_helm_of_the_dominator_aura_Description"	"Navyšuje regeneraci zdraví o %dMODIFIER_PROPERTY_HEALTH_REGEN_CONSTANT% bodů a rychlost útoku o %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT% bodů."
+"DOTA_Guide_Browse"	"Procházet všechny buildy >"
+"DOTA_Shop_Tip_Popular"	"Zvýraznit populární předměty pro tohoto hrdinu."
 }
 }

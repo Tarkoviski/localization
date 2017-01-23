@@ -24832,6 +24832,7 @@ Artık her biri fani bir şuur kıvılcımı ile bağlanmış tek bir forma ve z
 "DOTA_Chat_RadiantCourier"	"Radiant kuryesi"
 "DOTA_Chat_DireCourier"	"Dire kuryesi"
 "npc_dota_neutral_creep"	"Tarafsız Yaratık"
+"dota_item_build_common_items"	"Sabitlenmiş Eşyalar"
 "dota_division_north_america"	"Kuzey Amerika"
 "dota_division_south_america"	"Güney Amerika"
 "DOTA_Tooltip_modifier_windrunner_shackle_shot"	"Shackleshot"
@@ -26105,5 +26106,7 @@ Wukong bir defa olsun, tanrılara karşı olan yeminini onurla yerine getirmiş 
 "DOTA_InvitedToLobbyHeader"	"Lobi Daveti"
 "DOTA_InvitedToLobbyPending"	"Bekleyen bir lobi davetiniz var"
 "DOTA_Tooltip_modifier_item_helm_of_the_dominator_aura_Description"	"Sağlık yenilemesini %dMODIFIER_PROPERTY_HEALTH_REGEN_CONSTANT% ve saldırı hızını %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT% artırır."
+"DOTA_Guide_Browse"	"Bütün Rehberleri Göz At >"
+"DOTA_Shop_Tip_Popular"	"Bu kahraman için popüler eşyaları öne çıkarın."
 }
 }

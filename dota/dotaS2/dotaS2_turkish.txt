@@ -6872,4 +6872,6 @@ Zeus ve Death Prophet gibi erken baskı kahramanlarının ortaya çıkması, Nat
 "DOTA_BotScripting_Upvotes"	"Artı Oylar: <span class='Value'>{i:upvotes}</span>"
 "DOTA_BotScripting_SortUpvotes"	"Artı Oylar"
 "DOTA_BotScripting_SortSubscriptions"	"Abonelikler"
+"dota_settings_upgradetalents"	"Yetenekleri Yükselt"
+"DOTA_HUD_DeathTime"	"Ölüm Zamanı: {d:death_time}"
 }
