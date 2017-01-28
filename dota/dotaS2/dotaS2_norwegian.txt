@@ -1,4 +1,4 @@
-"dota"
+﻿"dota"
 {
 "DOTA_Accept"	"Godta"
 "DOTA_Cancel"	"Avbryt"

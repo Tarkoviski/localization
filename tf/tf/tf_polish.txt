@@ -1,4 +1,4 @@
-"lang"
+﻿"lang"
 {
 "Language"	"polish"
 "Tokens"
@@ -12656,7 +12656,7 @@
 "[english]TF_SuperMNC_Pyro_Style0"	"Roasting"
 "TF_SuperMNC_Pyro_Style1"	"Sam żar"
 "[english]TF_SuperMNC_Pyro_Style1"	"Blazing"
-"TF_SuperMNC_Sniper"	"Chłopak z klubu Flamingo"
+"TF_SuperMNC_Sniper"	"Chłopak z Klubu Flamingo"
 "[english]TF_SuperMNC_Sniper"	"The Flamingo Kid"
 "TF_SuperMNC_Sniper_Desc"	"Czy masz w sobie dość męskości, aby włożyć na głowę ten jaskrawy kowbojski kapelusz? Jeśli nie, doczepiliśmy do niego pół czaszki, aby ułatwić ci wejście do nowego, wspaniałego świata noszenia tego kapelusza."
 "[english]TF_SuperMNC_Sniper_Desc"	"Are you man enough to wear this brightly colored cowboy hat? Just in case you're not, we slapped a half-a-skull on it to ease you into the exciting new world of wearing this hat."

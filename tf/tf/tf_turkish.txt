@@ -1,4 +1,4 @@
-"lang"
+﻿"lang"
 {
 "Language"	"turkish"
 "Tokens"
@@ -26721,5 +26721,7 @@ Shoot the alien explosive drones to take out enemies or Engineer buildings."
 "[english]TF_AutoBalanceVolunteer_ChatText"	"You have a notification in the main menu about volunteering to switch teams..."
 "TF_ShowPromotionalCodesButton"	"'Promosyon Kodlarını görüntüle' butonunu göster"
 "[english]TF_ShowPromotionalCodesButton"	"Show 'View Promotional Codes' button"
+"Tooltip_ShowPromotionalCodesButton"	"'RIFT Koza Şapka Talep Kodu' kullanmış oyuncular için ana menüde 'Promosyon Kodları Görüntüle' butonunu gösterir."
+"[english]Tooltip_ShowPromotionalCodesButton"	"Toggles the 'View Promotional Codes' button in the main menu for players that have used the 'RIFT Well Spun Hat Claim Code'."
 }
 }

@@ -1,4 +1,4 @@
-"lang"
+﻿"lang"
 {
 "Language"	"vietnamese"
 "Tokens"
@@ -709,6 +709,8 @@
 "[english]RI_c"	", "
 "Humiliation_Count"	"x%s1"
 "[english]Humiliation_Count"	"x%s1"
+"TF_UseFail_NotOnTeam_Title"	"Gia nhập một đội trước!"
+"[english]TF_UseFail_NotOnTeam_Title"	"Join A Team First!"
 "TF_Duel_Accept"	"%target% đã đồng ý đấu tay đôi với %initiator%!"
 "[english]TF_Duel_Accept"	"%target% has agreed to duel with %initiator%!"
 "TF_StoreBundle"	"Bộ vật phẩm"
