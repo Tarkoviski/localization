@@ -551,15 +551,15 @@
 "[english]TF_Wearable_L4DHat"	"Veteran's Beret"
 "TF_PropagandaContest_FirstPlace"	"J.Axer Sraffos Sipkája"
 "[english]TF_PropagandaContest_FirstPlace"	"J.Axer's Dapper Topper"
-"TF_PropagandaContest_FirstPlace_Desc"	"A \"Propaganda Contest\" első helyezettje"
+"TF_PropagandaContest_FirstPlace_Desc"	"A „Propaganda Contest” első helyezettje"
 "[english]TF_PropagandaContest_FirstPlace_Desc"	"First Place Winner, Propaganda Contest"
 "TF_PropagandaContest_SecondPlace"	"Amber Irtó Kafa Satyekja"
 "[english]TF_PropagandaContest_SecondPlace"	"Amber's Rad As All Hell Hat"
-"TF_PropagandaContest_SecondPlace_Desc"	"A \"Propaganda Contest\" második helyezettje"
+"TF_PropagandaContest_SecondPlace_Desc"	"A „Propaganda Contest” második helyezettje"
 "[english]TF_PropagandaContest_SecondPlace_Desc"	"First Runner-Up, Propaganda Contest"
 "TF_PropagandaContest_ThirdPlace"	"Sam Bácsi"
 "[english]TF_PropagandaContest_ThirdPlace"	"Uncle Sam"
-"TF_PropagandaContest_ThirdPlace_Desc"	"A \"Propaganda Contest\" harmadik helyezettje"
+"TF_PropagandaContest_ThirdPlace_Desc"	"A „Propaganda Contest” harmadik helyezettje"
 "[english]TF_PropagandaContest_ThirdPlace_Desc"	"Second Runner-Up, Propaganda Contest"
 "TF_ToweringPillar_Hat"	"Magasan Tornyosuló Kalap-oszlop"
 "[english]TF_ToweringPillar_Hat"	"Towering Pillar of Hats"
@@ -6375,7 +6375,7 @@
 "[english]TF_Armory_Item_Attrib_Bleed"	"This weapon causes enemies hurt by it to BLEED. Bleeding players will lose health every second for the specified amount of time. Bleeding will stop if the bleeding player is healed in any way."
 "TF_Armory_Item_HolidayRestriction"	"Ennek a tárgynak a használata bizonyos ünnepi eseményhez kötött. Csak a megadott ünnepnapok során vehető fel egy osztály felszerelésébe."
 "[english]TF_Armory_Item_HolidayRestriction"	"Usage of this item is restricted to a specific holiday event. It can only be equipped in a class loadout during the specified holiday."
-"TF_Armory_Item_AchievementReward"	"Ez a tárgy a(z) '%s1' teljesítmény eléréséért kapott jutalom."
+"TF_Armory_Item_AchievementReward"	"Ez a tárgy a(z) „%s1” teljesítmény eléréséért kapott jutalom."
 "[english]TF_Armory_Item_AchievementReward"	"This item is an Achievement Reward for completing the '%s1' achievement."
 "TF_Armory_Item_InSet"	"Ez a tárgy a(z) %s1 szett része. Néhány szett további bónuszokat biztosít, ha a teljes szettet egyszerre viseled. A(z) %s1 szett a következő Tárgy-szett bónuszt adja:\n"
 "[english]TF_Armory_Item_InSet"	"This item is part of %s1 item set. Some item sets provide extra bonuses when the entire set is worn at the same time. The %s1 set will provide this Item Set Bonus:\n"
@@ -7345,7 +7345,7 @@
 "[english]TF_Lakeside"	"Lakeside"
 "TF_MapToken_Lakeside"	"Pályabélyeg - Lakeside"
 "[english]TF_MapToken_Lakeside"	"Map Stamp - Lakeside"
-"TF_MapToken_Lakeside_Desc"	"A Hegy Királya pálya\n\nKészítette: '3DNJ' Levillain\n\nE tárgy megvásárlásával közvetlenül a Lakeside közösségi pálya készítőjét támogatod. Mutasd ki támogatásod!"
+"TF_MapToken_Lakeside_Desc"	"A Hegy Királya pálya\n\nKészítette: Valentin '3DNJ' Levillain\n\nE tárgy megvásárlásával közvetlenül a Lakeside közösségi pálya készítőjét támogatod. Mutasd ki támogatásod!"
 "[english]TF_MapToken_Lakeside_Desc"	"A King of the Hill Map\n\nMade by Valentin '3DNJ' Levillain\n\nPurchasing this item directly supports the creator of the Lakeside community map.  Show your support today!"
 "Tournament_Countdown_Sec"	"%s1 másodperc a kezdésig... Megszakítás F4-gyel"
 "[english]Tournament_Countdown_Sec"	"Starting in %s1 second... 'F4' to cancel"
@@ -7937,17 +7937,17 @@
 "[english]Replay_PerfTip_Highlight_Word6"	"out point"
 "Replay_PerfTip_Highlight_Word7"	"nyissz"
 "[english]Replay_PerfTip_Highlight_Word7"	"snip"
-"Replay_PerfTip_Highlight_Word8"	"'W'"
+"Replay_PerfTip_Highlight_Word8"	"„W”"
 "[english]Replay_PerfTip_Highlight_Word8"	"'W'"
-"Replay_PerfTip_Highlight_Word9"	"'A'"
+"Replay_PerfTip_Highlight_Word9"	"„A”"
 "[english]Replay_PerfTip_Highlight_Word9"	"'A'"
-"Replay_PerfTip_Highlight_Word10"	"'S'"
+"Replay_PerfTip_Highlight_Word10"	"„S”"
 "[english]Replay_PerfTip_Highlight_Word10"	"'S'"
-"Replay_PerfTip_Highlight_Word11"	"'D'"
+"Replay_PerfTip_Highlight_Word11"	"„D”"
 "[english]Replay_PerfTip_Highlight_Word11"	"'D'"
-"Replay_PerfTip_Highlight_Word12"	"'Z'"
+"Replay_PerfTip_Highlight_Word12"	"„Z”"
 "[english]Replay_PerfTip_Highlight_Word12"	"'Z'"
-"Replay_PerfTip_Highlight_Word13"	"'X'"
+"Replay_PerfTip_Highlight_Word13"	"„X”"
 "[english]Replay_PerfTip_Highlight_Word13"	"'X'"
 "Replay_PerfTip_Highlight_Word14"	"mozgasd az egeret"
 "[english]Replay_PerfTip_Highlight_Word14"	"move the mouse"
@@ -8911,7 +8911,7 @@
 "[english]TF_SpaceChem_MoustachiumBar_Desc"	"Pure moustachium, harvested from all-natural sources deep within the Australian outback."
 "TF_SpaceChem_FishcakeFragmentType"	"halpogácsa-töredék"
 "[english]TF_SpaceChem_FishcakeFragmentType"	"Fishcake Fragment"
-"TF_SpaceChem_FishcakeFragment"	"'Hal'"
+"TF_SpaceChem_FishcakeFragment"	"„Hal”"
 "[english]TF_SpaceChem_FishcakeFragment"	"'Fish'"
 "TF_SpaceChem_FishcakeFragment_Desc"	"Tele fehérjével."
 "[english]TF_SpaceChem_FishcakeFragment_Desc"	"It's packed with protein."
@@ -8991,7 +8991,7 @@
 "[english]TF_Connoisseurs_Cap_Desc"	"You're today's theme ingredient..."
 "TF_VillainsVeil_Desc"	"A jó, a rossz és a halott."
 "[english]TF_VillainsVeil_Desc"	"The good, the bad, and the dead."
-"TF_TeamCaptain_Desc"	"Az ügyvédeink szerint is 'IGEN! IGEN!'"
+"TF_TeamCaptain_Desc"	"Az ügyvédeink szerint is „IGEN! IGEN!”"
 "[english]TF_TeamCaptain_Desc"	"Our lawyers say 'YES! YES!'"
 "TF_BlightedBeak_Style1"	"Yersinia Pestis"
 "[english]TF_BlightedBeak_Style1"	"Yersinia Pestis"
@@ -9889,7 +9889,7 @@
 "[english]TF_EvictionNotice"	"The Eviction Notice"
 "TF_SolemnVow"	"Az Ünnepi Fogadalom"
 "[english]TF_SolemnVow"	"The Solemn Vow"
-"TF_SolemnVow_Desc"	"'Nem ártani.'"
+"TF_SolemnVow_Desc"	"„Nem ártani.”"
 "[english]TF_SolemnVow_Desc"	"'Do no harm.'"
 "TF_Weapon_Bust"	"Hippokratész mellszobra"
 "[english]TF_Weapon_Bust"	"Bust of Hippocrates"
@@ -10343,6 +10343,8 @@
 "[english]TF_FreezeCamHide"	"Hide HUD during freezecam screenshots"
 "Store_Popular"	"Legkelendőbbek"
 "[english]Store_Popular"	"Top Sellers"
+"Store_CGTradingSale"	" "
+"[english]Store_CGTradingSale"	""
 "Tooltip_FreezeCamHide"	"Ha be van kapcsolva, a HUD nem látszik pillanatkép képernyőmentések közben."
 "[english]Tooltip_FreezeCamHide"	"If set, the HUD will be hidden during freezecam screenshots."
 "Store_MostPopular"	"A mai legnépszerűbb tárgyak:"
@@ -10805,7 +10807,7 @@
 "[english]TF_SoldierHat2_Desc"	"A nameless hat for a nameless man."
 "TF_PyroConscience"	"A Lángszórós Lelkiismerete"
 "[english]TF_PyroConscience"	"The Cremator's Conscience"
-"TF_PyroConscience_Desc"	"'Égesd meg!' 'Ne, égesd meg, majd adj neki fejszével!'"
+"TF_PyroConscience_Desc"	"„Égesd meg!” „Ne, égesd meg, majd adj neki fejszével!”"
 "[english]TF_PyroConscience_Desc"	"'Burn him with fire!' 'No, burn him with fire, then hit him with an axe!'"
 "TF_ScoutHat3"	"A Hermész"
 "[english]TF_ScoutHat3"	"The Hermes"
@@ -11327,7 +11329,7 @@
 "[english]TF_Halloween_Seal_Mask_Desc"	"Turn routine melee attacks into environmental hate crimes with this adorable mask."
 "TF_Bombinomicon_Badge"	"A Bombanomicon"
 "[english]TF_Bombinomicon_Badge"	"The Bombinomicon"
-"TF_Bombinomicon_Badge_Desc"	"'Ha ez évben csak egy varázskönyv-témájú jelvényre vetéd tekénteted, NE EZ LÉGYEN AZ!' - Merasmus a mágus"
+"TF_Bombinomicon_Badge_Desc"	"„Ha ez évben csak egy varázskönyv-témájú jelvényre vetéd tekénteted, NE EZ LÉGYEN AZ!” - Merasmus a mágus"
 "[english]TF_Bombinomicon_Badge_Desc"	"'If ye gaze upon one tome-themed badge this year, MAKE IT NOT THIS ONE!' - Merasmus the Magician'"
 "TF_HalloweenCauldron2011"	"Halloweeni Nyalánkságok Antik Üstje"
 "[english]TF_HalloweenCauldron2011"	"Antique Halloween Goodie Cauldron"
@@ -12532,7 +12534,7 @@
 "[english]TF_EngineerChaps_Desc"	"It's pants... Texas Style! These crotchless leather leggings are perfect if you already own pants. Note: To be used as auxiliary pants only. Please do not employ as primary source of pants."
 "RefurbishItem_RemoveStrangePartTitle"	"Eltávolítod a Fura Alkatrészt?"
 "[english]RefurbishItem_RemoveStrangePartTitle"	"Remove Strange Part?"
-"RefurbishItem_RemoveStrangePart"	"Eltávolítod a(z) \"%confirm_dialog_token%\" statisztikát számláló Fura Alkatrészt erről a tárgyról? (A Fura Alkatrész el fog veszni.)"
+"RefurbishItem_RemoveStrangePart"	"Eltávolítod a(z) „%confirm_dialog_token%” statisztikát számláló Fura Alkatrészt erről a tárgyról? (A Fura Alkatrész el fog veszni.)"
 "[english]RefurbishItem_RemoveStrangePart"	"Remove the strange part tracking \"%confirm_dialog_token%\" from this item? (Strange Part will be discarded)"
 "RefurbishItem_RemoveStrangeScoresTitle"	"Nullázod a számlálókat?"
 "[english]RefurbishItem_RemoveStrangeScoresTitle"	"Reset Counters?"
@@ -14760,7 +14762,7 @@
 "[english]TF_CompanionSquare_Badge_Desc"	"You are a grizzled friendship veteran. Your blood and sweat has been poured into countless blanket fort constructions. You've fought in hundreds of harrowing pillow wars. Let this Friends Forever badge be a reminder to all that you know what it means to be a bro."
 "TF_ThreeA_Badge"	"Három A-s Jelvény"
 "[english]TF_ThreeA_Badge"	"Triple A Badge"
-"TF_ThreeA_Badge_Desc"	"Az \"a\" remek betű. Annyira szeretjük, hogy egy jelvényre is rányomtuk. És mivel ez a gázmaszkos fickó is nagyon tetszett, ezért őt is rátettük. Bízunk a megérzéseinkben; remekül néz ki. Valami azt súgja, hogy a következő kiadott tárgyunk... valamiféle sapka lesz. Igen. Elég biztosak vagyunk benne."
+"TF_ThreeA_Badge_Desc"	"Az „a” remek betű. Annyira szeretjük, hogy egy jelvényre is rányomtuk. És mivel ez a gázmaszkos fickó is nagyon tetszett, ezért őt is rátettük. Bízunk a megérzéseinkben; remekül néz ki. Valami azt súgja, hogy a következő kiadott tárgyunk... valamiféle sapka lesz. Igen. Elég biztosak vagyunk benne."
 "[english]TF_ThreeA_Badge_Desc"	"The letter \"a\" is a great letter. We like it so much, we stuck it on a badge. And we thought this gas mask guy looked neat, so we put him on there too. We're going with our guts; it's working out pretty well. Our guts feel like the next item we ship will be...a hat of some kind. Yeah. We're feeling really good about this."
 "TF_COH2_Heavy"	"A Nehéztüzér Tiszti Sapkája"
 "[english]TF_COH2_Heavy"	"The Heavy Artillery Officer's Cap"
@@ -14898,7 +14900,7 @@ A győzelemhez teljesítsétek az összes hullámot!"
 "[english]default_mvm_description"	"Objective:
 Defend against the invading robots.
 Complete all waves for victory!"
-"cp_coldfront_description"	"\"Icarus\" által készített közösségi pálya.
+"cp_coldfront_description"	"'Icarus' által készített közösségi pálya.
 
 Feladat:
 A győzelemhez az egyik csapatnak kell birtokolnia mind az öt ellenőrzőpontot.
@@ -14936,8 +14938,8 @@ To get inside the keep, capture Control Point A and B.  Capture Control Point C 
 
 Other Notes:
 Honorable hand to sword combat only!"
-"cp_fastlane_description"	"\"skdr\" által készített közösségi pálya.
-  
+"cp_fastlane_description"	"'skdr' által készített közösségi pálya.
+ 
 Feladat:
 A győzelemhez az egyik csapatnak kell birtokolnia mind az öt ellenőrzőpontot.
 
@@ -14984,7 +14986,7 @@ To win, each team must own all five Control Points.
 
 Other Notes:
 Control Points cannot be captured while they are locked."
-"cp_manor_event_description"	"\"YM\" és \"Rexy\" által készített közösségi pálya.
+"cp_manor_event_description"	"'YM' és 'Rexy' által készített közösségi pálya.
 
 Feladat:
 A RED csapat győz, ha megvédik ellenőrzőpontjukat. A BLU csapat győz, ha az idő lejárta előtt elfoglalja az összes ellenőrzőpontot.
@@ -14998,7 +15000,7 @@ RED team wins by defending their Control Points. BLU team wins by capturing all 
 
 Other Notes:
 Control Points cannot be captured while they are locked. RED team cannot regain control of a point once BLU has captured it."
-"cp_mountainlab_description"	"\"3Dnj\" által készített közösségi pálya.
+"cp_mountainlab_description"	"'3Dnj' által készített közösségi pálya.
 
 Feladat:
 A RED csapat győz, ha megvédik ellenőrzőpontjukat. A BLU csapat győz, ha az idő lejárta előtt elfoglalja az összes ellenőrzőpontot.
@@ -15032,7 +15034,7 @@ To win a point, steal the enemy's intelligence briefcase and return it to your b
 
 Other Notes:
 Players drop the intelligence when they die. Dropped intelligence returns to its Base after 60 seconds."
-"ctf_turbine_description"	"\"Flobster\" által készített közösségi pálya.
+"ctf_turbine_description"	"'Flobster' által készített közösségi pálya.
 
 Feladat:
 Pontszerzéshez lopjátok el az ellenség információs táskáját és vigyétek a bázisotokra.
@@ -15460,7 +15462,7 @@ Control Points cannot be captured while they are locked."
 "[english]RefurbishItem_RemoveCraftIndexCombo"	"Remove Craft Number"
 "RefurbishItem_RemoveMakersMarkCombo"	"Barkácsoló nevének eltávolítása"
 "[english]RefurbishItem_RemoveMakersMarkCombo"	"Remove Crafter Name"
-"RefurbishItem_RemoveStrangePartCombo"	"'%s1' Fura Alkatrész eltávolítása"
+"RefurbishItem_RemoveStrangePartCombo"	"„%s1” Fura Alkatrész eltávolítása"
 "[english]RefurbishItem_RemoveStrangePartCombo"	"Remove Strange Part '%s1'"
 "RefurbishItem_RemoveStrangeScoresCombo"	"Fura számlálók nullázása"
 "[english]RefurbishItem_RemoveStrangeScoresCombo"	"Reset Strange Score Counters"
@@ -15520,7 +15522,7 @@ Control Points cannot be captured while they are locked."
 "[english]TF_GrandDuchessTiara_Desc"	"Celebrate the life of Grand Duchess Anastasia Nikolaevna with this somber historical costume. Enjoy this replica of the tiara she wore while governing Russia from atop her hundred-foot-tall gumdrop throne."
 "TF_DeadLittleBuddy"	"A Kis Halott Haver"
 "[english]TF_DeadLittleBuddy"	"The Dead Little Buddy"
-"TF_DeadLittleBuddy_Desc"	"Kutyák, takarodó, új \"az ember legjobb barátja\" van a piacon. Szellem-kedvenced garantáltan hűséges (mivel halott, így nem ismer senki mást), kedves a gyerekekhez (mivel ő is az volt), és háziasítva van (a szellemek nem kakálnak)."
+"TF_DeadLittleBuddy_Desc"	"Kutyák, takarodó, új „az ember legjobb barátja” van a piacon. Szellem-kedvenced garantáltan hűséges (mivel halott, így nem ismer senki mást), kedves a gyerekekhez (mivel ő is az volt), és háziasítva van (a szellemek nem kakálnak)."
 "[english]TF_DeadLittleBuddy_Desc"	"Take a hike, dogs--there's a new Man's Best Friend on the market. Your pet ghost is guaranteed to be loyal (he's dead! He doesn't know anybody else!), great around children (he used to be one!), and house-trained (ghosts don't poop)."
 "TF_VoodooJuJu"	"A Vudu JuJu (Kis visszatérés)"
 "[english]TF_VoodooJuJu"	"The Voodoo JuJu (Slight Return)"
@@ -15672,7 +15674,7 @@ Control Points cannot be captured while they are locked."
 "[english]RefurbishItem_RemoveSpellTitle"	"Remove Spell?"
 "RefurbishItem_RemoveSpellCombo"	"'%s1' varázslat eltávolítása"
 "[english]RefurbishItem_RemoveSpellCombo"	"Remove Spell '%s1'"
-"RefurbishItem_RemoveSpellUpgrade"	"Eltávolítod a(z) \"%confirm_dialog_token%\" hatású varázslatot erről a tárgyról? (A varázslat eldobásra kerül.)"
+"RefurbishItem_RemoveSpellUpgrade"	"Eltávolítod a(z) „%confirm_dialog_token%” hatású varázslatot erről a tárgyról? (A varázslat eldobásra kerül.)"
 "[english]RefurbishItem_RemoveSpellUpgrade"	"Remove the spell granting \"%confirm_dialog_token%\" from this item? (Spell will be discarded)"
 "ToolCardUpgradeApplyConfirm"	"Biztosan használni szeretnéd ezt a varázslatot ezen a tárgyon?\nA varázslatok a halloweeni esemény végéig, 2014. november\n12-ig tartanak.\n\nNe feledd: egy tárgy csak korlátozott számú varázslattal\nbírhat. A választott %subject_item_def_name% tárgyadnak még %remaining_upgrade_card_slots% üres %slot_singular_plural%e van."
 "[english]ToolCardUpgradeApplyConfirm"	"Are you sure you want to cast this spell on this item? All spells\nwill only last until the Halloween event ends on November\n12th, 2014.\n\nRemember: a single item can only hold a limited number of\nspells. Your %subject_item_def_name% has %remaining_upgrade_card_slots% free %slot_singular_plural% remaining."
@@ -16166,7 +16168,7 @@ MERASMUS! will reset ownership of the Control Point while he is lurking about."
 "[english]TF_HM_DisguiseHat_Desc"	"Go incognito with this sunglasses and leather cap combo, the perfect disguise for infiltrating Huggy Bear lookalike conventions."
 "TF_HM_SoldierHat"	"A Főfelügyelő"
 "[english]TF_HM_SoldierHat"	"The Chief Constable"
-"TF_HM_SoldierHat_Desc"	"Ez a legjobb termék a SpyTech \"Scotland Yard\" álruhakészlete óta, amivel úgy tehetsz, mintha brit rendőrtiszt lennél."
+"TF_HM_SoldierHat_Desc"	"Ez a legjobb termék a SpyTech „Scotland Yard” álruhakészlete óta, amivel úgy tehetsz, mintha brit rendőrtiszt lennél."
 "[english]TF_HM_SoldierHat_Desc"	"The best product to let you pretend to be a British police officer since SpyTech's \"Scotland Yard\" backyard disguise kit."
 "TF_HM_Shirt"	"A Szofisztikált Szibériai"
 "[english]TF_HM_Shirt"	"The Siberian Sophisticate"
@@ -16530,13 +16532,13 @@ MERASMUS! will reset ownership of the Control Point while he is lurking about."
 "[english]TF_IndividualUberchargesMinHUD"	"%charge_count%"
 "RefurbishItem_RemoveStrangeFilterTitle"	"Eltávolítod a szűrőt?"
 "[english]RefurbishItem_RemoveStrangeFilterTitle"	"Remove Filter?"
-"RefurbishItem_RemoveStrangeFilterCombo"	"'%s1' szűrőjének eltávolítása"
+"RefurbishItem_RemoveStrangeFilterCombo"	"„%s1” szűrőjének eltávolítása"
 "[english]RefurbishItem_RemoveStrangeFilterCombo"	"Remove Filter From '%s1'"
-"RefurbishItem_RemoveStrangeFilter"	"Eltávolítod a(z) \"%confirm_dialog_token%\" statisztika fura szűrőjét erről a tárgyról? (A Fura Szűrő eldobásra kerül.)"
+"RefurbishItem_RemoveStrangeFilter"	"Eltávolítod a(z) „%confirm_dialog_token%” statisztika fura szűrőjét erről a tárgyról? (A Fura Szűrő eldobásra kerül.)"
 "[english]RefurbishItem_RemoveStrangeFilter"	"Remove the strange filter from stat \"%confirm_dialog_token%\" on this item? (Strange Filter will be discarded)"
 "ApplyStrangeRestrictionPartTitle"	"Alkalmazod a pontszámszűrőt?"
 "[english]ApplyStrangeRestrictionPartTitle"	"Apply Score Filter?"
-"ApplyStrangeRestrictionCombo"	"Alkalmazás ezen: '%s1'"
+"ApplyStrangeRestrictionCombo"	"Alkalmazás ezen: „%s1”"
 "[english]ApplyStrangeRestrictionCombo"	"Apply to '%s1'"
 "ToolStrangeRestrictionApplyConfirm"	"Biztosan hozzá szeretnéd adni ezt a Fura Szűrőt\nehhez a tárgyhoz?\n\nA(z) „%stat_name%” statisztika jelenlegi\nállása 0-ra változik majd. Ha ezt a statisztikát egy Fura Alkatrész\nadta hozzá, a szűrőt nem távolíthatod majd el a\nFura Alkatrész eltávolítása nélkül."
 "[english]ToolStrangeRestrictionApplyConfirm"	"Are you sure you want to add this Strange Filter to\nthis item?\n\nThe current score for your '%stat_name%'\nstat will be reset to 0. If this stat was added via a Strange\nPart, you will not be able to remove the Filter without also\nremoving the Strange Part."
@@ -20342,11 +20344,11 @@ Control Points cannot be captured while they are locked."
 "[english]TF_TournamentMedal_ETF2L_Season17"	"Season 17"
 "TF_MaschinensoldatenHelm"	"Der Maschinensoldaten-Helm"
 "[english]TF_MaschinensoldatenHelm"	"Der Maschinensoldaten-Helm"
-"TF_MaschinensoldatenHelm_Desc"	"Ahogy a mondás tartja: \"Aki elfelejti az alternatív múltat, arra van kárhoztatva, hogy megismételje azt.\" Mivel mindenképp újra kell csinálnod, miért ne dobnád fel a dolgokat egy gonosz robot jelmezzel?"
+"TF_MaschinensoldatenHelm_Desc"	"Ahogy a mondás tartja: „Aki elfelejti az alternatív múltat, arra van kárhoztatva, hogy megismételje azt.” Mivel mindenképp újra kell csinálnod, miért ne dobnád fel a dolgokat egy gonosz robot jelmezzel?"
 "[english]TF_MaschinensoldatenHelm_Desc"	"As the saying goes, \"Those who cannot remember the alternate past are condemned to repeat it.\" Since you have to do it again anyway, why not liven things up with an evil robot costume?"
 "TF_RegimePanzerung"	"Die Regime-Panzerung"
 "[english]TF_RegimePanzerung"	"Die Regime-Panzerung"
-"TF_RegimePanzerung_Desc"	"Ahogy a mondás tartja: \"Aki elfelejti az alternatív múltat, arra van kárhoztatva, hogy megismételje azt.\" Mivel mindenképp újra kell csinálnod, miért ne dobnád fel a dolgokat egy gonosz robot jelmezzel?"
+"TF_RegimePanzerung_Desc"	"Ahogy a mondás tartja: „Aki elfelejti az alternatív múltat, arra van kárhoztatva, hogy megismételje azt.” Mivel mindenképp újra kell csinálnod, miért ne dobnád fel a dolgokat egy gonosz robot jelmezzel?"
 "[english]TF_RegimePanzerung_Desc"	"As the saying goes, \"Those who cannot remember the alternate past are condemned to repeat it.\" Since you have to do it again anyway, why not liven things up with an evil robot costume?"
 "TF_TournamentMedal_LBTF2_6v6_Elite_1st"	"LBTF2 6v6 Elite 1. helyezett"
 "[english]TF_TournamentMedal_LBTF2_6v6_Elite_1st"	"LBTF2 6v6 Elite 1st Place"
@@ -20812,7 +20814,7 @@ Control Points cannot be captured while they are locked."
 "[english]Attrib_ExtraRocketsOnKill"	"Clip size increased on kill"
 "Attrib_Summer2014Tag"	"A 2014-es Nyári Kalandon való részvételért kaptad"
 "[english]Attrib_Summer2014Tag"	"Rewarded for participating in the 2014 Summer Adventure."
-"Attrib_CrateGenerationCode"	"Ládasorozat-kód: '%s1'"
+"Attrib_CrateGenerationCode"	"Ládasorozat-kód: „%s1”"
 "[english]Attrib_CrateGenerationCode"	"Crate generation code: '%s1'"
 "Attrib_Revive"	"Csapattagok újraélesztése"
 "[english]Attrib_Revive"	"Revive Teammates"

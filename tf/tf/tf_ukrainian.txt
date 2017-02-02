@@ -9013,7 +9013,7 @@
 "[english]TF_REPLAY_BROWSE_REPLAYS_DESC"	"Render a replay into a movie."
 "TF_REPLAY_EDIT_TIME_NAME"	"Зірка власного шоу"
 "[english]TF_REPLAY_EDIT_TIME_NAME"	"Star of My Own Show"
-"TF_REPLAY_EDIT_TIME_DESC"	"Витратіть трохи часу на редагування повтору."
+"TF_REPLAY_EDIT_TIME_DESC"	"Витратьте трохи часу на редагування повтору."
 "[english]TF_REPLAY_EDIT_TIME_DESC"	"Spend some time editing a replay."
 "TF_REPLAY_YOUTUBE_VIEWS_TIER1_NAME"	"Сімейне відео"
 "[english]TF_REPLAY_YOUTUBE_VIEWS_TIER1_NAME"	"Home Movie"

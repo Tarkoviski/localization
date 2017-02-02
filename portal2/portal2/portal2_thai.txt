@@ -1,4 +1,4 @@
-"lang"
+﻿"lang"
 {
 "Language"	"thai"
 "Tokens"
@@ -979,7 +979,7 @@
 "[english]Store_ClassImageMouseoverBundle"	"This bundle contains items that can be used by %s1."
 "Store_Zoom"	"ซูม"
 "[english]Store_Zoom"	"Zoom"
-"Store_StartShopping"	"เริ่มหาซื้อ"
+"Store_StartShopping"	"เริ่มเลือกซื้อ"
 "[english]Store_StartShopping"	"START SHOPPING"
 "Store_FilterLabel"	"แสดง:"
 "[english]Store_FilterLabel"	"SHOW:"

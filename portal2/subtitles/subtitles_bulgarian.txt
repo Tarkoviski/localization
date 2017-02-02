@@ -1,4 +1,4 @@
-"lang"
+﻿"lang"
 {
 "Language"	"bulgarian"
 "Tokens"
@@ -45,6 +45,10 @@
 "[english]core01.babble83"	"<clr:255,201,4>Core 1: Space!"
 "core01.babble98"	"<clr:255,201,4>Ядро 1: Космос!"
 "[english]core01.babble98"	"<clr:255,201,4>Core 1: Space!"
+"core01.space21"	"<clr:255,201,4>Ядро 1: КОССССМОООС!"
+"[english]core01.space21"	"<clr:255,201,4>Core 1: SPAAACCCCCE!"
+"core01.space22"	"<clr:255,201,4>Ядро 1: КОСМОООС!"
+"[english]core01.space22"	"<clr:255,201,4>Core 1: SPAAACE!"
 "core01.space24"	"<clr:255,201,4>Ядро 1: Ах!"
 "[english]core01.space24"	"<clr:255,201,4>Core 1: Ah!"
 "core03.encouragement02"	"<clr:30,193,13>Ядро 2: Да! Яко!"

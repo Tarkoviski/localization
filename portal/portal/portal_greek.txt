@@ -1,4 +1,4 @@
-"lang"
+﻿"lang"
 {
 "Language"	"greek"
 "Tokens"
@@ -333,7 +333,7 @@
 "[english]portal_lyrics_38"	"As they burned "
 "portal_lyrics_39"	"πονούσε επειδή"
 "[english]portal_lyrics_39"	"it hurt because"
-"portal_lyrics_40"	"Ήμουν τόσο χαρούμενη για σένα!"
+"portal_lyrics_40"	"ήμουν τόσο χαρούμενη για σένα!"
 "[english]portal_lyrics_40"	"I was so happy for you!"
 "portal_lyrics_41"	"Τώρα αυτά τα δεδομένα"
 "[english]portal_lyrics_41"	"Now these points of data"
