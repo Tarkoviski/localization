@@ -3540,7 +3540,6 @@
 "dota_hud_error_cant_toss"	"Nuthin' T' Toss"
 "dota_hud_error_queue_full"	"Order Line be Pack'd"
 "DOTA_RP_FINDING_MATCH"	"Scourin' Fer A Battle"
-"dota_item_build_title_default"	"ADVISED LOOT"
 "dota_item_build_default"	"Usual Loot Build"
 "DOTA_Tooltip_ability_life_stealer_open_wounds_slow_tooltip"	"%MAX SLOW:"
 "DOTA_Tooltip_ability_morphling_morph_agi_morph_cooldown"	"SHIFT RATE:"

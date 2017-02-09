@@ -12690,7 +12690,7 @@
 "[english]TF_GRFS_1_Desc"	"This purely cosmetic battlefield awareness accessory will fool everyone from the lowliest private to the mayor of the army into thinking you're probably in the army too."
 "TF_GRFS_2"	"Ekspres Cross-Comm"
 "[english]TF_GRFS_2"	"The Cross-Comm Express"
-"TF_GRFS_2_Desc"	"Ten wszechstronny bitewny okular odbiera sygnaly przesyłane z prędkością światła z satelity. Może cię to zmusić do zmniejszenia prędkości, by mogły nadążyć."
+"TF_GRFS_2_Desc"	"Ten wszechstronny bitewny okular odbiera sygnały przesyłane z prędkością światła z satelity. Może cię to zmusić do zmniejszenia prędkości, by mogły nadążyć."
 "[english]TF_GRFS_2_Desc"	"This full spectrum battle monocle receives signals from a satellite at light speed, which means you may have to slow down a little so they can catch up to you."
 "TF_GRFS_3"	"Cross-Commfort"
 "[english]TF_GRFS_3"	"The Doublecross-Comm"

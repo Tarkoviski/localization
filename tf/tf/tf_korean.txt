@@ -12197,7 +12197,7 @@
 "[english]Tip_5_31"	"As a Medic, the Overdose increases your speed proportionally to the amount in your ÜberCharge meter! Equip the Overdose when you need to reach the front lines or make a quick escape!"
 "Tip_6_7"	"상처를 치료하려면 샌드비치를 사용하십시오! %attack2% 단추로 샌드비치를 바닥에 투척하여 아군 플레이어가 체력을 회복할 수 있도록 도우십시오. 걱정 마십시오. 샌드비치가 더럽혀지지 않도록 접시가 함께 제공됩니다!"
 "[english]Tip_6_7"	"As a Heavy, use your Sandvich to heal up! Use %attack2% to throw it on the ground for friendly players to pick up as health. Don't worry, it comes with a plate to keep it clean."
-"Tip_6_13"	"헤비의 G.R.U.는 이동 속도를 상당히 많이 향상시켜 주지만 사용하고 있는 동안 소형 치명타로 피해를 입게 됩니다. 이동 속도 상승 효과를 이용하여 전선에 재빨리 도착하거나 적을 기습하십시오."
+"Tip_6_13"	"헤비의 G.R.U.로 이동 속도가 상당히 많이 증가하지만, 사용하는 동안은 소형 치명타로 피해를 받습니다. 이동 속도 증가 효과를 이용하여 전선에 재빨리 도착하거나 적을 기습하십시오."
 "[english]Tip_6_13"	"As a Heavy, the Gloves of Running Urgently increase your speed dramatically but you take mini-crits while using them.  Use the speed bonus to quickly reach the frontlines or to ambush enemies."
 "Tip_6_14"	"헤비의 황동 야수는 추가 피해를 줄 수 있지만 사격하는 동안에는 기동성이 떨어집니다. 달아나는 적을 확실하게 뒤쫓는 일이 어려우므로, 방어적인 전략을 구사할 경우에 사용하십시오."
 "[english]Tip_6_14"	"As a Heavy, the Brass Beast inflicts additional damage but decreases your mobility while in use. Use it when playing defensively, as you will find it more difficult to successfully pursue fleeing enemies."
