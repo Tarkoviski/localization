@@ -20,4 +20,4 @@ This repo contains the latest approved translations on [Steam Translation Server
  * subtitles
  * subtitles_dlc1
 
-Last updated: 2017-02-02 10:35:48
+Last updated: 2017-02-09 21:16:02
