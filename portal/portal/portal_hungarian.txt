@@ -1,4 +1,4 @@
-﻿"lang"
+"lang"
 {
 "Language"	"hungarian"
 "Tokens"
@@ -209,7 +209,7 @@
 "[english]PORTAL_BEAT_GAME_DESC"	"Complete Portal."
 "PORTAL_INFINITEFALL_NAME"	"Végsebesség"
 "[english]PORTAL_INFINITEFALL_NAME"	"Terminal Velocity"
-"PORTAL_INFINITEFALL_DESC"	"Zuhanj 10000 métert."
+"PORTAL_INFINITEFALL_DESC"	"Zuhanj 10 000 métert."
 "[english]PORTAL_INFINITEFALL_DESC"	"Fall 30,000 feet."
 "PORTAL_LONGJUMP_NAME"	"Távolugrás"
 "[english]PORTAL_LONGJUMP_NAME"	"Long Jump"
