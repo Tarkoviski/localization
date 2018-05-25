@@ -1,40 +1,10 @@
-﻿"lang"
+"lang"
 {
 "Language"	"schinese"
 "Tokens"
 {
-"quest25000desc0"	"************
-
-曼恩公司合同传真系统 1.54.45 
-
-您有 1 条新信息 
-信息-编号：<915宝琳> 
-
-处理中… 
-
-************ 
-
-侦察兵？我是宝琳。我猜你一定在说话，请安静下来。这不是私人电话，你有任务了。
-
-<传输结束> 
-
-***********"
-"[english]quest25000desc0"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-
-SCOUT? IT'S PAULING. I'M ASSUMING YOU'RE TALKING RIGHT NOW, PLEASE STOP. THIS ISN'T A SOCIAL CALL. I'VE GOT WORK.
-
-<END TRANSCRIPT>
-
-************"
+"quest25000desc0"	"使用侦察兵完成一系列任务来完成此合同。"
+"[english]quest25000desc0"	"Complete various tasks as Scout to complete this contract."
 "quest25000desc1"	"************
 
 曼恩公司合同传真系统 1.54.45
@@ -111,6 +81,8 @@ HEY, SCOUT. IT'S PAULING. I, UH, GOT YOUR PHONE MESSAGE. MESSAGES. ALL OF THEM. 
 "[english]quest25000objectivedesc4"	"Kill as Scout: %s1"
 "quest25000objectivedesc5"	"侦察兵消灭医生：%s1"
 "[english]quest25000objectivedesc5"	"Kill a Medic as Scout: %s1"
+"quest25001desc0"	"你需要使用士兵完成一系列任务来完成此合同。"
+"[english]quest25001desc0"	"You will be required to complete various tasks as Soldier to complete this contract."
 "quest25001desc1"	"************
 
 曼恩公司合同传真系统 1.54.45 
@@ -139,6 +111,102 @@ PROCESSING...
 ************
 
 SOLDIER? IT'S PAULING, SON. YOUR COUNTRY NEEDS YOU. SHOW THESE MAGGOTS HOW IT'S DONE.
+
+<END TRANSCRIPT>
+
+************"
+"quest25001desc2"	"************
+
+曼恩公司合同传真系统 1.54.45
+
+您有 1 条新信息 
+信息-编号：<915宝琳>
+
+处理中…
+
+************
+
+立正，士兵。代号阿尔法。代号罗密欧。零点机密军队发声了。我有个活要找你干，士兵。让我感到骄傲吧，孩子。
+
+<传输结束>
+
+************"
+"[english]quest25001desc2"	"************
+
+MANNCO CONTRACT CALL-TO-FAX 1.54.45
+
+YOU HAVE 1 NEW CALL 
+MESSAGE-ID: <915PAULING>
+
+PROCESSING...
+
+************
+
+TEN HUT, SOLDIER. ALPHA. ROMEO. ZERO DARK ARMY WORDS. I'VE GOT A JOB FOR YOU, SOLDIER. MAKE ME PROUD, SON.
+
+<END TRANSCRIPT>
+
+************"
+"quest25001desc3"	"************
+
+曼恩公司合同传真系统 1.54.45
+
+您有 1 条新信息 
+信息-编号：<915宝琳>
+
+处理中…
+
+************
+
+要不是这个任务要保持最高程度的机密，你就会因此摇身一变成为英雄了，孩子。有游街。有奖章。还能留下向他们炫耀的照片。
+
+<传输结束>
+
+************"
+"[english]quest25001desc3"	"************
+
+MANNCO CONTRACT CALL-TO-FAX 1.54.45
+
+YOU HAVE 1 NEW CALL 
+MESSAGE-ID: <915PAULING>
+
+PROCESSING...
+
+************
+
+IF THIS MISSION WEREN'T MAXIMUM DENIABILITY, YOU'D BE A HERO FOR THIS, SON. THERE WOULD BE A PARADE. AND MEDALS. WITH PICTURES OF THE PARADE ON THEM.
+
+<END TRANSCRIPT>
+
+************"
+"quest25001desc4"	"************
+
+曼恩公司合同传真系统 1.54.45
+
+您有 1 条新信息 
+信息-编号：<915宝琳>
+
+处理中…
+
+************
+
+士兵，我需要你，还需要胡椒罐皮特、咸皮特和胡椒裤皮特尔 -- 该死，把你的硬纸板朋友们都带叫来干活。
+
+<传输结束>
+
+************"
+"[english]quest25001desc4"	"************
+
+MANNCO CONTRACT CALL-TO-FAX 1.54.45
+
+YOU HAVE 1 NEW CALL 
+MESSAGE-ID: <915PAULING>
+
+PROCESSING...
+
+************
+
+SOLDIER, I NEED YOU, AND PEPPER POT PETE, AND SALTY PETE, AND PETER PEPPER PANTS -- HELL, ALL YOUR CARDBOARD FRIENDS ON THIS ONE. 
 
 <END TRANSCRIPT>
 
@@ -203,38 +271,8 @@ SOLDIER, YOU KNOW WHO DOESN'T WANT YOU TO TAKE THIS JOB? HIPPIES. COMMUNISTS. TO
 "[english]quest25001objectivedesc8"	"Heal 200 damage as Soldier: %s1"
 "quest25001objectivedesc9"	"士兵消灭医生：%s1"
 "[english]quest25001objectivedesc9"	"Medics killed as Soldier: %s1"
-"quest25002desc0"	"************
-
-曼恩公司合同传真系统 1.54.45
-
-您有 1 条新信息 
-信息-编号：<915宝琳>
-
-处理中…
-
-************
-
-嘿，喷火兵！我有事找你做，哥们帮个忙吧？
-
-<传输结束>
-
-************"
-"[english]quest25002desc0"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-
-HI, PYRO! I'VE GOT SOMETHING I NEED YOU TO DO, OKAY, BUDDY?
-
-<END TRANSCRIPT>
-
-************"
+"quest25002desc0"	"你需要使用火焰兵完成一系列任务来完成此合同。"
+"[english]quest25002desc0"	"You will be required to complete various tasks as Pyro to complete this contract."
 "quest25002desc1"	"************
 
 曼恩公司合同传真系统 1.54.45
@@ -267,6 +305,38 @@ HEY, PYRO! YOU WANNA DO A REAL BIG FAVOR FOR MISS PAULING?
 <END TRANSCRIPT>
 
 ************"
+"quest25002desc2"	"************
+
+曼恩公司合同传真系统 1.54.45
+
+您有 1 条新信息 
+信息-编号：<915宝琳>
+
+处理中…
+
+************
+
+嘿，喷火兵！[手捂住嘴发出地瓮声瓮气的声音，00:07] 一直想这样试试呢。我希望刚才话语里有提到交给你的活，因为我有活要找你干。
+
+<传输结束>
+
+************"
+"[english]quest25002desc2"	"************
+
+MANNCO CONTRACT CALL-TO-FAX 1.54.45
+
+YOU HAVE 1 NEW CALL 
+MESSAGE-ID: <915PAULING>
+
+PROCESSING...
+
+************
+
+HEY, PYRO! [SOUNDS OF MUFFLED VOICE WITH HAND OVER MOUTH, 00:07] ALWAYS WANTED TO TRY THAT. I HOPE I JUST SAID I HAVE A JOB FOR YOU, BECAUSE I HAVE A JOB FOR YOU.
+
+<END TRANSCRIPT>
+
+************"
 "quest25002name0"	"火焰兵合同"
 "[english]quest25002name0"	"Pyro Contract"
 "quest25002objectivedesc0"	"火焰兵获得分数：%s1"
@@ -281,23 +351,25 @@ HEY, PYRO! YOU WANNA DO A REAL BIG FAVOR FOR MISS PAULING?
 "[english]quest25002objectivedesc4"	"Ignite an invisible or disguised Spy as Pyro: %s1"
 "quest25002objectivedesc5"	"火焰兵消灭敌人：%s1"
 "[english]quest25002objectivedesc5"	"Kill as Pyro: %s1"
-"quest25003desc0"	"************
+"quest25003desc0"	"你需要使用爆破手完成一系列任务来完成此合同。"
+"[english]quest25003desc0"	"You will be required to complete various tasks as Demoman to complete this contract."
+"quest25003desc1"	"************
 
-曼恩公司合同传真系统 1.54.45 
+曼恩公司合同传真系统 1.54.45
 
 您有 1 条新信息 
-信息-编号：<915宝琳> 
+信息-编号：<915宝琳>
 
-处理中… 
+处理中…
 
-************ 
+************
 
-爆破手，我跟你娘刚通过电话，她说你干的活太少，所以我又给你加了一个任务。我不骗你，你娘很生气。
+爆破手，我是宝琳。瞪大你的双眼。单 [00:03 沉默] 单眼。随便你用哪只眼看了。让它 [00:03 沉默] 让它看着这个就好。
 
-<传输结束> 
+<传输结束>
 
-***********"
-"[english]quest25003desc0"	"************
+************"
+"[english]quest25003desc1"	"************
 
 MANNCO CONTRACT CALL-TO-FAX 1.54.45
 
@@ -308,7 +380,7 @@ PROCESSING...
 
 ************
 
-HEY, DEMO. I WAS ON THE PHONE WITH YOUR MOM, SHE SAID YOU DIDN'T HAVE ENOUGH JOBS, SO I GOT YOU AN EXTRA ONE. I WON'T LIE, SHE SOUNDED ANGRY.
+DEMO, IT'S PAULING. PLANT YOUR EYEBALLS ON THIS. EYE [00:03 SILENCE] EYEBALL. WHATEVER YOU SEE WITH. MAKE IT [00:03 SILENCE] MAKE IT LOOK AT THIS.
 
 <END TRANSCRIPT>
 
@@ -455,6 +527,8 @@ HEY DEMO. THIS JOB IS FOR YOUR EYES ONLY. EYE. I MEAN [00:03 SILENCE] YOU GET IT
 "[english]quest25003objectivedesc4"	"Get a kill as Demoman: %s1"
 "quest25003objectivedesc5"	"用盾牌撞击敌人：%s1"
 "[english]quest25003objectivedesc5"	"Bash an enemy with a shield: %s1"
+"quest25004desc0"	"你需要使用机枪手完成一系列任务来完成此合同。"
+"[english]quest25004desc0"	"You will be required to complete various tasks as Heavy to complete this contract."
 "quest25004desc1"	"************
 
 曼恩公司合同传真系统 1.54.45
@@ -487,6 +561,38 @@ HEAVY, IT'S PAULING. I KNOW YOU'RE WORKING, SO YOU'RE PROBABLY KILLING [00:03 SI
 <END TRANSCRIPT>
 
 ************"
+"quest25004desc2"	"************
+
+曼恩公司合同传真系统 1.54.45
+
+您有 1 条新信息 
+信息-编号：<915宝琳>
+
+处理中…
+
+************
+
+机枪手。我要你悄无声息地完成这个。 [00:04 沉默] 好吧，你每次都能做到悄无声息。这次再小声点。
+
+<传输结束>
+
+************"
+"[english]quest25004desc2"	"************
+
+MANNCO CONTRACT CALL-TO-FAX 1.54.45
+
+YOU HAVE 1 NEW CALL 
+MESSAGE-ID: <915PAULING>
+
+PROCESSING...
+
+************
+
+HEAVY. I NEED YOU TO KEEP QUIET ON THIS. [00:04 SILENCE] WELL, YOU'RE ALWAYS QUIET. QUIETER.
+
+<END TRANSCRIPT>
+
+************"
 "quest25004name0"	"机枪手合同"
 "[english]quest25004name0"	"Heavy Contract"
 "quest25004objectivedesc0"	"机枪手获得分数：%s1"
@@ -503,6 +609,40 @@ HEAVY, IT'S PAULING. I KNOW YOU'RE WORKING, SO YOU'RE PROBABLY KILLING [00:03 SI
 "[english]quest25004objectivedesc5"	"Take 1000 damage in a single life as Heavy: %s1"
 "quest25004objectivedesc6"	"机枪手消灭敌人：%s1"
 "[english]quest25004objectivedesc6"	"Get a kill as Heavy: %s1"
+"quest25005desc0"	"你需要使用工程师完成一系列任务来完成此合同。"
+"[english]quest25005desc0"	"You will be required to complete various tasks as Engineer to complete this contract."
+"quest25005desc1"	"************
+
+曼恩公司合同传真系统 1.54.45
+
+您有 1 条新信息 
+信息-编号：<915宝琳>
+
+处理中…
+
+************
+
+工程师，你那边的仓库有没有什么可以液化 [00:03 沉默] 等一下 [00:04 沉默] 姑且说刚才出现了八十具尸体吧？我的刀废了。话说回来，你好好想想。我搞了个活来。
+
+<传输结束>
+
+************"
+"[english]quest25005desc1"	"************
+
+MANNCO CONTRACT CALL-TO-FAX 1.54.45
+
+YOU HAVE 1 NEW CALL 
+MESSAGE-ID: <915PAULING>
+
+PROCESSING...
+
+************
+
+ENGIE, YOU GOT ANYTHING IN YOUR WAREHOUSE THAT CAN LIQUIFY ABOUT [00:03 SILENCE] HOLD ON [00:04 SILENCE]  LET'S CALL IT EIGHTY BODIES? MY CHIPPER-SHREDDER'S BACKED UP. ANYWAY, THINK ABOUT IT. I'VE GOT A JOB.
+
+<END TRANSCRIPT>
+
+************"
 "quest25005desc2"	"************
 
 曼恩公司合同传真系统 1.54.45
@@ -573,7 +713,7 @@ ENGIE, IT'S PAULING. IS SCOUT THERE? COUGH IF HE'S THERE. I'VE GOT A JOB FOR YOU
 "[english]quest25005objectivedesc0"	"Score points as Engineer: %s1"
 "quest25005objectivedesc1"	"一座步哨枪积累 5 个杀敌：%s1"
 "[english]quest25005objectivedesc1"	"Get 5 kills with a single Sentry: %s1"
-"quest25005objectivedesc2"	"步哨枪消灭敌人：%s1"
+"quest25005objectivedesc2"	"步哨枪杀敌：%s1"
 "[english]quest25005objectivedesc2"	"Get a kill with a Sentry: %s1"
 "quest25005objectivedesc3"	"传送队友：%s1"
 "[english]quest25005objectivedesc3"	"Teleport a teammate: %s1"
@@ -581,38 +721,8 @@ ENGIE, IT'S PAULING. IS SCOUT THERE? COUGH IF HE'S THERE. I'VE GOT A JOB FOR YOU
 "[english]quest25005objectivedesc4"	"Get a kill as Engineer: %s1"
 "quest25005objectivedesc5"	"用补给器为队友治疗 500 点生命值：%s1"
 "[english]quest25005objectivedesc5"	"Dispense 500 health to teammates: %s1"
-"quest25006desc0"	"************
-
-曼恩公司合同传真系统 1.54.45
-
-您有 1 条新信息 
-信息-编号：<915宝琳>
-
-处理中…
-
-************
-
-医生，我是宝琳。这个任务可能比较棘手。
-
-<传输结束>
-
-************"
-"[english]quest25006desc0"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-
-MEDIC, IT'S PAULING. THIS ONE MIGHT GET MESSY.
-
-<END TRANSCRIPT>
-
-************"
+"quest25006desc0"	"你需要使用医生完成一系列任务来完成此合同。"
+"[english]quest25006desc0"	"You will be required to complete various tasks as Medic to complete this contract."
 "quest25006desc1"	"************
 
 曼恩公司合同传真系统 1.54.45
@@ -641,6 +751,38 @@ PROCESSING...
 ************
 
 PAULING HERE. NOBODY'S CRAZY ENOUGH TO DO THIS BUT YOU, DOCTOR.
+
+<END TRANSCRIPT>
+
+************"
+"quest25006desc2"	"************
+
+曼恩公司合同传真系统 1.54.45
+
+您有 1 条新信息 
+信息-编号：<915宝琳>
+
+处理中…
+
+************
+
+医—生！刚才只是烘托下气氛。[00:03沉默] 真够恶趣味的，现在想想。我觉得这么喊的人通常 [00:06 沉默] 你懂的，挂了。
+
+<传输结束>
+
+************"
+"[english]quest25006desc2"	"************
+
+MANNCO CONTRACT CALL-TO-FAX 1.54.45
+
+YOU HAVE 1 NEW CALL 
+MESSAGE-ID: <915PAULING>
+
+PROCESSING...
+
+************
+
+MEDDDDDDIC! THAT WAS JUST AN IMPRESSION. [00:03 SILENCE] IN BAD TASTE, NOW THAT I THINK OF IT. I GUESS THE PEOPLE SCREAMING THAT ARE USUALLY [00:06 SILENCE] YOU KNOW, DYING.
 
 <END TRANSCRIPT>
 
@@ -719,37 +861,8 @@ HEY, DOC. IT'S PAULING. I'VE GOT A CONTRACT FOR YOU. ANYTHING GOES.
 "[english]quest25006objectivedesc2"	"Assist in destroying a sentry while Ubered: %s1"
 "quest25006objectivedesc3"	"助攻处于 Ubercharge 下的爆破手：%s1"
 "[english]quest25006objectivedesc3"	"Get an assist with an Ubered Demoman: %s1"
-"quest25007desc0"	"************
-
-曼恩公司合同传真系统 1.54.45 
-
-您有 1 条新信息 
-信息-编号：<915宝琳> 
-
-处理中… 
-
-************ 
-
-狙击手，我是宝琳。这个任务需要精准和战略眼光，我觉得很适合你。
-
-<传输结束> 
-
-***********"
-"[english]quest25007desc0"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-SNIPER? PAULING. I'VE GOT A JOB THAT NEEDS STRATEGY AND PRECISION. I THOUGHT OF YOU.
-
-<END TRANSCRIPT>
-
-************"
+"quest25007desc0"	"你需要使用狙击手完成一系列任务来完成此合同。"
+"[english]quest25007desc0"	"You will be required to complete various tasks as Sniper to complete this contract."
 "quest25007desc1"	"************
 
 曼恩公司合同传真系统 1.54.45
@@ -830,23 +943,25 @@ SNIPER. IT'S PAULING. STOP TALKING TO YOURSELF AND GET TO WORK. I'VE GOT A CONTR
 "[english]quest25007objectivedesc5"	"Kill a Sniper as Sniper: %s1"
 "quest25007objectivedesc6"	"狙击手消灭敌人：%s1"
 "[english]quest25007objectivedesc6"	"Get a kill as Sniper: %s1"
-"quest25008desc0"	"************
+"quest25008desc0"	"你需要使用间谍完成一系列任务来完成此合同。"
+"[english]quest25008desc0"	"You will be required to complete various tasks as Spy to complete this contract."
+"quest25008desc1"	"************
 
-曼恩公司合同传真系统 1.54.45 
+曼恩公司合同传真系统 1.54.45
 
 您有 1 条新信息 
-信息-编号：<915宝琳> 
+信息-编号：<915宝琳>
 
-处理中… 
+处理中…
 
-************ 
+************
 
-间谍，我是宝琳。还记得上次的 DNA 测试吗，我已经搞定了。帮我把这些事情搞定，咱俩的帐就清了。
+间谍？这只是你我之间的秘密 [00:04 沉默] 你真该洗洗那个滑雪面具。我是说，洗个一次什么的。有一些肉眼可见的发臭的线条正从面具上脱落。不管怎么着吧，我需要你帮忙。
 
-<传输结束> 
+<传输结束>
 
-***********"
-"[english]quest25008desc0"	"************
+************"
+"[english]quest25008desc1"	"************
 
 MANNCO CONTRACT CALL-TO-FAX 1.54.45
 
@@ -857,7 +972,39 @@ PROCESSING...
 
 ************
 
-HEY, SPY. PAULING. I TOOK CARE OF THAT DNA TEST FOR YOU. YOU OWE ME ONE AND I'M CASHING IT IN. TAKE CARE OF THIS.
+SPY? JUST BETWEEN YOU AND ME [00:04 SILENCE]  YOU SHOULD REALLY WASH THAT SKI MASK. LIKE, ONCE. THERE'S VISIBLE STINK LINES COMING OFF THAT THING. ANYWAY, I NEED A FAVOR.
+
+<END TRANSCRIPT>
+
+************"
+"quest25008desc2"	"************
+
+曼恩公司合同传真系统 1.54.45
+
+您有 1 条新信息 
+信息-编号：<915宝琳>
+
+处理中…
+
+************
+
+嘿间谍！[00:04 沉默] 噢对了。你可能正在偷偷地跟踪某人。因为想要捅死他们吧。噢噢，我也打赌你马上就要捅了。[00:02 沉默] 他们听不见我，是吧？你干这事儿有播视频吗？
+
+<传输结束>
+
+************"
+"[english]quest25008desc2"	"************
+
+MANNCO CONTRACT CALL-TO-FAX 1.54.45
+
+YOU HAVE 1 NEW CALL 
+MESSAGE-ID: <915PAULING>
+
+PROCESSING...
+
+************
+
+HEY SPY! [00:04 SILENCE] OH RIGHT. YOU'RE PROBABLY SNEAKING UP ON SOMEBODY. TO STAB THEM. OHH, I BET YOU'RE JUST ABOUT TO DO IT, TOO. [00:02 SILENCE] THEY CAN'T HEAR ME, CAN THEY? DO YOU HAVE VIDEO ON THIS THING?
 
 <END TRANSCRIPT>
 
@@ -878,6 +1025,134 @@ HEY, SPY. PAULING. I TOOK CARE OF THAT DNA TEST FOR YOU. YOU OWE ME ONE AND I'M 
 "[english]quest25008objectivedesc5"	"Kill a Sniper as Spy: %s1"
 "quest25008objectivedesc6"	"间谍消灭敌人：%s1"
 "[english]quest25008objectivedesc6"	"Get a kill as Spy: %s1"
+"quest25009desc0"	"************
+
+曼恩公司合同传真系统 1.54.45
+
+您有 1 条新信息 
+信息-编号：<915宝琳>
+
+处理中…
+
+************
+
+嘿伙计们，我是宝琳。这次任务地点是水电站。它能把水源转化成能量，所以千万别掉进什么鬼东西里去，不然你可能会被转化成纯净电。[00:05 沉默] 实际上，这听上去还挺好的。计划改一下，所有人跳进你们看到的第一个漩涡。
+
+<传输结束>
+
+************"
+"[english]quest25009desc0"	"************
+
+MANNCO CONTRACT CALL-TO-FAX 1.54.45
+
+YOU HAVE 1 NEW CALL 
+MESSAGE-ID: <915PAULING>
+
+PROCESSING...
+
+************
+
+HEY GUYS, PAULING HERE. THIS JOB'S AT A HYDROELECTRIC PLANT. IT TURNS WATER INTO ENERGY, SO DONT FALL INTO ANYTHING OR YOULL PROBABLY TURN INTO PURE ELECTRICITY. [00:05 SILENCE] ACTUALLY, THAT SOUNDS PRETTY GREAT. CHANGE OF PLAN, EVERYBODY JUMP INTO THE FIRST TURBINE YOU SEE.
+
+<END TRANSCRIPT>
+
+************"
+"quest25009desc1"	"************
+
+曼恩公司合同传真系统 1.54.45
+
+您有 1 条新信息 
+信息-编号：<915宝琳>
+
+处理中…
+
+************
+
+我有个水电站的任务要找你做。实际上，这个任务的峰值效率并不高，所以我登记了你们所有人去换掉所有的水力发电机、断路器、泵还有相关辅助设备。逗你们的，我只需要你们到了那儿后把人干掉就行。
+
+<传输结束>
+
+************"
+"[english]quest25009desc1"	"************
+
+MANNCO CONTRACT CALL-TO-FAX 1.54.45
+
+YOU HAVE 1 NEW CALL 
+MESSAGE-ID: <915PAULING>
+
+PROCESSING...
+
+************
+
+I GOT YOU A JOB AT A HYDROELECTRIC PLANT. IT'S NOT ACTING AT PEAK EFFICIENCY, SO I SIGNED YOU GUYS UP TO REPLACE ALL THE HYDROPOWER TURBINES, CIRCUIT BREAKERS, PUMPS, AND RELATED AUXILIARY EQUIPMENT . I'M KIDDING, I JUST NEED YOU TO GO THERE AND KILL PEOPLE.
+
+<END TRANSCRIPT>
+
+************"
+"quest25009desc2"	"************
+
+曼恩公司合同传真系统 1.54.45
+
+您有 1 条新信息 
+信息-编号：<915宝琳>
+
+处理中…
+
+************
+
+嘿伙计们。我要你们前往一个水力大坝。别问我为什么，这条规矩是写在你们必修内容上的。讲真，我也不知道。总之，不要到处乱碰。
+
+<传输结束>
+
+************"
+"[english]quest25009desc2"	"************
+
+MANNCO CONTRACT CALL-TO-FAX 1.54.45
+
+YOU HAVE 1 NEW CALL 
+MESSAGE-ID: <915PAULING>
+
+PROCESSING...
+
+************
+
+HEY, GUYS. I NEED YOU TO GET TO A HYDROELECTRIC DAM. DONT ASK WHY, ITS ON A NEED-TO-KNOW BASIS. I DON'T KNOW EITHER, ACTUALLY. SO IT'S ON A NOBODY-KNOWS BASIS. ANYWAY, DON'T TOUCH ANYTHING.
+
+<END TRANSCRIPT>
+
+************"
+"quest25009desc3"	"************
+
+曼恩公司合同传真系统 1.54.45
+
+您有 1 条新信息 
+信息-编号：<915宝琳>
+
+处理中…
+
+************
+
+嘿伙计们，我是宝琳。这次任务地点是水电站。向任何在动的东西射击。[00:04 沉默] 除了水电站工人，我猜他们也会动。还有水。涡轮也会动。各种闪光信号灯也会，大概。[00:03 沉默] 我转念一想，你们就朝着一小部分会东的东西射击吧。动点脑筋吧，小伙子们。
+
+<传输结束>
+
+************"
+"[english]quest25009desc3"	"************
+
+MANNCO CONTRACT CALL-TO-FAX 1.54.45
+
+YOU HAVE 1 NEW CALL 
+MESSAGE-ID: <915PAULING>
+
+PROCESSING...
+
+************
+
+HEY GUYS, PAULING HERE. THIS JOB'S AT A HYDROELECTRIC PLANT. SHOOT ANYTHING THAT MOVES. [00:04 SILENCE] EXCEPT THE PLANT WORKERS, I GUESS THEY'LL BE MOVING. AND THE WATER. THE TURBINES WILL BE MOVING TOO. LOTS OF BLINKING LIGHTS, PROBABLY. [00:03 SILENCE] ON SECOND THOUGHT, YOU'RE GOING TO WANT TO SHOOT VERY LITTLE OF WHAT'S MOVING. USE YOUR HEADS OUT THERE, FELLAS.
+
+<END TRANSCRIPT>
+
+************"
 "quest25009name0"	"Powerhouse 合同"
 "[english]quest25009name0"	"Powerhouse Contract"
 "quest25009objectivedesc0"	"在地图 Powerhouse 上消灭敌人：%s1"
@@ -1028,6 +1303,38 @@ HEY, GUYS. TEUFORT'S BEING FUMIGATED, SO WE FOUND YOU A JOB IN BORNEO. I THINK I
 <END TRANSCRIPT>
 
 ************"
+"quest25011desc1"	"************
+
+曼恩公司合同传真系统 1.54.45
+
+您有 1 条新信息 
+信息-编号：<915宝琳>
+
+处理中…
+
+************
+
+我希望你们都打好预防针了，因为这个接下来的合同地点是丛林的中心。丛林里的所有东西都是带剧毒的。动物有毒。树木有毒。全都是毒。到那边烧个一干二净吧，还不是美滋滋。
+
+<传输结束>
+
+************"
+"[english]quest25011desc1"	"************
+
+MANNCO CONTRACT CALL-TO-FAX 1.54.45
+
+YOU HAVE 1 NEW CALL 
+MESSAGE-ID: <915PAULING>
+
+PROCESSING...
+
+************
+
+I HOPE YOU'VE GOT ALL YOUR SHOTS, BECAUSE THIS NEXT CONTRACT'S IN THE MIDDLE OF A JUNGLE. AND EVERYTHING IN A JUNGLE IS POISONOUS. THE ANIMALS. THE TREES. PURE POISON. BURN IT DOWN WHILE YOU'RE THERE, WHY DONT YOU.
+
+<END TRANSCRIPT>
+
+************"
 "quest25011name0"	"Borneo 合同"
 "[english]quest25011name0"	"Borneo Contract"
 "quest25011objectivedesc0"	"在地图 Borneo 上获得分数：%s1"
@@ -1049,7 +1356,7 @@ HEY, GUYS. TEUFORT'S BEING FUMIGATED, SO WE FOUND YOU A JOB IN BORNEO. I THINK I
 
 ************ 
 
-大家好，我是宝琳。我希望大家能喜欢日本这个地方，因为我们要去那里做任务；我同样希望大家能喜欢日本人，因为我们要把他们全部杀光。
+大家好，我是宝琳。我希望大家能喜欢日本这个地方，因为我们要去那里做任务；我同样希望大家能喜欢在日本杀人，因为我们要把他们全部杀光。
 
 <传输结束> 
 
@@ -1112,6 +1419,8 @@ HEY GUYS. SADDLE UP! LOCK AND LOAD! DROP YOUR SOCKS AND GRAB YOUR WELL, GRAB YOU
 "[english]quest25012objectivedesc2"	"Capture the objective on Suijin: %s1"
 "quest25012objectivedesc3"	"在地图 Suijin 上赢得一回合：%s1"
 "[english]quest25012objectivedesc3"	"Win a round on Suijin: %s1"
+"quest25013desc0"	"你可以在任意地图上使用任意兵种获得分数来完成此合同。"
+"[english]quest25013desc0"	"You will be required to score points on any map and as any class to complete this contract."
 "quest25013desc1"	"************
 
 曼恩公司合同传真系统 1.54.45 
@@ -1150,38 +1459,8 @@ PERFORMANCE REVIEW TIME, GUYS. GET OUT THERE AND DO WHAT YOU DO. NO PRESSURE. BU
 "[english]quest25013objectivedesc0"	"Score points: %s1"
 "quest25013objectivedesc1"	"获得 10 分而不死：%s1"
 "[english]quest25013objectivedesc1"	"Score 10 points in a single life: %s1"
-"quest25014desc0"	"************
-
-曼恩公司合同传真系统 1.54.45 
-
-您有 1 条新信息 
-信息-编号：<915宝琳> 
-
-处理中… 
-
-************ 
-
-虽然我说过让你们要保持低调，但今天是管理员的生日，我想让你们大杀特杀来庆祝一下。我的意思是，杀到大家都不好意思为止。
-
-<传输结束> 
-
-***********"
-"[english]quest25014desc0"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-
-HEY GUYS, KEEP IT UNDER YOUR HAT, BUT IT'S THE ADMINISTRATOR'S BIRTHDAY TODAY. SO I WANT YOU TO GET OUT THERE AND KILL MORE PEOPLE THAN YOU'VE EVER KILLED BEFORE, OKAY? I MEAN, I WANT YOU TO KILL SO MANY PEOPLE THAT IT GETS AWKWARD.
-
-<END TRANSCRIPT>
-
-************"
+"quest25014desc0"	"你必须击杀敌人来完成此合同"
+"[english]quest25014desc0"	"You will be required to earn kills to complete this contract"
 "quest25014desc1"	"************
 
 曼恩公司合同传真系统 1.54.45
@@ -1302,7 +1581,7 @@ WE NEED A BIG KILL-COUNT ON THIS ONE, GUYS. I WANT TO BE ABLE TO SEE THE PILE OF
 "[english]questname25014"	"Head hunter"
 "quest25000objectivedesc10"	"侦察兵击杀被击昏的敌人：%s1"
 "[english]quest25000objectivedesc10"	"Kill a stunned enemy as Scout: %s1"
-"quest25000objectivedesc11"	"侦察兵躲避伤害：%s1"
+"quest25000objectivedesc11"	"侦察兵躲避 100 点伤害：%s1"
 "[english]quest25000objectivedesc11"	"Prevent 100 damage as Scout: %s1"
 "quest25000objectivedesc12"	"迷你爆击击杀：%s1"
 "[english]quest25000objectivedesc12"	"Minicrit kill: %s1"
@@ -1320,7 +1599,7 @@ WE NEED A BIG KILL-COUNT ON THIS ONE, GUYS. I WANT TO BE ABLE TO SEE THE PILE OF
 "[english]quest25003objectivedesc7"	"Collect a head: %s1"
 "quest25004objectivedesc8"	"机枪手用食物治疗队友：%s1"
 "[english]quest25004objectivedesc8"	"Feed a teammate as Heavy: %s1"
-"quest25005objectivedesc7"	"遥控步哨击杀：%s1"
+"quest25005objectivedesc7"	"遥控步哨杀敌：%s1"
 "[english]quest25005objectivedesc7"	"Kill with Wrangled Sentry: %s1"
 "quest25005objectivedesc8"	"复仇爆击击杀：%s1"
 "[english]quest25005objectivedesc8"	"Revenge Crit kill: %s1"
@@ -1368,7 +1647,7 @@ WE NEED A BIG KILL-COUNT ON THIS ONE, GUYS. I WANT TO BE ABLE TO SEE THE PILE OF
 "[english]quest25015objectivedesc2"	"Pickup a Crumpkin: %s1"
 "quest25015objectivedesc20"	"在碰碰车上收集鸭子：%s1"
 "[english]quest25015objectivedesc20"	"Collect a Duck in Bumper Karts: %s1"
-"quest25015objectivedesc21"	"用碰碰车撞死敌人：%s1"
+"quest25015objectivedesc21"	"撞死敌人：%s1"
 "[english]quest25015objectivedesc21"	"Bump an enemy to death: %s1"
 "quest25015objectivedesc22"	"在 Eyeaduct 上收集灵魂：%s1"
 "[english]quest25015objectivedesc22"	"Collect a soul on Eyeaduct: %s1"
@@ -1384,10 +1663,10 @@ WE NEED A BIG KILL-COUNT ON THIS ONE, GUYS. I WANT TO BE ABLE TO SEE THE PILE OF
 "[english]quest25015objectivedesc7"	"Kill Monoculus: %s1"
 "quest25015objectivedesc8"	"从 Eyeaduct 的掠夺之岛上逃脱：%s1"
 "[english]quest25015objectivedesc8"	"Escape Loot Island on Eyeaduct: %s1"
-"quest25015objectivedesc9"	"在 Mann Manor 给敌人打上标记：%s1"
+"quest25015objectivedesc9"	"在 Mann Manor 上为其他玩家打上“标记”：%s1"
 "[english]quest25015objectivedesc9"	"Tag a player as 'IT' on Mann Manor: %s1"
-"quest25016desc1"	"你的下一个该死的合同是什么呢…等等…是杀掉我自己。
-我竟然把这种东西写在合同里面。"
+"quest25016desc1"	"你的下一个该死的合同是什么呢… 等等… 是杀掉我自己。
+嗯。我竟然把这种东西写在合同里面。"
 "[english]quest25016desc1"	"Your next infernal contract IS ... hold on... let's seeeee... killing ME.
 Hm. I'm surprised I put that one in there."
 "quest25016desc2"	"凡人们，畏惧吧，在马拉莫斯奇怪的、诡异的、厚颜无耻的法术下屈服吧！"
@@ -1486,7 +1765,7 @@ Hm. I'm surprised I put that one in there."
 "[english]quest25022objectivedesc1"	"Revive a teammate during bumper cars: %s1"
 "quest25022objectivedesc2"	"收集鸭子：%s1"
 "[english]quest25022objectivedesc2"	"Collect a duck: %s1"
-"quest25022objectivedesc3"	"撞死敌人：%s1"
+"quest25022objectivedesc3"	"用碰碰车撞死敌人：%s1"
 "[english]quest25022objectivedesc3"	"Bump an enemy to death: %s1"
 "quest25022objectivedesc4"	"赢得一局碰碰车小游戏：%s1"
 "[english]quest25022objectivedesc4"	"Win a bumper car game: %s1"
@@ -1502,13 +1781,13 @@ Hm. I'm surprised I put that one in there."
 "[english]quest25023name1"	"Mann Manor"
 "quest25023name1632016"	"Mann Manor"
 "[english]quest25023name1632016"	"Mann Manor"
-"quest25023objectivedesc1"	"在 Mann Manor 上为其他玩家打上“标记”：%s1"
+"quest25023objectivedesc1"	"在 Mann Manor 给敌人打上标记：%s1"
 "[english]quest25023objectivedesc1"	"Tag a player as 'IT' on Mann Manor: %s1"
 "quest25023objectivedesc2"	"在 Mann Manor 收集灵魂：%s1"
 "[english]quest25023objectivedesc2"	"Collect souls on Mann Manor: %s1"
-"quest25023objectivedesc3"	"在 Mann Manor 占领或防守控制点：%s1"
+"quest25023objectivedesc3"	"在 Mann Manor 占领或防守任务目标：%s1"
 "[english]quest25023objectivedesc3"	"Capture or Defend an objective on Mann Manor: %s1"
-"quest25024desc1"	"敬爱的凡人们！你们所爱的一切在黎明之前都要死！签名：马拉莫斯！附言：我并不会死，我根本不喜欢你们这些人！"
+"quest25024desc1"	"亲爱的凡人们！你们所爱的一切在黎明之前都要死！签名：马拉莫斯！附言：我并不会死，我根本不喜欢你们这些人！"
 "[english]quest25024desc1"	"Dear Mortal! Everything you love will be dead by dawn! Signed, Merasmus! Postscript: I'll still be alive, because I DON'T EVEN LIKE YOU!"
 "quest25024name1"	"Harvest"
 "[english]quest25024name1"	"Harvest"
@@ -1534,7 +1813,7 @@ Hm. I'm surprised I put that one in there."
 "[english]quest25025objectivedesc2"	"Collect a Halloween Pumpkin: %s1"
 "quest25025objectivedesc3"	"南瓜炸弹杀敌：%s1"
 "[english]quest25025objectivedesc3"	"Kill with a pumpkin bomb: %s1"
-"quest25026desc1"	"一轮凸月垂在月空上，凡人！它觉得你完成不了这个合同！你怎敢让月亮难堪？"
+"quest25026desc1"	"一轮凸月垂在夜空上，凡人！它觉得你完成不了这个合同！你敢不敢让月亮难堪一下？"
 "[english]quest25026desc1"	"A gibbous moon hangs pendulously in the night sky, mortal! It thinks you cannot finish this contract! Dare you make the moon look STUPID?"
 "quest25026name0"	"Moonshine"
 "[english]quest25026name0"	"Moonshine"
@@ -1582,7 +1861,7 @@ Hm. I'm surprised I put that one in there."
 "[english]quest25029objectivedesc2"	"Push the Payload Cart: %s1"
 "quest25029objectivedesc3"	"击杀正在推动战车的敌人：%s1"
 "[english]quest25029objectivedesc3"	"Kill an enemy pushing the Cart: %s1"
-"quest25029objectivedesc4"	"在推车模式中获胜：%s1"
+"quest25029objectivedesc4"	"在推车模式中赢得一回合：%s1"
 "[english]quest25029objectivedesc4"	"Win a round of Payload: %s1"
 "quest25030desc1"	"­"
 "[english]quest25030desc1"	""
@@ -1596,10 +1875,10 @@ Hm. I'm surprised I put that one in there."
 "[english]quest25030objectivedesc2"	"Capture a Control Point on a CP map: %s1"
 "quest25030objectivedesc3"	"在控制点地图上防守控制点：%s1"
 "[english]quest25030objectivedesc3"	"Defend a Control Point on a CP map: %s1"
-"quest25030objectivedesc4"	"在控制点模式中获胜：%s1"
+"quest25030objectivedesc4"	"在控制点地图上赢得一回合：%s1"
 "[english]quest25030objectivedesc4"	"Win a round on a CP map: %s1"
-"quest25031desc1"	"­"
-"[english]quest25031desc1"	""
+"quest25031desc1"	"­你必须使用苏打炮手来完成此合同。"
+"[english]quest25031desc1"	"You will be required to use the Soda Popper as Scout to complete this contract."
 "quest25031name0"	"侦察兵 - 苏打炮手"
 "[english]quest25031name0"	"Scout - The Soda Popper"
 "quest25031name1"	"苏打炮手"
@@ -1646,7 +1925,7 @@ Hm. I'm surprised I put that one in there."
 "[english]quest25034desc1"	""
 "quest25034name0"	"士兵 - 黑盒子"
 "[english]quest25034name0"	"Soldier - Black Box"
-"quest25034name1"	"黑盒子"
+"quest25034name1"	"黑匣子"
 "[english]quest25034name1"	"The Black Box"
 "quest25034objectivedesc1"	"士兵获得分数：%s1"
 "[english]quest25034objectivedesc1"	"Score points as Soldier: %s1"
@@ -1754,7 +2033,7 @@ Hm. I'm surprised I put that one in there."
 "[english]quest25041objectivedesc2"	"Kill with a Sentry: %s1"
 "quest25041objectivedesc3"	"遥控步哨枪杀敌：%s1"
 "[english]quest25041objectivedesc3"	"Kill with a Wrangled Sentry: %s1"
-"quest25041objectivedesc4"	"用步哨枪击杀 5 个敌人而不死：%s1"
+"quest25041objectivedesc4"	"用步哨枪消灭 5 名敌人而不死：%s1"
 "[english]quest25041objectivedesc4"	"Get 5 Sentry kills in a single life: %s1"
 "quest25042desc1"	"­"
 "[english]quest25042desc1"	""
@@ -1902,6 +2181,8 @@ Hm. I'm surprised I put that one in there."
 "[english]quest25052objectivedesc1"	"Score points on Highpass: %s1"
 "quest25052objectivedesc2"	"在地图 Highpass 上赢得一回合：%s1"
 "[english]quest25052objectivedesc2"	"Win a round on Highpass: %s1"
+"quest25053desc1"	"­"
+"[english]quest25053desc1"	""
 "quest25053name0"	"Maple Ridge"
 "[english]quest25053name0"	"Maple Ridge"
 "quest25053name1"	"Maple Ridge"
@@ -1912,6 +2193,8 @@ Hm. I'm surprised I put that one in there."
 "[english]quest25053objectivedesc2"	"Collect a Halloween Pumpkin: %s1"
 "quest25053objectivedesc3"	"南瓜炸弹杀敌：%s1"
 "[english]quest25053objectivedesc3"	"Kill with a pumpkin bomb: %s1"
+"quest25054desc1"	"­"
+"[english]quest25054desc1"	""
 "quest25054name0"	"Brimstone"
 "[english]quest25054name0"	"Brimstone"
 "quest25054name1"	"Brimstone"
@@ -1922,6 +2205,8 @@ Hm. I'm surprised I put that one in there."
 "[english]quest25054objectivedesc2"	"Collect a Halloween Pumpkin: %s1"
 "quest25054objectivedesc3"	"南瓜炸弹杀敌：%s1"
 "[english]quest25054objectivedesc3"	"Kill with a pumpkin bomb: %s1"
+"quest25055desc1"	"­"
+"[english]quest25055desc1"	""
 "quest25055name0"	"Pit of Death"
 "[english]quest25055name0"	"Pit of Death"
 "quest25055name1"	"Pit of Death"
@@ -1932,5 +2217,19 @@ Hm. I'm surprised I put that one in there."
 "[english]quest25055objectivedesc2"	"Collect haunted souls: %s1"
 "quest25055objectivedesc3"	"把受诅咒的灵魂带到地下世界：%s1"
 "[english]quest25055objectivedesc3"	"Deposit haunted souls in the Underworld: %s1"
+"quest25013objectivedesc2"	"在回合结束时成为 MVP：%s1"
+"[english]quest25013objectivedesc2"	"Be MVP at the end of a round: %s1"
+"quest25056desc0"	"你需要在地图 Mercenary Park 中完成一系列任务来完成此合同。"
+"[english]quest25056desc0"	"You will be required to complete various tasks on Lair to complete this contract."
+"quest25056name0"	"Mercenary Park"
+"[english]quest25056name0"	"Lair"
+"quest25056objectivedesc1"	"在地图 Mercenary Park 上获得分数：%s1"
+"[english]quest25056objectivedesc1"	"Score points on Lair: %s1"
+"quest25056objectivedesc2"	"在地图 Mercenary Park 上占领控制点：%s1"
+"[english]quest25056objectivedesc2"	"Capture a Control Point on Lair: %s1"
+"quest25056objectivedesc3"	"在地图 Mercenary Park 上防守控制点：%s1"
+"[english]quest25056objectivedesc3"	"Defend a Control Point on Lair: %s1"
+"quest25056objectivedesc4"	"在地图 Mercenary Park 上赢得一回合：%s1"
+"[english]quest25056objectivedesc4"	"Win a round on Lair: %s1"
 }
 }

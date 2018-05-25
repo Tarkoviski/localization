@@ -1,40 +1,10 @@
-﻿"lang"
+"lang"
 {
 "Language"	"greek"
 "Tokens"
 {
-"quest25000desc0"	"************
-
-ΣΥΜΒΟΛΑΙΟ MANNCO ΚΛΗΣΗ-ΣΕ-FAX 1.54.45
-
-ΕΧΕΤΕ ΕΝΑ ΝΕΟ ΜΗΝΥΜΑ 
-ID-ΜΗΝΥΜΑΤΟΣ: <915PAULING>
-
-ΕΠΕΞΕΡΓΑΣΙΑ...
-
-************
-
-ΑΝΙΧΝΕΥΤΗ; Η PAULING ΕΙΜΑΙ. ΥΠΟΘΕΤΩ ΟΤΙ ΜΙΛΑΣ ΤΩΡΑ, ΣΤΑΜΑΤΑ. ΔΕΝ ΕΙΝΑΙ Η ΩΡΑ. ΕΧΟΥΜΕ ΔΟΥΛΕΙΑ.
-
-<ΤΕΛΟΣ ΜΗΝΥΜΑΤΟΣ>
-
-************"
-"[english]quest25000desc0"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-
-SCOUT? IT'S PAULING. I'M ASSUMING YOU'RE TALKING RIGHT NOW, PLEASE STOP. THIS ISN'T A SOCIAL CALL. I'VE GOT WORK.
-
-<END TRANSCRIPT>
-
-************"
+"quest25000desc0"	"Ολοκληρώστε διάφορα καθήκοντα ως Κατεδαφιστής για να ολοκληρώσετε αυτό το συμβόλαιο."
+"[english]quest25000desc0"	"Complete various tasks as Scout to complete this contract."
 "quest25000desc1"	"************
 
 ΣΥΜΒΟΛΑΙΟ MANNCO ΚΛΗΣΗ-ΣΕ-FAX 1.54.45
@@ -111,38 +81,8 @@ HEY, SCOUT. IT'S PAULING. I, UH, GOT YOUR PHONE MESSAGE. MESSAGES. ALL OF THEM. 
 "[english]quest25000objectivedesc4"	"Kill as Scout: %s1"
 "quest25000objectivedesc5"	"Σκοτώστε έναν Γιατρό ως Ανιχνευτής: %s1"
 "[english]quest25000objectivedesc5"	"Kill a Medic as Scout: %s1"
-"quest25001desc0"	"************
-
-ΣΥΜΒΟΛΑΙΟ MANNCO ΚΛΗΣΗ-ΣΕ-FAX 1.54.45
-
-ΕΧΕΤΕ ΕΝΑ ΝΕΟ ΜΗΝΥΜΑ 
-ID-ΜΗΝΥΜΑΤΟΣ: <915PAULING>
-
-ΕΠΕΞΕΡΓΑΣΙΑ...
-
-************
-
-ΓΕΙΑ ΣΟΥ, ΓΙΕ ΜΟΥ. ΘΕΛΩ ΝΑ ΣΤΑΜΑΤΗΣΕΙΣ ΝΑ ΚΡΑΤΑΣ ΤΑ ΣΩΘΙΚΑ ΤΟΥ ΚΑΛΥΤΕΡΟΥ ΣΟΥ ΦΙΛΟΥ ΚΑΙ ΝΑ ΜΕ ΑΚΟΥΣΕΙΣ. ΕΧΩ ΕΝΑ ΣΥΜΒΟΛΑΙΟ ΓΙΑ [00:03 ΣΙΓΗ] ΕΝΝΟΩ, ΕΧΩ ΜΙΑ ΜΥΣΤΙΚΗ ΣΤΡΑΤΙΩΤΙΚΗ ΑΠΟΣΤΟΛΗ ΓΙΑ ΕΣΕΝΑ. ΑΠΟΣΤΟΛΗ ΖΟΥΛΟΥ ΜΠΡΑΒΟ [00:02 ΣΙΓΗ] ΔΕΛΤΑΤΡΟΤ. ΘΑ ΥΠΗΡΧΕ ΚΑΙ ΕΝΑ ΜΕΤΑΛΛΙΟ ΓΙΑ ΕΣΕΝΑ ΑΝ ΔΕΝ ΗΤΑΝ ΤΟΣΟ ΜΥΣΤΙΚΗ ΣΚΟΤΕΙΝΗ ΕΠΙΚΙΝΔΥΝΗ Η ΑΠΟΣΤΟΛΗ. ΠΟΥ ΕΙΝΑΙ, ΕΝΝΟΕΙΤΑΙ, ΟΠΟΤΕ ΜΗΝ ΤΟ ΠΕΙΣ ΣΤΟΥΣ ΑΛΛΟΥΣ. ΚΑΝΕ ΜΕ ΠΕΡΗΦΑΝΟ, ΓΙΕ ΜΟΥ.
-
-<ΤΕΛΟΣ ΜΗΝΥΜΑΤΟΣ>
-
-************"
-"[english]quest25001desc0"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-
-HELLO, SON. I NEED YOU TO STOP HOLDING YOUR BEST FRIEND'S GUTS IN AND LISTEN UP. I'VE GOT A CONTRACT FOR [00:03 SILENCE] I MEAN, I'VE GOT A MILITARY ARMY DARK OP FOR YOU. OPERATION ZULO BRAVO [00:02 SILENCE] DELTATROT. THERE'D BE A DAMN MEDAL IN THIS FOR YOU IF IT WASN'T SO NAVY DARK SCUBA GRENADE OPS. WHICH IT IS, BY THE WAY, SO DON'T TELL THE OTHER GUYS.  MAKE ME PROUD, SON.  PAULING OUT.
-
-<END TRANSCRIPT>
-
-************"
+"quest25001desc0"	"Απαιτείται να ολοκληρώσετε διάφορα καθήκοντα ως Στρατιώτης για να ολοκληρώσετε αυτό το συμβόλαιο."
+"[english]quest25001desc0"	"You will be required to complete various tasks as Soldier to complete this contract."
 "quest25001desc1"	"************
 
 ΣΥΜΒΟΛΑΙΟ MANNCO ΚΛΗΣΗ-ΣΕ-FAX 1.54.45
@@ -315,7 +255,7 @@ SOLDIER, YOU KNOW WHO DOESN'T WANT YOU TO TAKE THIS JOB? HIPPIES. COMMUNISTS. TO
 "[english]quest25001objectivedesc11"	"Spies killed as Soldier: %s1"
 "quest25001objectivedesc12"	"Σκοτώστε ως Στρατιώτης: %s1"
 "[english]quest25001objectivedesc12"	"Kill as Soldier: %s1"
-"quest25001objectivedesc2"	"Σκοτώστε ενώ βρίσκεστε στον αέρα ως Στρατιώτης: %s1"
+"quest25001objectivedesc2"	"Σκοτώστε ενώ είστε στον αέρα από έκρηξη ως Στρατιώτης: %s1"
 "[english]quest25001objectivedesc2"	"Kill while blast jumping as Soldier: %s1"
 "quest25001objectivedesc3"	"Σκοτωμένοι Ανιχνευτές ως Στρατιώτης: %s1"
 "[english]quest25001objectivedesc3"	"Scouts killed as Soldier: %s1"
@@ -327,42 +267,12 @@ SOLDIER, YOU KNOW WHO DOESN'T WANT YOU TO TAKE THIS JOB? HIPPIES. COMMUNISTS. TO
 "[english]quest25001objectivedesc6"	"Demomen killed as Soldier: %s1"
 "quest25001objectivedesc7"	"Μίνι-καίριος φόνος ως Στρατιώτης: %s1"
 "[english]quest25001objectivedesc7"	"Minicrit kill as Soldier: %s1"
-"quest25001objectivedesc8"	"Θεραπεία 200 ζημιάς ως Στρατιώτης: %s1"
+"quest25001objectivedesc8"	"Θεραπεύστε 200 ζημιά ως Στρατιώτης: %s1"
 "[english]quest25001objectivedesc8"	"Heal 200 damage as Soldier: %s1"
 "quest25001objectivedesc9"	"Σκοτωμένοι Γιατροί ως Στρατιώτης: %s1"
 "[english]quest25001objectivedesc9"	"Medics killed as Soldier: %s1"
-"quest25002desc0"	"************
-
-ΣΥΜΒΟΛΑΙΟ MANNCO ΚΛΗΣΗ-ΣΕ-FAX 1.54.45
-
-ΕΧΕΤΕ ΕΝΑ ΝΕΟ ΜΗΝΥΜΑ 
-ID-ΜΗΝΥΜΑΤΟΣ: <915PAULING>
-
-ΕΠΕΞΕΡΓΑΣΙΑ...
-
-************
-
-ΕΪ, ΕΜΠΡΗΣΤΗ! ΕΧΩ ΚΑΤΙ ΠΟΥ ΠΡΕΠΕΙ ΝΑ ΚΑΝΕΙΣ, ΟΚ ΦΙΛΕ;
-
-<ΤΕΛΟΣ ΜΗΝΥΜΑΤΟΣ>
-
-************"
-"[english]quest25002desc0"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-
-HI, PYRO! I'VE GOT SOMETHING I NEED YOU TO DO, OKAY, BUDDY?
-
-<END TRANSCRIPT>
-
-************"
+"quest25002desc0"	"Απαιτείται να ολοκληρώσετε διάφορα καθήκοντα ως Εμπρηστής για να ολοκληρώσετε αυτό το συμβόλαιο."
+"[english]quest25002desc0"	"You will be required to complete various tasks as Pyro to complete this contract."
 "quest25002desc1"	"************
 
 ΣΥΜΒΟΛΑΙΟ MANNCO ΚΛΗΣΗ-ΣΕ-FAX 1.54.45
@@ -433,7 +343,7 @@ HEY, PYRO! [SOUNDS OF MUFFLED VOICE WITH HAND OVER MOUTH, 00:07] ALWAYS WANTED T
 "[english]quest25002objectivedesc0"	"Score points as Pyro: %s1"
 "quest25002objectivedesc1"	"Σβήστε έναν σύμμαχο ως Εμπρηστής: %s1"
 "[english]quest25002objectivedesc1"	"Extinguish a teammate as Pyro: %s1"
-"quest25002objectivedesc2"	"Σκοτώστε απωθώντας ένα βλήμα ως Εμπρηστής: %s1"
+"quest25002objectivedesc2"	"Σκοτώστε με ένα αποκρουσθέν βλήμα ως Εμπρηστής: %s1"
 "[english]quest25002objectivedesc2"	"Kill with a reflected projectile as Pyro: %s1"
 "quest25002objectivedesc3"	"Φόνοι περιβάλλοντος ως Εμπρηστής: %s1"
 "[english]quest25002objectivedesc3"	"Environment kill as Pyro: %s1"
@@ -441,38 +351,8 @@ HEY, PYRO! [SOUNDS OF MUFFLED VOICE WITH HAND OVER MOUTH, 00:07] ALWAYS WANTED T
 "[english]quest25002objectivedesc4"	"Ignite an invisible or disguised Spy as Pyro: %s1"
 "quest25002objectivedesc5"	"Σκοτώστε ως Εμπρηστής: %s1"
 "[english]quest25002objectivedesc5"	"Kill as Pyro: %s1"
-"quest25003desc0"	"************
-
-ΣΥΜΒΟΛΑΙΟ MANNCO ΚΛΗΣΗ-ΣΕ-FAX 1.54.45
-
-ΕΧΕΤΕ ΕΝΑ ΝΕΟ ΜΗΝΥΜΑ 
-ID-ΜΗΝΥΜΑΤΟΣ: <915PAULING>
-
-ΕΠΕΞΕΡΓΑΣΙΑ...
-
-************
-
-ΕΪ, ΚΑΤΕΔΑΦΙΣΤΗ. ΗΜΟΥΝ ΣΤΟ ΤΗΛΕΦΩΝΟ ΜΕ ΤΗ ΜΑΜΑ ΣΟΥ, ΕΙΠΕ ΟΤΙ ΔΕΝ ΕΧΕΙΣ ΑΡΚΕΤΕΣ ΔΟΥΛΕΙΕΣ, ΟΠΟΤΕ ΠΑΡΕ ΜΙΑ ΕΠΙΠΛΕΟΝ. ΔΕΝ ΘΑ ΣΟΥ ΠΩ ΨΕΜΑΤΑ, ΑΚΟΥΣΤΗΚΕ ΝΕΥΡΙΑΣΜΕΝΗ.
-
-<ΤΕΛΟΣ ΜΗΝΥΜΑΤΟΣ>
-
-************"
-"[english]quest25003desc0"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-
-HEY, DEMO. I WAS ON THE PHONE WITH YOUR MOM, SHE SAID YOU DIDN'T HAVE ENOUGH JOBS, SO I GOT YOU AN EXTRA ONE. I WON'T LIE, SHE SOUNDED ANGRY.
-
-<END TRANSCRIPT>
-
-************"
+"quest25003desc0"	"Απαιτείται να ολοκληρώσετε διάφορα καθήκοντα ως Κατεδαφιστής για να ολοκληρώσετε αυτό το συμβόλαιο."
+"[english]quest25003desc0"	"You will be required to complete various tasks as Demoman to complete this contract."
 "quest25003desc1"	"************
 
 ΣΥΜΒΟΛΑΙΟ MANNCO ΚΛΗΣΗ-ΣΕ-FAX 1.54.45
@@ -647,37 +527,8 @@ HEY DEMO. THIS JOB IS FOR YOUR EYES ONLY. EYE. I MEAN [00:03 SILENCE] YOU GET IT
 "[english]quest25003objectivedesc4"	"Get a kill as Demoman: %s1"
 "quest25003objectivedesc5"	"Χτυπήστε έναν εχθρό με την ασπίδα: %s1"
 "[english]quest25003objectivedesc5"	"Bash an enemy with a shield: %s1"
-"quest25004desc0"	"************
-
-ΣΥΜΒΟΛΑΙΟ MANNCO ΚΛΗΣΗ-ΣΕ-FAX 1.54.45
-
-ΕΧΕΤΕ ΕΝΑ ΝΕΟ ΜΗΝΥΜΑ
-ID-ΜΗΝΥΜΑΤΟΣ: <915PAULING>
-ΕΠΕΞΕΡΓΑΣΙΑ...
-
-************
-
-ΕΛΑ ΒΑΡΥ, ΕΙΜΑΙ Η PAULING. ΠΕΡΙΜΕΝΕ ΛΙΓΟ. [ΗΧΟΙ ΑΠΟ ΟΠΛΑ, 00:07] ΣΥΓΓΝΩΜΗ ΓΙ' ΑΥΤΟ. ΑΚΟΥ, ΕΧΩ ΕΝΑ ΣΥΜΒΟΛΑΙΟ ΠΟΥ ΕΧΕΙ ΤΟ ΟΝΟΜΑ ΣΟΥ. ΣΚΑΤΑ, ΜΙΣΟ ΛΙΓΟ. [ΗΧΟΙ ΑΠΟ ΣΥΡΣΙΜΟ, 00:36] ΟΥΦ. ΤΕΛΟΣ ΠΑΝΤΩΝ, ΚΟΙΤΑ, ΑΝ ΜΠΟΡΕΙΣ ΝΑ ΤΟ ΑΝΑΛΑΒΕΙΣ ΘΑ ΣΟΥ ΧΡΩΣΤΑΩ. Σ' ΕΥΧΑΡΙΣΤΩ, ΜΕΓΑΛΕ. [ΗΧΟΙ ΑΠΟ ΣΚΑΨΙΜΟ, 09:46] [ΗΧΟΙ ΑΠΟ ΘΑΨΙΜΟ, 05:24] ΣΚΑΤΑ, ΞΕΧΑΣΑ ΝΑ ΚΛΕΙΣΩ
-
-<ΤΕΛΟΣ ΜΗΝΥΜΑΤΟΣ>
-
-************"
-"[english]quest25004desc0"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-
-HEY HEAVY, PAULING HERE. HOLD ON. [SOUNDS OF GUNFIRE, 00:07] SORRY ABOUT THAT. LISTEN, I'VE GOT A CONTRACT THAT'S GOT YOUR NAME ALL OVER IT. CRAP, HOLD ON A SECOND. [SOUNDS OF DRAGGING, 00:36] WHEW. ANYWAY, LOOK, IF YOU COULD TAKE CARE OF THIS I'D OWE YOU ONE. THANKS, BIG GUY. [SOUNDS OF DIGGING, 09:46] [SOUNDS OF BURYING, 05:24] CRAP, FORGOT TO HANG UP THE 
-
-<END TRANSCRIPT>
-
-************"
+"quest25004desc0"	"Απαιτείται να ολοκληρώσετε διάφορα καθήκοντα ως Βαρύς για να ολοκληρώσετε αυτό το συμβόλαιο."
+"[english]quest25004desc0"	"You will be required to complete various tasks as Heavy to complete this contract."
 "quest25004desc1"	"************
 
 ΣΥΜΒΟΛΑΙΟ MANNCO ΚΛΗΣΗ-ΣΕ-FAX 1.54.45
@@ -758,38 +609,8 @@ HEAVY. I NEED YOU TO KEEP QUIET ON THIS. [00:04 SILENCE] WELL, YOU'RE ALWAYS QUI
 "[english]quest25004objectivedesc5"	"Take 1000 damage in a single life as Heavy: %s1"
 "quest25004objectivedesc6"	"Σκοτώστε ως Βαρύς: %s1"
 "[english]quest25004objectivedesc6"	"Get a kill as Heavy: %s1"
-"quest25005desc0"	"************
-
-ΣΥΜΒΟΛΑΙΟ MANNCO ΚΛΗΣΗ-ΣΕ-FAX 1.54.45
-
-ΕΧΕΤΕ ΕΝΑ ΝΕΟ ΜΗΝΥΜΑ 
-ID-ΜΗΝΥΜΑΤΟΣ: <915PAULING>
-
-ΕΠΕΞΕΡΓΑΣΙΑ...
-
-************
-
-ΜΗΧΑΝΙΚΕ, Η PAULING ΕΙΜΑΙ. Η ΜΟΤΟΣΥΚΛΕΤΑ ΜΟΥ ΚΑΝΕΙ ΕΝΑΝ ΠΕΡΙΕΡΓΟ ΘΟΡΥΒΟ, ΚΑΤΙ ΣΑΝ ΤΣΚ-ΤΣΚ-ΤΣΚ ΡΡΡΡΡΡ ΚΑΠΩΣ ΕΤΣΙ [00:05 ΣΙΓΗ] ΞΕΡΕΙΣ ΚΑΤΙ, ΕΙΣΑΙ ΑΠΑΣΧΟΛΗΜΕΝΟΣ. ΤΕΛΟΣ ΠΑΝΤΩΝ, ΕΧΩ ΔΟΥΛΕΙΑ.
-
-<ΤΕΛΟΣ ΜΗΝΥΜΑΤΟΣ>
-
-************"
-"[english]quest25005desc0"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-
-ENGIE, IT'S PAULING. MY MOPED'S MAKING A FUNNY NOISE, LIKE A CHK-CHK-CHK RRRRRRRRR SORT OF [00:05 SILENCE]  YOU KNOW WHAT, YOU'RE BUSY. ANYWAY, I'VE GOT WORK.
-
-<END TRANSCRIPT>
-
-************"
+"quest25005desc0"	"Απαιτείται να ολοκληρώσετε διάφορα καθήκοντα ως Μηχανικός για να ολοκληρώσετε αυτό το συμβόλαιο."
+"[english]quest25005desc0"	"You will be required to complete various tasks as Engineer to complete this contract."
 "quest25005desc1"	"************
 
 ΣΥΜΒΟΛΑΙΟ MANNCO ΚΛΗΣΗ-ΣΕ-FAX 1.54.45
@@ -900,38 +721,8 @@ ENGIE, IT'S PAULING. IS SCOUT THERE? COUGH IF HE'S THERE. I'VE GOT A JOB FOR YOU
 "[english]quest25005objectivedesc4"	"Get a kill as Engineer: %s1"
 "quest25005objectivedesc5"	"Παρέχετε 500 υγεία σε συμμάχους: %s1"
 "[english]quest25005objectivedesc5"	"Dispense 500 health to teammates: %s1"
-"quest25006desc0"	"************
-
-ΣΥΜΒΟΛΑΙΟ MANNCO ΚΛΗΣΗ-ΣΕ-FAX 1.54.45
-
-ΕΧΕΤΕ ΕΝΑ ΝΕΟ ΜΗΝΥΜΑ 
-ID-ΜΗΝΥΜΑΤΟΣ: <915PAULING>
-
-ΕΠΕΞΕΡΓΑΣΙΑ...
-
-************
-
-ΓΙΑΤΡΕ, Η PAULING ΕΙΜΑΙ. ΣΕ ΑΥΤΟ ΜΠΟΡΕΙ ΝΑ ΓΙΝΕΙ ΧΑΜΟΣ.
-
-<ΤΕΛΟΣ ΜΗΝΥΜΑΤΟΣ>
-
-************"
-"[english]quest25006desc0"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-
-MEDIC, IT'S PAULING. THIS ONE MIGHT GET MESSY.
-
-<END TRANSCRIPT>
-
-************"
+"quest25006desc0"	"Απαιτείται να ολοκληρώσετε διάφορα καθήκοντα ως Γιατρός για να ολοκληρώσετε αυτό το συμβόλαιο."
+"[english]quest25006desc0"	"You will be required to complete various tasks as Medic to complete this contract."
 "quest25006desc1"	"************
 
 ΣΥΜΒΟΛΑΙΟ MANNCO ΚΛΗΣΗ-ΣΕ-FAX 1.54.45
@@ -1070,36 +861,8 @@ HEY, DOC. IT'S PAULING. I'VE GOT A CONTRACT FOR YOU. ANYTHING GOES.
 "[english]quest25006objectivedesc2"	"Assist in destroying a sentry while Ubered: %s1"
 "quest25006objectivedesc3"	"Κερδίστε μια βοήθεια δίνοντας uber σε Κατεδαφιστή: %s1"
 "[english]quest25006objectivedesc3"	"Get an assist with an Ubered Demoman: %s1"
-"quest25007desc0"	"************
-
-ΣΥΜΒΟΛΑΙΟ MANNCO ΚΛΗΣΗ-ΣΕ-FAX 1.54.45
-
-ΕΧΕΤΕ ΕΝΑ ΝΕΟ ΜΗΝΥΜΑ 
-ID-ΜΗΝΥΜΑΤΟΣ: <915PAULING>
-
-ΕΠΕΞΕΡΓΑΣΙΑ...
-
-************
-ΑΚΡΟΒΟΛΙΣΤΗ; PAULING ΕΔΩ. ΕΧΩ ΜΙΑ ΔΟΥΛΕΙΑ ΠΟΥ ΘΕΛΕΙ ΣΤΡΑΤΗΓΙΚΗ ΚΑΙ ΑΚΡΙΒΕΙΑ. ΣΚΕΦΤΗΚΑ ΕΣΕΝΑ.
-
-<ΤΕΛΟΣ ΜΗΝΥΜΑΤΟΣ>
-
-************"
-"[english]quest25007desc0"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-SNIPER? PAULING. I'VE GOT A JOB THAT NEEDS STRATEGY AND PRECISION. I THOUGHT OF YOU.
-
-<END TRANSCRIPT>
-
-************"
+"quest25007desc0"	"Απαιτείται να ολοκληρώσετε διάφορα καθήκοντα ως Ελεύθερος Σκοπευτής για να ολοκληρώσετε αυτό το συμβόλαιο."
+"[english]quest25007desc0"	"You will be required to complete various tasks as Sniper to complete this contract."
 "quest25007desc1"	"************
 
 ΣΥΜΒΟΛΑΙΟ MANNCO ΚΛΗΣΗ-ΣΕ-FAX 1.54.45
@@ -1180,37 +943,8 @@ SNIPER. IT'S PAULING. STOP TALKING TO YOURSELF AND GET TO WORK. I'VE GOT A CONTR
 "[english]quest25007objectivedesc5"	"Kill a Sniper as Sniper: %s1"
 "quest25007objectivedesc6"	"Σκοτώστε ως Ακροβολιστής: %s1"
 "[english]quest25007objectivedesc6"	"Get a kill as Sniper: %s1"
-"quest25008desc0"	"************
-
-ΣΥΜΒΟΛΑΙΟ MANNCO ΚΛΗΣΗ-ΣΕ-FAX 1.54.45
-
-ΕΧΕΤΕ ΕΝΑ ΝΕΟ ΜΗΝΥΜΑ 
-ID-ΜΗΝΥΜΑΤΟΣ: <915PAULING>
-
-ΕΠΕΞΕΡΓΑΣΙΑ...
-
-************
-ΕΛΑ, ΚΑΤΑΣΚΟΠΕ. Η PAULING ΕΙΜΑΙ. ΕΚΑΝΑ ΕΚΕΙΝΟ ΤΟ DNA ΤΕΣΤ ΠΟΥ ΗΘΕΛΕΣ. ΜΟΥ ΧΡΩΣΤΑΣ, ΚΑΙ ΤΟ ΣΗΜΕΙΩΝΩ. ΑΝΑΛΑΒΕ ΤΟ.
-
-<ΤΕΛΟΣ ΜΗΝΥΜΑΤΟΣ>
-
-************"
-"[english]quest25008desc0"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-
-HEY, SPY. PAULING. I TOOK CARE OF THAT DNA TEST FOR YOU. YOU OWE ME ONE AND I'M CASHING IT IN. TAKE CARE OF THIS.
-
-<END TRANSCRIPT>
-
-************"
+"quest25008desc0"	"Απαιτείται να ολοκληρώσετε διάφορα καθήκοντα ως Κατάσκοπος για να ολοκληρώσετε αυτό το συμβόλαιο."
+"[english]quest25008desc0"	"You will be required to complete various tasks as Spy to complete this contract."
 "quest25008desc1"	"************
 
 ΣΥΜΒΟΛΑΙΟ MANNCO ΚΛΗΣΗ-ΣΕ-FAX 1.54.45
@@ -1243,6 +977,38 @@ SPY? JUST BETWEEN YOU AND ME [00:04 SILENCE]  YOU SHOULD REALLY WASH THAT SKI MA
 <END TRANSCRIPT>
 
 ************"
+"quest25008desc2"	"************
+
+ΣΥΜΒΟΛΑΙΟ MANNCO ΚΛΗΣΗ-ΣΕ-FAX 1.54.45
+
+ΕΧΕΤΕ 1 ΝΕΑ ΚΛΗΣΗ 
+ID-ΜΗΝΥΜΑΤΟΣ: <915PAULING>
+
+ΕΠΕΞΕΡΓΑΣΙΑ...
+
+************
+
+ΕΪ ΚΑΤΑΣΚΟΠΕ! [00:04 ΣΙΓΗ] Α, ΕΝΤΑΞΕΙ. ΜΑΛΛΟΝ ΘΑ ΑΚΟΛΟΥΘΕΙΣ ΚΡΥΦΑ ΚΑΠΟΙΟΝ ΤΩΡΑ. ΓΙΑ ΝΑ ΤΟΝ ΜΑΧΑΙΡΩΣΕΙΣ. Ω, ΣΤΟΙΧΗΜΑΤΙΖΩ ΟΤΙ ΕΊΣΑΙ ΚΑΙ ΕΤΟΙΜΟΣ ΝΑ ΤΟ ΚΑΝΕΙΣ ΑΥΤΗ ΤΗ ΣΤΙΓΜΗ. [00:02 ΣΙΓΗ] ΔΕΝ ΜΠΟΡΟΥΝ ΝΑ ΜΕ ΑΚΟΥΣΟΥΝ, ΕΤΣΙ; ΥΠΑΡΧΕΙ ΒΙΝΤΕΟ ΣΕ ΑΥΤΟ ΤΟ ΠΡΑΓΜΑ;
+
+<ΤΕΛΟΣ ΜΗΝΥΜΑΤΟΣ>
+
+************"
+"[english]quest25008desc2"	"************
+
+MANNCO CONTRACT CALL-TO-FAX 1.54.45
+
+YOU HAVE 1 NEW CALL 
+MESSAGE-ID: <915PAULING>
+
+PROCESSING...
+
+************
+
+HEY SPY! [00:04 SILENCE] OH RIGHT. YOU'RE PROBABLY SNEAKING UP ON SOMEBODY. TO STAB THEM. OHH, I BET YOU'RE JUST ABOUT TO DO IT, TOO. [00:02 SILENCE] THEY CAN'T HEAR ME, CAN THEY? DO YOU HAVE VIDEO ON THIS THING?
+
+<END TRANSCRIPT>
+
+************"
 "quest25008name0"	"Συμβόλαιο Κατασκόπου"
 "[english]quest25008name0"	"Spy Contract"
 "quest25008objectivedesc0"	"Κερδίστε πόντους ως Κατάσκοπος: %s1"
@@ -1259,6 +1025,70 @@ SPY? JUST BETWEEN YOU AND ME [00:04 SILENCE]  YOU SHOULD REALLY WASH THAT SKI MA
 "[english]quest25008objectivedesc5"	"Kill a Sniper as Spy: %s1"
 "quest25008objectivedesc6"	"Σκοτώστε ως Κατάσκοπος: %s1"
 "[english]quest25008objectivedesc6"	"Get a kill as Spy: %s1"
+"quest25009desc0"	"************
+
+ΣΥΜΒΟΛΑΙΟ MANNCO ΚΛΗΣΗ-ΣΕ-FAX 1.54.45
+
+ΕΧΕΤΕ ΕΝΑ ΝΕΟ ΜΗΝΥΜΑ 
+ID-ΜΗΝΥΜΑΤΟΣ: <915PAULING>
+
+ΕΠΕΞΕΡΓΑΣΙΑ... 
+
+************
+
+ΕΪ ΠΑΙΔΙΑ, PAULING ΕΔΩ. ΑΥΤΗ Η ΔΟΥΛΕΙΑ ΕΙΝΑΙ ΣΕ ΕΝΑ ΥΔΡΟΗΛΕΚΤΡΙΚΟ ΕΡΓΟΣΤΑΣΙΟ. ΤΟ ΟΠΟΙΟ ΜΕΤΑΤΡΕΠΕΙ ΤΟ ΝΕΡΟ ΣΕ ΕΝΕΡΓΕΙΑ, ΑΡΑ ΜΗΝ ΠΕΣΕΤΕ ΠΟΥΘΕΝΑ, ΓΙΑΤΙ ΑΛΛΙΩΣ ΜΑΛΛΟΝ ΘΑ ΓΙΝΕΤΕ ΚΑΘΑΡΟΣ ΗΛΕΚΤΡΙΣΜΟΣ. [00:05 ΣΙΓΗ] ΣΤΗΝ ΠΡΑΓΜΑΤΙΚΟΤΗΤΑ, ΑΥΤΟ ΑΚΟΥΓΕΤΑΙ ΜΑΛΛΟΝ ΦΟΒΕΡΟ. ΑΛΛΑΓΗ ΣΧΕΔΙΟΥ, ΠΗΔΗΞΤΕ ΟΛΟΙ ΜΕΣΑ ΣΤΗΝ ΠΡΩΤΗ ΓΕΝΝΗΤΡΙΑ ΠΟΥ ΘΑ ΔΕΙΤΕ.
+
+<ΤΕΛΟΣ ΜΗΝΥΜΑΤΟΣ>
+
+************"
+"[english]quest25009desc0"	"************
+
+MANNCO CONTRACT CALL-TO-FAX 1.54.45
+
+YOU HAVE 1 NEW CALL 
+MESSAGE-ID: <915PAULING>
+
+PROCESSING...
+
+************
+
+HEY GUYS, PAULING HERE. THIS JOB'S AT A HYDROELECTRIC PLANT. IT TURNS WATER INTO ENERGY, SO DONT FALL INTO ANYTHING OR YOULL PROBABLY TURN INTO PURE ELECTRICITY. [00:05 SILENCE] ACTUALLY, THAT SOUNDS PRETTY GREAT. CHANGE OF PLAN, EVERYBODY JUMP INTO THE FIRST TURBINE YOU SEE.
+
+<END TRANSCRIPT>
+
+************"
+"quest25009desc1"	"************
+
+ΣΥΜΒΟΛΑΙΟ MANNCO ΚΛΗΣΗ-ΣΕ-FAX 1.54.45
+
+ΕΧΕΤΕ ΕΝΑ ΝΕΟ ΜΗΝΥΜΑ 
+ID-ΜΗΝΥΜΑΤΟΣ: <915PAULING>
+
+ΕΠΕΞΕΡΓΑΣΙΑ...
+
+************
+
+ΣΑΣ ΒΡΗΚΑ ΜΙΑ ΔΟΥΛΕΙΑ ΣΕ ΕΝΑ ΥΔΡΟΗΛΕΚΤΡΙΚΟ ΕΡΓΟΣΤΑΣΙΟ. ΤΟ ΟΠΟΙΟ ΔΕΝ ΛΕΙΤΟΥΡΓΕΙ ΣΤΗΝ ΚΟΡΥΦΑΙΑ ΑΠΟΔΟΤΙΚΟΤΗΤΑ, ΕΤΣΙ ΣΑΣ ΑΝΕΘΕΣΑ ΤΗΝ ΑΝΤΙΚΑΤΑΣΤΑΣΗ ΟΛΩΝ ΤΩΝ ΥΔΡΟΗΛΕΚΤΡΙΚΩΝ ΓΕΝΝΗΤΡΙΩΝ, ΤΩΝ ΔΙΑΚΟΠΤΩΝ ΚΥΚΛΩΜΑΤΩΝ, ΤΩΝ ΑΝΤΛΙΩΝ ΚΑΙ ΛΟΙΠΟΥ ΒΟΗΘΗΤΙΚΟΥ ΕΞΟΠΛΙΣΜΟΥ. ΠΛΑΚΑ ΚΑΝΩ, ΑΠΛΑ ΘΕΛΩ ΝΑ ΠΑΤΕ ΕΚΕΙ ΚΑΙ ΝΑ ΣΚΟΤΩΣΕΤΕ ΚΟΣΜΟ.
+
+<ΤΕΛΟΣ ΜΗΝΥΜΑΤΟΣ>
+
+************"
+"[english]quest25009desc1"	"************
+
+MANNCO CONTRACT CALL-TO-FAX 1.54.45
+
+YOU HAVE 1 NEW CALL 
+MESSAGE-ID: <915PAULING>
+
+PROCESSING...
+
+************
+
+I GOT YOU A JOB AT A HYDROELECTRIC PLANT. IT'S NOT ACTING AT PEAK EFFICIENCY, SO I SIGNED YOU GUYS UP TO REPLACE ALL THE HYDROPOWER TURBINES, CIRCUIT BREAKERS, PUMPS, AND RELATED AUXILIARY EQUIPMENT . I'M KIDDING, I JUST NEED YOU TO GO THERE AND KILL PEOPLE.
+
+<END TRANSCRIPT>
+
+************"
 "quest25009desc2"	"************
 
 ΣΥΜΒΟΛΑΙΟ MANNCO ΚΛΗΣΗ ΣΕ FAX 1.54.45
@@ -1330,7 +1160,7 @@ HEY GUYS, PAULING HERE. THIS JOB'S AT A HYDROELECTRIC PLANT. SHOOT ANYTHING THAT
 "[english]quest25009objectivedesc1"	"Capture an objective on Powerhouse: %s1"
 "quest25009objectivedesc2"	"Σκοτώστε έναν εχθρό που κατακτάει ένα σημείο στην Powerhouse: %s1"
 "[english]quest25009objectivedesc2"	"Kill an enemy capturing a point on Powerhouse: %s1"
-"quest25009objectivedesc3"	"Κερδίστε ένα γύρο στην Powerhouse: %s1"
+"quest25009objectivedesc3"	"Κερδίστε έναν γύρο στην Powerhouse: %s1"
 "[english]quest25009objectivedesc3"	"Win a round on Powerhouse: %s1"
 "quest25009objectivedesc4"	"Κερδίστε πόντους στην Powerhouse: %s1"
 "[english]quest25009objectivedesc4"	"Score points on Powerhouse: %s1"
@@ -1438,7 +1268,7 @@ IM NOT GONNA LIE TO YOU, GUYS, THIS PLACE IS COLD. JUST KEEP KILLING PEOPLE, IT'
 "[english]quest25010objectivedesc1"	"Capture an objective on Snowplow: %s1"
 "quest25010objectivedesc2"	"Αμυνθείτε έναν στόχο στην Snowplow: %s1"
 "[english]quest25010objectivedesc2"	"Defend an objective on Snowplow: %s1"
-"quest25010objectivedesc3"	"Κερδίστε ένα γύρο στην Snowplow: %s1"
+"quest25010objectivedesc3"	"Κερδίστε έναν γύρο στην Snowplow: %s1"
 "[english]quest25010objectivedesc3"	"Win a round on Snowplow: %s1"
 "quest25011desc0"	"************
 
@@ -1512,7 +1342,7 @@ I HOPE YOU'VE GOT ALL YOUR SHOTS, BECAUSE THIS NEXT CONTRACT'S IN THE MIDDLE OF 
 "[english]quest25011objectivedesc1"	"Capture an objective on Borneo: %s1"
 "quest25011objectivedesc2"	"Αμυνθείτε το καρότσι στην Borneo: %s1"
 "[english]quest25011objectivedesc2"	"Defend the cart on Borneo: %s1"
-"quest25011objectivedesc3"	"Κερδίστε ένα γύρο στην Borneo: %s1"
+"quest25011objectivedesc3"	"Κερδίστε έναν γύρο στην Borneo: %s1"
 "[english]quest25011objectivedesc3"	"Win a round on Borneo: %s1"
 "quest25012desc0"	"************
 
@@ -1546,17 +1376,7 @@ HEY GUYS, PAULING HERE. I HOPE YOU LIKE JAPAN, BECAUSE THAT'S WHERE YOU'RE GOING
 <END TRANSCRIPT>
 
 ************"
-"quest25012name0"	"Συμβόλαιο Suijin"
-"[english]quest25012name0"	"Suijin Contract"
-"quest25012objectivedesc0"	"Κερδίστε πόντους στην Suijin: %s1"
-"[english]quest25012objectivedesc0"	"Score points on Suijin: %s1"
-"quest25012objectivedesc1"	"Αμυνθείτε το σημείο στην Suijin: %s1"
-"[english]quest25012objectivedesc1"	"Defend the objective on Suijin: %s1"
-"quest25012objectivedesc2"	"Κατακτήστε το σημείο στην Suijin: %s1"
-"[english]quest25012objectivedesc2"	"Capture the objective on Suijin: %s1"
-"quest25012objectivedesc3"	"Κερδίστε ένα γύρο στην Suijin: %s1"
-"[english]quest25012objectivedesc3"	"Win a round on Suijin: %s1"
-"quest25013desc0"	"************
+"quest25012desc1"	"************
 
 ΣΥΜΒΟΛΑΙΟ MANNCO ΚΛΗΣΗ-ΣΕ-FAX 1.54.45
 
@@ -1567,12 +1387,12 @@ ID-ΜΗΝΥΜΑΤΟΣ: <915PAULING>
 
 ************
 
-ΑΥΤΑ ΕΙΝΑΙ ΣΤΑΝΤΑΡ ΠΡΑΜΑΤΑ, ΠΑΙΔΙΑ. ΤΟ ΕΧΕΤΕ ΚΑΝΕΙ ΕΚΑΤΟΜΜΥΡΙΑ ΦΟΡΕΣ, ΟΠΟΤΕ ΜΗΝ ΑΓΧΩΝΕΣΤΕ. ΕΚΤΟΣ ΤΟΥ ΟΤΙ ΑΥΤΗ ΤΗ ΦΟΡΑ ΚΡΑΤΑΜΕ ΣΚΟΡ. ΟΠΟΤΕ ΒΑΣΙΚΑ ΑΓΧΩΘΕΙΤΕ ΟΣΟ ΜΠΟΡΕΙΤΕ.
+ΕΪ ΠΑΙΔΙΑ. ΣΑΛΩΣΤΕ! ΑΣΦΑΛΙΣΤΕ ΚΑΙ ΓΕΜΙΣΤΕ! ΠΕΤΑΞΤΕ ΤΙΣ ΚΑΛΤΣΕΣ ΣΑΣ ΚΑΙ ΠΑΡΤΕ ΟΧΙ, ΠΑΡΤΕ ΤΙΣ ΚΑΛΤΣΕΣ ΣΑΣ ΚΑΙ ΒΑΛΤΕ ΤΙΣ ΣΕ ΜΙΑ ΒΑΛΙΤΣΑ, ΓΙΑΤΙ ΠΡΟΚΕΙΤΑΙ ΝΑ ΠΑΤΕ ΣΤΗΝ ΙΑΠΩΝΙΑ.
 
 <ΤΕΛΟΣ ΜΗΝΥΜΑΤΟΣ>
 
 ************"
-"[english]quest25013desc0"	"************
+"[english]quest25012desc1"	"************
 
 MANNCO CONTRACT CALL-TO-FAX 1.54.45
 
@@ -1583,11 +1403,23 @@ PROCESSING...
 
 ************
 
-THIS ONE'S BY THE NUMBERS, GUYS. YOU'VE DONE THIS A MILLION TIMES BEFORE, SO NO PRESSURE. EXCEPT THIS TIME WE'RE KEEPING SCORE . SO ALL THE PRESSURE, ACTUALLY.
+HEY GUYS. SADDLE UP! LOCK AND LOAD! DROP YOUR SOCKS AND GRAB YOUR WELL, GRAB YOUR SOCKS AND PUT THEM IN A SUITCAUSE, BECAUSE YOU'RE GOING TO JAPAN.
 
 <END TRANSCRIPT>
 
 ************"
+"quest25012name0"	"Συμβόλαιο Suijin"
+"[english]quest25012name0"	"Suijin Contract"
+"quest25012objectivedesc0"	"Κερδίστε πόντους στην Suijin: %s1"
+"[english]quest25012objectivedesc0"	"Score points on Suijin: %s1"
+"quest25012objectivedesc1"	"Αμυνθείτε το σημείο στην Suijin: %s1"
+"[english]quest25012objectivedesc1"	"Defend the objective on Suijin: %s1"
+"quest25012objectivedesc2"	"Κατακτήστε το σημείο στην Suijin: %s1"
+"[english]quest25012objectivedesc2"	"Capture the objective on Suijin: %s1"
+"quest25012objectivedesc3"	"Κερδίστε έναν γύρο στην Suijin: %s1"
+"[english]quest25012objectivedesc3"	"Win a round on Suijin: %s1"
+"quest25013desc0"	"Απαιτείται να σκοράρετε πόντους σε οποιονδήποτε χάρτη και ως οποιαδήποτε κλάση για να ολοκληρώσετε αυτό το συμβόλαιο."
+"[english]quest25013desc0"	"You will be required to score points on any map and as any class to complete this contract."
 "quest25013desc1"	"************
 
 ΣΥΜΒΟΛΑΙΟ MANNCO ΚΛΗΣΗ-ΣΕ-FAX 1.54.45
@@ -1626,7 +1458,9 @@ PERFORMANCE REVIEW TIME, GUYS. GET OUT THERE AND DO WHAT YOU DO. NO PRESSURE. BU
 "[english]quest25013objectivedesc0"	"Score points: %s1"
 "quest25013objectivedesc1"	"Κερδίστε 10 πόντους σε μια ζωή: %s1"
 "[english]quest25013objectivedesc1"	"Score 10 points in a single life: %s1"
-"quest25014desc0"	"************
+"quest25014desc0"	"Απαιτείται να κερδίσετε σκοτωμούς για να ολοκληρώσετε αυτό το συμβόλαιο."
+"[english]quest25014desc0"	"You will be required to earn kills to complete this contract"
+"quest25014desc1"	"************
 
 ΣΥΜΒΟΛΑΙΟ MANNCO ΚΛΗΣΗ-ΣΕ-FAX 1.54.45
 
@@ -1637,12 +1471,12 @@ ID-ΜΗΝΥΜΑΤΟΣ: <915PAULING>
 
 ************
 
-Ε ΠΑΙΔΙΑ, ΚΡΑΤΗΣΤΕ ΤΟ ΜΥΣΤΙΚΟ, ΑΛΛΑ ΕΙΝΑΙ ΤΑ ΓΕΝΕΘΛΙΑ ΤΟΥ ΔΙΕΥΘΥΝΤΗ ΣΗΜΕΡΑ. ΟΠΟΤΕ ΘΕΛΩ ΝΑ ΠΑΤΕ ΚΑΙ ΝΑ ΣΚΟΤΩΣΕΤΕ ΠΕΡΙΣΣΟΤΕΡΑ ΑΤΟΜΑ ΑΠΟ ΟΣΑ ΕΧΕΤΕ ΣΚΟΤΩΣΕΙ ΠΟΤΕ, ΕΝΤΑΞΕΙ; ΔΗΛΑΔΗ, ΣΚΟΤΩΣΤΕ ΤΟΣΟ ΚΟΣΜΟ ΠΟΥ ΘΑ ΚΑΤΑΝΤΗΣΕΙ ΝΤΡΟΠΙΑΣΤΙΚΟ.
+ΠΡΕΠΕΙ ΝΑ ΞΕΦΟΡΤΩΘΟΥΜΕ ΜΙΑ ΠΟΣΟΤΗΤΑ ΑΣΒΕΣΤΗ ΓΡΗΓΟΡΑ, ΠΑΙΔΙΑ. ΤΟΝ ΚΛΕΨΑΜΕ ΑΠΟ ΤΗ ΓΙΑΠΩΝΕΖΙΚΗ ΜΑΦΙΑ ΚΑΙ ΕΡΧΟΝΤΑΙ ΓΙ ΑΥΤΟΝ. ΣΥΝΕΠΩΣ ΧΡΕΙΑΖΟΜΑΙ ΕΝΑΝ ΤΕΡΑΣΤΙΟ ΣΩΡΟ ΑΠΟ ΠΤΩΜΑΤΑ.
 
 <ΤΕΛΟΣ ΜΗΝΥΜΑΤΟΣ>
 
 ************"
-"[english]quest25014desc0"	"************
+"[english]quest25014desc1"	"************
 
 MANNCO CONTRACT CALL-TO-FAX 1.54.45
 
@@ -1653,7 +1487,7 @@ PROCESSING...
 
 ************
 
-HEY GUYS, KEEP IT UNDER YOUR HAT, BUT IT'S THE ADMINISTRATOR'S BIRTHDAY TODAY. SO I WANT YOU TO GET OUT THERE AND KILL MORE PEOPLE THAN YOU'VE EVER KILLED BEFORE, OKAY? I MEAN, I WANT YOU TO KILL SO MANY PEOPLE THAT IT GETS AWKWARD.
+WE'VE GOT TO GET RID OF SOME QUICKLIME FAST, GUYS. WE STOLE IT FROM THE JAPANESE MAFIA AND THEY'RE COMING FOR IT. SO I NEED A HUGE PILE OF BODIES ON THIS ONE.
 
 <END TRANSCRIPT>
 
@@ -1800,7 +1634,7 @@ WE NEED A BIG KILL-COUNT ON THIS ONE, GUYS. I WANT TO BE ABLE TO SEE THE PILE OF
 "[english]quest25015objectivedesc14"	"Kill an enemy in Hell on Hell Tower: %s1"
 "quest25015objectivedesc15"	"Σκοτώστε έναν σκελετό στην Hell Tower: %s1"
 "[english]quest25015objectivedesc15"	"Kill a Skeleton on Hell Tower: %s1"
-"quest25015objectivedesc16"	"Περάστε την φασματική γέφυρα στην Hell Tower: %s1"
+"quest25015objectivedesc16"	"Περάστε τη φασματική γέφυρα στην Hell Tower: %s1"
 "[english]quest25015objectivedesc16"	"Cross the Spectral Bridge on Hell Tower: %s1"
 "quest25015objectivedesc17"	"Αποδράστε από την κόλαση στην Hell Tower: %s1"
 "[english]quest25015objectivedesc17"	"Escape Hell on Hell Tower: %s1"
@@ -1812,7 +1646,7 @@ WE NEED A BIG KILL-COUNT ON THIS ONE, GUYS. I WANT TO BE ABLE TO SEE THE PILE OF
 "[english]quest25015objectivedesc2"	"Pickup a Crumpkin: %s1"
 "quest25015objectivedesc20"	"Μαζέψτε μια πάπια στα συγκρουόμενα: %s1"
 "[english]quest25015objectivedesc20"	"Collect a Duck in Bumper Karts: %s1"
-"quest25015objectivedesc21"	"Σκοτώστε έναν αντίπαλο με σύγκρουση: %s1"
+"quest25015objectivedesc21"	"Σκοτώστε έναν εχθρό με σύγκρουση: %s1"
 "[english]quest25015objectivedesc21"	"Bump an enemy to death: %s1"
 "quest25015objectivedesc22"	"Μαζέψτε μια ψυχή στην Eyeaduct: %s1"
 "[english]quest25015objectivedesc22"	"Collect a soul on Eyeaduct: %s1"
@@ -1844,7 +1678,7 @@ Hm. I'm surprised I put that one in there."
 "[english]quest25016name1632016"	"Kill Merasmus Quest"
 "quest25016objectivedesc1"	"Σκοτώστε τον Merasmus: %s1"
 "[english]quest25016objectivedesc1"	"Kill Merasmus: %s1"
-"quest25017desc1"	"Αν ήταν να ξεστομίσω φωναχτά τις λεπτομέρειες αυτού του συμβολαίου, ο μικροσκοπικός σας κόσμος θα καταστραφόταν. Καλωσήρθατε στον εφιάλτη σας, θνητοί! Το ΔΙΑΒΑΣΜΑ!"
+"quest25017desc1"	"Αν ήταν να ξεστομίσω φωναχτά τις λεπτομέρειες αυτού του συμβολαίου, ο μικροσκοπικός σου κόσμος θα καταστρεφόταν. Καλώς ήρθες στον εφιάλτη σου, θνητέ! Το ΔΙΑΒΑΣΜΑ!"
 "[english]quest25017desc1"	"Were I to utter the details of this contract aloud, the tiny world you know would be rend asunder! Welcome to your nightmare, mortal! READING!"
 "quest25017name1"	"Monoculus"
 "[english]quest25017name1"	"Monoculus"
@@ -1862,6 +1696,10 @@ Hm. I'm surprised I put that one in there."
 "[english]quest25018name1632016"	"HHH quest"
 "quest25018objectivedesc1"	"Σκοτώστε τον Horseless Headless Horsemann στην Mann Manor: %s1"
 "[english]quest25018objectivedesc1"	"Kill the Horseless Headless Horsemann on Mann Manor: %s1"
+"quest25019desc1"	"Απόψε θα επισκεφθείτε τα βασίλεια των περασμένων Halloween! Θυμάστε όταν έβαλα το μάτι του Κατεδαφιστή να σας επιτεθεί; Αυτό ήταν αρκετά μοχθηρό! Ο Merasmus θα χρειαστεί μάλλον να φτιάξει ένα μεγαλύτερο ράφι για τα μοχθηρά βραβεία που αδιαμφισβήτητα θα αρχίσουν να έρχονται για αυτό."
+"[english]quest25019desc1"	"Tonight you will visit the realms of Halloweens past! Remember when I got Demo's eyeball to attack you all? That was pretty evil! Merasmus might have to build a bigger shelf for the evil awards that will doubtlessly be coming his way for that one."
+"quest25019desc2"	"Απόψε θα επισκεφθείτε τα βασίλεια των περασμένων Halloween! Όπως τότε που ο Στρατιώτης μετέτρεψε το μοχθηρό μου κάστρο σε άσυλο για ρακούν! Το θυμάστε όλοι αυτό; Αυτή ήταν... μία κακή μέρα για τον Merasmus. Μου πήρε καιρό να το ξεπεράσω αυτό."
+"[english]quest25019desc2"	"Tonight you will visit the realms of Halloweens past! Like that time Soldier turned my evil castle into a raccoon sanctuary! Everyone remember that? That was... a bad day for Merasmus. It took a while to walk that one off."
 "quest25019name1"	"Eyeaduct"
 "[english]quest25019name1"	"Eyeaduct"
 "quest25019name1632016"	"Αποστολή Eyeaduct"
@@ -1880,6 +1718,8 @@ Hm. I'm surprised I put that one in there."
 "[english]quest25019objectivedesc6"	"Kill a player scared by a ghost: %s1"
 "quest25019objectivedesc7"	"Μαζέψτε ψυχές στην Eyeaduct: %s1"
 "[english]quest25019objectivedesc7"	"Collect souls on Eyeaduct: %s1"
+"quest25020desc1"	"Στοιχηματίζετε ότι θα ΚΕΡΔΙΣΕΤΕ αυτό το συμβόλαιο; Θα παίζατε... ΤΗΝ ΙΔΙΑ ΣΑΣ ΤΗ ΨΥΧΗ; Χαχαχα! Παρακαλώ σημειώστε ότι δεν σας απειλώ ρητά, γιατί αλλιώς θα συμφωνούσατε σε αυτό το συμβόλαιο υπό καθεστώς φόβου. Αυτό... ω ρε φίλε, αυτό δεν θα ήταν καλό για τον Merasmus."
+"[english]quest25020desc1"	"Bet you'll WIN this contract? Would you wager... YOUR VERY SOUL? Hahaha! Please note I'm not explicitly threatening you, or you'd be agreeing to this contract under duress. That... hoo boy, that would not be good for Merasmus."
 "quest25020desc2"	"Σήμερα τα εμπόδια έπεσαν! Ανάμεσα στο γνωστό και το άγνωστο! Το αληθινό και το φανταστικό! Τα πληρωμένα και τα απλήρωτα χρέη στην Ρώσικη μαφία! Αχαχα! Χα χα. Έβαλαν τον Merasmus σε ένα ΦΟΡΤΗΓΟ, θνητέ!"
 "[english]quest25020desc2"	"Tonight the barriers are down! Between the known and the unknown! The real and the unreal!  The paid debts and the unpaid debts to the Russian mafia! Ahaha! Ha ha. They put Merasmus in a TRUNK, mortal!"
 "quest25020name1"	"Ghost Fort"
@@ -1894,7 +1734,7 @@ Hm. I'm surprised I put that one in there."
 "[english]quest25020objectivedesc3"	"Find Merasmus's hiding place: %s1"
 "quest25020objectivedesc4"	"Μαζέψτε ψυχές στην Ghost Fort: %s1"
 "[english]quest25020objectivedesc4"	"Collect souls on Ghost Fort: %s1"
-"quest25021desc1"	"Το συμβόλαιο είναι ΠΟΛΥ ΣΑΤΑΝΙΚΟ! Αλλά όχι νομικά επιβλητό! Ο Merasmus δεν πήγε σε νομική σχολή! Πήρε το δίπλωμά του στους ΔΡΟΜΟΥΣ! Του δρόμους της HELLTOWER!"
+"quest25021desc1"	"Το συμβόλαιο είναι ΠΟΛΥ ΣΑΤΑΝΙΚΟ! Αλλά όχι νομικά επιβλητό! Ο Merasmus δεν πήγε σε νομική σχολή! Πήρε το δίπλωμά του στους ΔΡΟΜΟΥΣ! Τους δρόμους της HELLTOWER!"
 "[english]quest25021desc1"	"This contract is EVIL ITSELF! Though not legally enforcable! Merasmus didn't go to law school! He got HIS diploma on the STREETS! The streets of HELLTOWER!"
 "quest25021desc2"	"Το συμβόλαιο δεν είναι απλά σατανικό! Είναι ΝΟΜΙΚΑ ΔΕΣΜΕΥΤΙΚΟ σε όλες τις πολιτείες εκτός της Χαβάης! Αχαχα! ΑΛΟΧΑ, θνητέ!"
 "[english]quest25021desc2"	"This contract isn't just evil! It's LEGALLY BINDING in every state but Hawaii! Ahaha! ALOHA, mortal!"
@@ -1924,7 +1764,7 @@ Hm. I'm surprised I put that one in there."
 "[english]quest25022objectivedesc1"	"Revive a teammate during bumper cars: %s1"
 "quest25022objectivedesc2"	"Μαζέψτε μια πάπια: %s1"
 "[english]quest25022objectivedesc2"	"Collect a duck: %s1"
-"quest25022objectivedesc3"	"Χτυπήστε έναν εχθρό με το συγκρουόμενο μέχρι θανάτου: %s1"
+"quest25022objectivedesc3"	"Σκοτώστε έναν εχθρό με σύγκρουση: %s1"
 "[english]quest25022objectivedesc3"	"Bump an enemy to death: %s1"
 "quest25022objectivedesc4"	"Νικήστε ένα παιχνίδι με συγκρουόμενα: %s1"
 "[english]quest25022objectivedesc4"	"Win a bumper car game: %s1"
@@ -1934,6 +1774,8 @@ Hm. I'm surprised I put that one in there."
 "[english]quest25022objectivedesc6"	"Collect souls on Carnival of Carnage: %s1"
 "quest25023desc1"	"Ωχ, γεια σου Sauron. Τι είπες; Ναι, ο Merasmus πάει γυμναστήριο. Είναι κολακευτικό που το παρατήρησες, εγώ -- μια στιγμή, πρέπει να δώσω σε κάτι ηλίθιους μισθοφόρους ένα συμβόλαιο."
 "[english]quest25023desc1"	"Oh, hello, Sauron. What's that? Yes, Merasmus HAS been working out. It's flattering you noticed, I -- hold on, I need to give some idiot mercenary a contract."
+"quest25023desc2"	"Μην το ψάχνετε και πολύ με ΑΥΤΗΝ τη Merasm-αποστολή! Είναι μολυσμένη από ένα σωρό σκουλήκια της κόλασης τα οποία οι ανθρώπινοι επιστήμονές σας θα αποκαλούσαν ΑΣΗΜΟΨΑΡΑ! Ναι, θνητέ, υπήρξε ΣΗΜΑΝΤΙΚΗ ΖΗΜΙΑ ΑΠΟ ΝΕΡΟ στη μονάδα αποθήκευσης του Merasmus!"
+"[english]quest25023desc2"	"Don't look too closely at THIS Merasmission! It is infested with a host of hell-worms your human scientists would call SILVERFISH! Yes, mortal, there was SIGNIFICANT WATER DAMAGE in Merasmus's storage unit!"
 "quest25023name1"	"Mann Manor"
 "[english]quest25023name1"	"Mann Manor"
 "quest25023name1632016"	"Mann Manor"
@@ -2018,7 +1860,7 @@ Hm. I'm surprised I put that one in there."
 "[english]quest25029objectivedesc2"	"Push the Payload Cart: %s1"
 "quest25029objectivedesc3"	"Σκοτώστε έναν εχθρό σπρώχνοντας το καρότσι: %s1"
 "[english]quest25029objectivedesc3"	"Kill an enemy pushing the Cart: %s1"
-"quest25029objectivedesc4"	"Κερδίστε ένα γύρο με καρότσι: %s1"
+"quest25029objectivedesc4"	"Κερδίστε έναν γύρο με καρότσι: %s1"
 "[english]quest25029objectivedesc4"	"Win a round of Payload: %s1"
 "quest25030desc1"	" "
 "[english]quest25030desc1"	""
@@ -2034,8 +1876,8 @@ Hm. I'm surprised I put that one in there."
 "[english]quest25030objectivedesc3"	"Defend a Control Point on a CP map: %s1"
 "quest25030objectivedesc4"	"Κερδίστε έναν γύρο σε έναν χάρτη CP: %s1"
 "[english]quest25030objectivedesc4"	"Win a round on a CP map: %s1"
-"quest25031desc1"	" "
-"[english]quest25031desc1"	""
+"quest25031desc1"	"Απαιτείται να χρησιμοποιήσετε το Soda Popper ως Ανιχνευτής για να ολοκληρώσετε αυτό το συμβόλαιο."
+"[english]quest25031desc1"	"You will be required to use the Soda Popper as Scout to complete this contract."
 "quest25031name0"	"Ανιχνευτής - Soda Popper"
 "[english]quest25031name0"	"Scout - The Soda Popper"
 "quest25031name1"	"Soda Popper"
@@ -2058,7 +1900,7 @@ Hm. I'm surprised I put that one in there."
 "[english]quest25032objectivedesc1"	"Score points as Scout: %s1"
 "quest25032objectivedesc2"	"Σκοτώστε ως Ανιχνευτής: %s1"
 "[english]quest25032objectivedesc2"	"Kill as Scout: %s1"
-"quest25032objectivedesc3"	"Σκοτώστε έναν σαστισμένο εχθρό: %s1"
+"quest25032objectivedesc3"	"Σκοτώστε έναν ζαλισμένο εχθρό: %s1"
 "[english]quest25032objectivedesc3"	"Kill a stunned enemy: %s1"
 "quest25032objectivedesc4"	"Κατακτήστε έναν στόχο ως Ανιχνευτής: %s1"
 "[english]quest25032objectivedesc4"	"Capture an objective as Scout: %s1"
@@ -2100,8 +1942,10 @@ Hm. I'm surprised I put that one in there."
 "[english]quest25035name1"	"Airblast"
 "quest25035objectivedesc1"	"Κερδίστε πόντους ως Εμπρηστής: %s1"
 "[english]quest25035objectivedesc1"	"Score points as Pyro: %s1"
-"quest25035objectivedesc2"	"Σβήστε έναν φλεγόμενο σύμμαχο: %s1"
+"quest25035objectivedesc2"	"Σβήστε έναν φλεγόμενο συμπαίκτη: %s1"
 "[english]quest25035objectivedesc2"	"Extinguish a burning teammate: %s1"
+"quest25035objectivedesc3"	"Σκοτώστε με ένα αποκρουσθέν βλήμα ως Εμπρηστής: %s1"
+"[english]quest25035objectivedesc3"	"Kill with a reflected projectile as Pyro: %s1"
 "quest25035objectivedesc4"	"Περιβαλλοντικός σκοτωμός ως Εμπρηστής: %s1"
 "[english]quest25035objectivedesc4"	"Environmental kill as Pyro: %s1"
 "quest25036desc1"	" "
@@ -2144,8 +1988,10 @@ Hm. I'm surprised I put that one in there."
 "[english]quest25038objectivedesc1"	"Score points as Demoman: %s1"
 "quest25038objectivedesc2"	"Σκοτώστε με sticky: %s1"
 "[english]quest25038objectivedesc2"	"Sticky grenade kill: %s1"
-"quest25038objectivedesc3"	"Σκοτώστε έναν εχθρό ενώ πραγματοποιείτε τον στόχο: %s1"
+"quest25038objectivedesc3"	"Σκοτώστε έναν εχθρό που κατακτά έναν στόχο: %s1"
 "[english]quest25038objectivedesc3"	"Kill an enemy doing the objective: %s1"
+"quest25038objectivedesc4"	"Πετύχετε ένα Double Donk με το Loose Cannon: %s1"
+"[english]quest25038objectivedesc4"	"Land a Double Donk with the Loose Cannon: %s1"
 "quest25039desc1"	" "
 "[english]quest25039desc1"	""
 "quest25039name0"	"Βαρύς - Sandvich"
@@ -2170,6 +2016,8 @@ Hm. I'm surprised I put that one in there."
 "[english]quest25040objectivedesc1"	"Score points as Heavy: %s1"
 "quest25040objectivedesc2"	"Σκοτώστε ως Βαρύς: %s1"
 "[english]quest25040objectivedesc2"	"Kill as Heavy: %s1"
+"quest25040objectivedesc3"	"Μπλοκάρετε 500 ζημιά ως Βαρύς: %s1"
+"[english]quest25040objectivedesc3"	"Block 500 damage as Heavy: %s1"
 "quest25040objectivedesc4"	"Δεχθείτε 1000 ζημιά σε μια ζωή: %s1"
 "[english]quest25040objectivedesc4"	"Take 1000 damage in a single life: %s1"
 "quest25041desc1"	" "
@@ -2184,6 +2032,8 @@ Hm. I'm surprised I put that one in there."
 "[english]quest25041objectivedesc2"	"Kill with a Sentry: %s1"
 "quest25041objectivedesc3"	"Σκοτώστε με ένα κατευθυνόμενο sentry: %s1"
 "[english]quest25041objectivedesc3"	"Kill with a Wrangled Sentry: %s1"
+"quest25041objectivedesc4"	"Κάντε 5 φόνους με sentry σε μια ζωή: %s1"
+"[english]quest25041objectivedesc4"	"Get 5 Sentry kills in a single life: %s1"
 "quest25042desc1"	" "
 "[english]quest25042desc1"	""
 "quest25042name0"	"Μηχανικός - Frontier Justice"
@@ -2192,6 +2042,8 @@ Hm. I'm surprised I put that one in there."
 "[english]quest25042name1"	"Frontier Justice"
 "quest25042objectivedesc1"	"Κερδίστε πόντους ως Μηχανικός: %s1"
 "[english]quest25042objectivedesc1"	"Score points as Engineer: %s1"
+"quest25042objectivedesc2"	"Διανείμετε 500 υγεία σε συμπαίκτες: %s1"
+"[english]quest25042objectivedesc2"	"Dispense 500 health to teammates: %s1"
 "quest25042objectivedesc3"	"Τηλεμεταφέρετε έναν συμπαίκτη: %s1"
 "[english]quest25042objectivedesc3"	"Teleport a teammate: %s1"
 "quest25042objectivedesc4"	"Καίριος φόνος εκδίκησης με το Frontier Justice: %s1"
@@ -2206,6 +2058,10 @@ Hm. I'm surprised I put that one in there."
 "[english]quest25043objectivedesc1"	"Score points as Medic: %s1"
 "quest25043objectivedesc2"	"Θεραπεύστε 50 υγεία με το Crusader's Crossbow: %s1"
 "[english]quest25043objectivedesc2"	"Heal 50 health with the Crusader's Crossbow: %s1"
+"quest25043objectivedesc3"	"Ανακτήστε ή συλλέξτε 200 υγεία ως Γιατρός: %s1"
+"[english]quest25043objectivedesc3"	"Regenerate or collect 200 health as Medic: %s1"
+"quest25043objectivedesc4"	"Θεραπεύστε από απόσταση με το Crusader's Crossbow: %s1"
+"[english]quest25043objectivedesc4"	"Long range heal with the Crusader's Crossbow: %s1"
 "quest25044desc1"	" "
 "[english]quest25044desc1"	""
 "quest25044name0"	"Γιατρός - Kritzkrieg"
@@ -2218,6 +2074,8 @@ Hm. I'm surprised I put that one in there."
 "[english]quest25044objectivedesc2"	"Assist in a kill as Medic: %s1"
 "quest25044objectivedesc3"	"Βοηθήστε σε έναν φόνο με καίρια: %s1"
 "[english]quest25044objectivedesc3"	"Assist in a crit-boosted kill: %s1"
+"quest25044objectivedesc4"	"Βοηθήστε σε 3 φόνους με ένα Kritzkrieg uber: %s1"
+"[english]quest25044objectivedesc4"	"Assist in 3 kills in a single Kritzkrieg uber: %s1"
 "quest25045desc1"	" "
 "[english]quest25045desc1"	""
 "quest25045name0"	"Ακροβολιστής - Jarate"
@@ -2240,6 +2098,12 @@ Hm. I'm surprised I put that one in there."
 "[english]quest25046name1"	"Huntsman"
 "quest25046objectivedesc1"	"Κερδίστε πόντους ως Ακροβολιστής: %s1"
 "[english]quest25046objectivedesc1"	"Score points as Sniper: %s1"
+"quest25046objectivedesc2"	"Κάντε κεφαλίδι με ένα βέλος ως Ακροβολιστής: %s1"
+"[english]quest25046objectivedesc2"	"Headshot with an arrow as Sniper: %s1"
+"quest25046objectivedesc3"	"Σκοτώστε από απόσταση με βέλος ως Ακροβολιστής: %s1"
+"[english]quest25046objectivedesc3"	"Long range arrow kill as Sniper: %s1"
+"quest25046objectivedesc4"	"Σκοτώστε από κοντά με βέλος ως Ακροβολιστής: %s1"
+"[english]quest25046objectivedesc4"	"Close range arrow kill as Sniper: %s1"
 "quest25046objectivedesc5"	"Σκοτώστε με χλευασμό ως Ακροβολιστής: %s1"
 "[english]quest25046objectivedesc5"	"Taunt kill as Sniper: %s1"
 "quest25047desc1"	" "
@@ -2250,6 +2114,12 @@ Hm. I'm surprised I put that one in there."
 "[english]quest25047name1"	"Dead Ringer"
 "quest25047objectivedesc1"	"Κερδίστε πόντους ως Κατάσκοπος: %s1"
 "[english]quest25047objectivedesc1"	"Score points as Spy: %s1"
+"quest25047objectivedesc2"	"Καταστρέψτε ένα κτήριο με ένα sapper: %s1"
+"[english]quest25047objectivedesc2"	"Destroy a building with a sapper: %s1"
+"quest25047objectivedesc3"	"Επιζήστε από μία επίθεση που σε κάθε άλλη περίπτωση θα σας σκότωνε: %s1"
+"[english]quest25047objectivedesc3"	"Survive an attack that would otherwise kill you: %s1"
+"quest25047objectivedesc4"	"Απορροφήστε 125 υγεία με το Dead Ringer: %s1"
+"[english]quest25047objectivedesc4"	"Absorb 125 health with the Deadringer: %s1"
 "quest25048desc1"	" "
 "[english]quest25048desc1"	""
 "quest25048name0"	"Κατάσκοπος - Μεταμφίεση"
@@ -2258,6 +2128,10 @@ Hm. I'm surprised I put that one in there."
 "[english]quest25048name1"	"Master of Disguise"
 "quest25048objectivedesc1"	"Κερδίστε πόντους ως Κατάσκοπος: %s1"
 "[english]quest25048objectivedesc1"	"Score points as Spy: %s1"
+"quest25048objectivedesc2"	"Καταστρέψτε ένα κτήριο με ένα sapper: %s1"
+"[english]quest25048objectivedesc2"	"Destroy a building with a Sapper: %s1"
+"quest25048objectivedesc3"	"Μαχαιρώστε πισώπλατα τον εχθρό στο οποίον έχετε μεταμφιεστεί: %s1"
+"[english]quest25048objectivedesc3"	"Backstab the enemy you are disguised as: %s1"
 "quest25048objectivedesc4"	"Σκοτωμοί χωρίς μεταμφίεση ως Κατάσκοπος: %s1"
 "[english]quest25048objectivedesc4"	"Undisguised kill as Spy: %s1"
 "quest25048objectivedesc5"	"Σκοτώστε τον Βαρύ, Γιατρό, Ακροβολιστή, ή τον Μηχανικό ως Κατάσκοπος: %s1"
@@ -2272,6 +2146,10 @@ Hm. I'm surprised I put that one in there."
 "[english]quest25049objectivedesc1"	"Score points on Snowycoast: %s1"
 "quest25049objectivedesc2"	"Κερδίστε έναν γύρο στην Snowycoast: %s1"
 "[english]quest25049objectivedesc2"	"Win a round on Snowycoast: %s1"
+"quest25049objectivedesc3"	"Σπρώξτε το καρότσι στην Snowycoast: %s1"
+"[english]quest25049objectivedesc3"	"Push the Payload Cart on Snowycoast: %s1"
+"quest25049objectivedesc4"	"Σκοτώστε έναν εχθρό στο καρότσι στην Snowycoast: %s1"
+"[english]quest25049objectivedesc4"	"Kill an enemy pushing the Cart on Snowycoast: %s1"
 "quest25050desc1"	" "
 "[english]quest25050desc1"	""
 "quest25050name0"	"Χάρτης κοινότητας Vanguard"
@@ -2338,5 +2216,19 @@ Hm. I'm surprised I put that one in there."
 "[english]quest25055objectivedesc2"	"Collect haunted souls: %s1"
 "quest25055objectivedesc3"	"Αποθέστε στοιχειωμένες ψυχές στον υπόκοσμο: %s1"
 "[english]quest25055objectivedesc3"	"Deposit haunted souls in the Underworld: %s1"
+"quest25013objectivedesc2"	"Γίνετε ο MVP στο τέλος ενός γύρου: %s1"
+"[english]quest25013objectivedesc2"	"Be MVP at the end of a round: %s1"
+"quest25056desc0"	"Θα πρέπει να ολοκληρώσετε ποικίλες αποστολές στην Lair για να ολοκληρώσετε αυτό το συμβόλαιο."
+"[english]quest25056desc0"	"You will be required to complete various tasks on Lair to complete this contract."
+"quest25056name0"	"Lair"
+"[english]quest25056name0"	"Lair"
+"quest25056objectivedesc1"	"Κερδίστε πόντους στην Lair: %s1"
+"[english]quest25056objectivedesc1"	"Score points on Lair: %s1"
+"quest25056objectivedesc2"	"Κατακτήστε ένα σημείο ελέγχου στην Lair: %s1"
+"[english]quest25056objectivedesc2"	"Capture a Control Point on Lair: %s1"
+"quest25056objectivedesc3"	"Προστατέψτε ένα σημείο ελέγχου στην Lair: %s1"
+"[english]quest25056objectivedesc3"	"Defend a Control Point on Lair: %s1"
+"quest25056objectivedesc4"	"Κερδίστε έναν γύρο στην Lair: %s1"
+"[english]quest25056objectivedesc4"	"Win a round on Lair: %s1"
 }
 }

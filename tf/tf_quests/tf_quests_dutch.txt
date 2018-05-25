@@ -1,40 +1,10 @@
-﻿"lang"
+"lang"
 {
 "Language"	"dutch"
 "Tokens"
 {
-"quest25000desc0"	"************
-
-MANNCO CONTRACT FAXBERICHT 1.54.45
-
-JE HEBT 1 NIEUW BERICHT 
-BERICHT-ID: <915PAULING>
-
-VERWERKEN...
-
-************
-
-SCOUT? HET IS PAULING. IK NEEM AAN DAT JE NU AAN HET PRATEN BENT, HOU OP. DIT IS GEEN VRIENDELIJK BERICHTJE. IK HEB WERK.
-
-<EINDE TRANSCRIPT>
-
-************"
-"[english]quest25000desc0"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-
-SCOUT? IT'S PAULING. I'M ASSUMING YOU'RE TALKING RIGHT NOW, PLEASE STOP. THIS ISN'T A SOCIAL CALL. I'VE GOT WORK.
-
-<END TRANSCRIPT>
-
-************"
+"quest25000desc0"	"Voltooi verscheidene taken als Scout om dit contract te voltooien."
+"[english]quest25000desc0"	"Complete various tasks as Scout to complete this contract."
 "quest25000desc1"	"************
 
 MANNCO CONTRACT FAXBERICHT 1.54.45
@@ -112,38 +82,8 @@ HEY, SCOUT. IT'S PAULING. I, UH, GOT YOUR PHONE MESSAGE. MESSAGES. ALL OF THEM. 
 "[english]quest25000objectivedesc4"	"Kill as Scout: %s1"
 "quest25000objectivedesc5"	"Dood een Medic als Scout: %s1"
 "[english]quest25000objectivedesc5"	"Kill a Medic as Scout: %s1"
-"quest25001desc0"	"************
-
-MANNCO-CONTRACT FAXBERICHT 1.54.45
-
-JE HEBT 1 NIEUW BERICHT 
-BERICHT-ID: <915PAULING>
-
-VERWERKEN...
-
-************
-
-HALLO, JONGEN. JE MOET EVEN STOPPEN OM DE INGEWANDEN VAN JE VRIEND BINNEN TE HOUDEN EN NAAR ME LUISTEREN. IK HEB EEN CONTRACT VOOR [00:03 STILTE] IK BEDOEL, IK HEB EEN GEHEIME MILITAIRE LEGEROPERATIE VOOR JE. OPERATIE ZULU BRAVO [00:02 STILTE] DELTATROT. JE ZOU HIER VERDOMME EEN MEDAILLE VOOR KRIJGEN ALS HET NIET ZO'N GEHEIME MARINESCUBAGRANAATOPERATIE WAS. DAT IS HET TROUWENS OOK, DUS VERTEL NIEMAND ANDERS EROVER. MAAK ME TROTS, JONGEN. PAULING UIT.
-
-<EINDE TRANSCRIPT>
-
-************"
-"[english]quest25001desc0"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-
-HELLO, SON. I NEED YOU TO STOP HOLDING YOUR BEST FRIEND'S GUTS IN AND LISTEN UP. I'VE GOT A CONTRACT FOR [00:03 SILENCE] I MEAN, I'VE GOT A MILITARY ARMY DARK OP FOR YOU. OPERATION ZULO BRAVO [00:02 SILENCE] DELTATROT. THERE'D BE A DAMN MEDAL IN THIS FOR YOU IF IT WASN'T SO NAVY DARK SCUBA GRENADE OPS. WHICH IT IS, BY THE WAY, SO DON'T TELL THE OTHER GUYS.  MAKE ME PROUD, SON.  PAULING OUT.
-
-<END TRANSCRIPT>
-
-************"
+"quest25001desc0"	"Je zult verscheidene taken als Soldier moeten voltooien om dit contract te voltooien."
+"[english]quest25001desc0"	"You will be required to complete various tasks as Soldier to complete this contract."
 "quest25001desc1"	"************
 
 MANNCO-CONTRACT FAXBERICHT 1.54.45
@@ -332,38 +272,8 @@ SOLDIER, YOU KNOW WHO DOESN'T WANT YOU TO TAKE THIS JOB? HIPPIES. COMMUNISTS. TO
 "[english]quest25001objectivedesc8"	"Heal 200 damage as Soldier: %s1"
 "quest25001objectivedesc9"	"Medics gedood als Soldier: %s1"
 "[english]quest25001objectivedesc9"	"Medics killed as Soldier: %s1"
-"quest25002desc0"	"************
-
-MANNCO-CONTRACT FAXBERICHT 1.54.45
-
-JE HEBT 1 NIEUW BERICHT 
-BERICHT-ID: <915PAULING>
-
-VERWERKEN...
-
-************
-
-HOI, PYRO! IK HEB IETS WAT JE VOOR ME MOET DOEN, OKÉ, MAATJE?
-
-<EINDE TRANSCRIPT>
-
-************"
-"[english]quest25002desc0"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-
-HI, PYRO! I'VE GOT SOMETHING I NEED YOU TO DO, OKAY, BUDDY?
-
-<END TRANSCRIPT>
-
-************"
+"quest25002desc0"	"Je zult verscheidene taken als Pyro moeten voltooien om dit contract te voltooien."
+"[english]quest25002desc0"	"You will be required to complete various tasks as Pyro to complete this contract."
 "quest25002desc1"	"************
 
 MANNCO-CONTRACT FAXBERICHT 1.54.45
@@ -442,38 +352,8 @@ HEY, PYRO! [SOUNDS OF MUFFLED VOICE WITH HAND OVER MOUTH, 00:07] ALWAYS WANTED T
 "[english]quest25002objectivedesc4"	"Ignite an invisible or disguised Spy as Pyro: %s1"
 "quest25002objectivedesc5"	"Dood als Pyro: %s1"
 "[english]quest25002objectivedesc5"	"Kill as Pyro: %s1"
-"quest25003desc0"	"************
-
-MANNCO-CONTRACT FAXBERICHT 1.54.45
-
-JE HEBT 1 NIEUW BERICHT 
-BERICHT-ID: <915PAULING>
-
-VERWERKEN...
-
-************
-
-HÉ, DEMO. IK ZAT AAN DE TELEFOON MET JE MOEDER EN ZE ZEI DAT JE NIET GENOEG BAANTJES HEBT, DUS HEB IK ER NOG EENTJE VOOR JE. IK ZAL NIET LIEGEN, ZE KLONK BOOS.
-
-<EINDE TRANSCRIPT>
-
-************"
-"[english]quest25003desc0"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-
-HEY, DEMO. I WAS ON THE PHONE WITH YOUR MOM, SHE SAID YOU DIDN'T HAVE ENOUGH JOBS, SO I GOT YOU AN EXTRA ONE. I WON'T LIE, SHE SOUNDED ANGRY.
-
-<END TRANSCRIPT>
-
-************"
+"quest25003desc0"	"Je zult verscheidene taken als Demoman moeten voltooien om dit contract te voltooien."
+"[english]quest25003desc0"	"You will be required to complete various tasks as Demoman to complete this contract."
 "quest25003desc1"	"************
 
 MANNCO-CONTRACT FAXBERICHT 1.54.45
@@ -648,38 +528,8 @@ HEY DEMO. THIS JOB IS FOR YOUR EYES ONLY. EYE. I MEAN [00:03 SILENCE] YOU GET IT
 "[english]quest25003objectivedesc4"	"Get a kill as Demoman: %s1"
 "quest25003objectivedesc5"	"Ram tegen een vijand aan met een schild: %s1"
 "[english]quest25003objectivedesc5"	"Bash an enemy with a shield: %s1"
-"quest25004desc0"	"************
-
-MANNCO-CONTRACT FAXBERICHT 1.54.45
-
-JE HEBT 1 NIEUW BERICHT 
-BERICHT-ID: <915PAULING>
-
-VERWERKEN...
-
-************
-
-HÉ, HEAVY. PAULING HIER. MOMENTJE. [GEWEERGELUIDEN, 00:07] SORRY. LUISTER, IK HEB EEN CONTRACT DAT HELEMAAL VOOR JOU IS. VERDOMME, WACHT EVEN. [SLEEPGELUIDEN, 00:36] OEF. IN IEDER GEVAL, KIJK, ALS JE DIT ZOU KUNNEN AFHANDELEN ZOU IK HET ERG OP PRIJS STELLEN. BEDANKT, GROTE JONGEN. [GRAAFGELUIDEN, 09:46] [BEGRAAFGELUIDEN, 05:24] VERDOMME, VERGETEN DE TELEFOON OP TE
-
-<EINDE TRANSCRIPT>
-
-************"
-"[english]quest25004desc0"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-
-HEY HEAVY, PAULING HERE. HOLD ON. [SOUNDS OF GUNFIRE, 00:07] SORRY ABOUT THAT. LISTEN, I'VE GOT A CONTRACT THAT'S GOT YOUR NAME ALL OVER IT. CRAP, HOLD ON A SECOND. [SOUNDS OF DRAGGING, 00:36] WHEW. ANYWAY, LOOK, IF YOU COULD TAKE CARE OF THIS I'D OWE YOU ONE. THANKS, BIG GUY. [SOUNDS OF DIGGING, 09:46] [SOUNDS OF BURYING, 05:24] CRAP, FORGOT TO HANG UP THE 
-
-<END TRANSCRIPT>
-
-************"
+"quest25004desc0"	"Je zult verscheidene taken als Heavy moeten voltooien om dit contract te voltooien."
+"[english]quest25004desc0"	"You will be required to complete various tasks as Heavy to complete this contract."
 "quest25004desc1"	"************
 
 MANNCO-CONTRACT FAXBERICHT 1.54.45
@@ -760,38 +610,8 @@ HEAVY. I NEED YOU TO KEEP QUIET ON THIS. [00:04 SILENCE] WELL, YOU'RE ALWAYS QUI
 "[english]quest25004objectivedesc5"	"Take 1000 damage in a single life as Heavy: %s1"
 "quest25004objectivedesc6"	"Dood als Heavy: %s1"
 "[english]quest25004objectivedesc6"	"Get a kill as Heavy: %s1"
-"quest25005desc0"	"************
-
-MANNCO-CONTRACT FAXBERICHT 1.54.45
-
-JE HEBT 1 NIEUW BERICHT 
-BERICHT-ID: <915PAULING>
-
-VERWERKEN...
-
-************
-
-ENGIE, PAULING HIER. M'N BROMMER MAAKT EEN RAAR GELUID, ZOIETS VAN CHK-CHK-CHK RRRRRRR, HET LIJKT OP [00:05 STILTE] NOU JA, JE HEBT HET DRUK. IK HEB WERK VOOR JE.
-
-<EINDE TRANSCRIPT>
-
-************"
-"[english]quest25005desc0"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-
-ENGIE, IT'S PAULING. MY MOPED'S MAKING A FUNNY NOISE, LIKE A CHK-CHK-CHK RRRRRRRRR SORT OF [00:05 SILENCE]  YOU KNOW WHAT, YOU'RE BUSY. ANYWAY, I'VE GOT WORK.
-
-<END TRANSCRIPT>
-
-************"
+"quest25005desc0"	"Je zult verscheidene taken als Engineer moeten voltooien om dit contract te voltooien."
+"[english]quest25005desc0"	"You will be required to complete various tasks as Engineer to complete this contract."
 "quest25005desc1"	"************
 
 MANNCO-CONTRACT FAXBERICHT 1.54.45
@@ -902,38 +722,8 @@ ENGIE, IT'S PAULING. IS SCOUT THERE? COUGH IF HE'S THERE. I'VE GOT A JOB FOR YOU
 "[english]quest25005objectivedesc4"	"Get a kill as Engineer: %s1"
 "quest25005objectivedesc5"	"Deel 500 gezondheid uit aan teamgenoten: %s1"
 "[english]quest25005objectivedesc5"	"Dispense 500 health to teammates: %s1"
-"quest25006desc0"	"************
-
-MANNCO-CONTRACT FAXBERICHT 1.54.45
-
-JE HEBT 1 NIEUW BERICHT 
-BERICHT-ID: <915PAULING>
-
-VERWERKEN...
-
-************
-
-MEDIC, PAULING HIER. DEZE KAN EEN ZOOITJE WORDEN.
-
-<EINDE TRANSCRIPT>
-
-************"
-"[english]quest25006desc0"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-
-MEDIC, IT'S PAULING. THIS ONE MIGHT GET MESSY.
-
-<END TRANSCRIPT>
-
-************"
+"quest25006desc0"	"Je zult verscheidene taken als Medic moeten voltooien om dit contract te voltooien."
+"[english]quest25006desc0"	"You will be required to complete various tasks as Medic to complete this contract."
 "quest25006desc1"	"************
 
 MANNCO-CONTRACT FAXBERICHT 1.54.45
@@ -1072,37 +862,8 @@ HEY, DOC. IT'S PAULING. I'VE GOT A CONTRACT FOR YOU. ANYTHING GOES.
 "[english]quest25006objectivedesc2"	"Assist in destroying a sentry while Ubered: %s1"
 "quest25006objectivedesc3"	"Scoor een assist met een geüberde Demoman: %s1"
 "[english]quest25006objectivedesc3"	"Get an assist with an Ubered Demoman: %s1"
-"quest25007desc0"	"************
-
-MANNCO-CONTRACT FAXBERICHT 1.54.45
-
-JE HEBT 1 NIEUW BERICHT 
-BERICHT-ID: <915PAULING>
-
-VERWERKEN...
-
-************
-
-SNIPER? PAULING. IK HEB EEN BAAN WAARVOOR STRATEGIE EN NAUWKEURIGHEID NODIG ZIJN. IK DACHT AAN JOU.
-
-<EINDE TRANSCRIPT>
-
-************"
-"[english]quest25007desc0"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-SNIPER? PAULING. I'VE GOT A JOB THAT NEEDS STRATEGY AND PRECISION. I THOUGHT OF YOU.
-
-<END TRANSCRIPT>
-
-************"
+"quest25007desc0"	"Je zult verscheidene taken als Sniper moeten voltooien om dit contract te voltooien."
+"[english]quest25007desc0"	"You will be required to complete various tasks as Sniper to complete this contract."
 "quest25007desc1"	"************
 
 MANNCO-CONTRACT FAXBERICHT 1.54.45
@@ -1183,38 +944,8 @@ SNIPER. IT'S PAULING. STOP TALKING TO YOURSELF AND GET TO WORK. I'VE GOT A CONTR
 "[english]quest25007objectivedesc5"	"Kill a Sniper as Sniper: %s1"
 "quest25007objectivedesc6"	"Dood als Sniper: %s1"
 "[english]quest25007objectivedesc6"	"Get a kill as Sniper: %s1"
-"quest25008desc0"	"************
-
-MANNCO-CONTRACT FAXBERICHT 1.54.45
-
-JE HEBT 1 NIEUW BERICHT 
-BERICHT-ID: <915PAULING>
-
-VERWERKEN...
-
-************
-
-HÉ, SPY. IK HEB DIE DNA-TEST VOOR JE GEDAAN. NU STA IK BIJ JE IN HET KRIJT EN DAAR MAAK IK METEEN GEBRUIK VAN. HANDEL DIT AF.
-
-<EINDE TRANSCRIPT>
-
-************"
-"[english]quest25008desc0"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-
-HEY, SPY. PAULING. I TOOK CARE OF THAT DNA TEST FOR YOU. YOU OWE ME ONE AND I'M CASHING IT IN. TAKE CARE OF THIS.
-
-<END TRANSCRIPT>
-
-************"
+"quest25008desc0"	"Je zult verscheidene taken als Spy moeten voltooien om dit contract te voltooien."
+"[english]quest25008desc0"	"You will be required to complete various tasks as Spy to complete this contract."
 "quest25008desc1"	"************
 
 MANNCO-CONTRACT FAXBERICHT 1.54.45
@@ -1306,7 +1037,7 @@ VERWERKEN...
 
 ************
 
-HÉ, JONGENS. PAULING HIER. DIT WERK IS BIJ EEN WATERKRACHTCENTRALE. HET ZET WATER OM IN ENERGIE, DUS VAL NERGENS IN OF JE WORDT WAARSCHIJNLIJK OMGEZET IN PURE ELECTRICITEIT. [00:05 STILTE] DAT KLINKT EIGENLIJK BEST GEWELDIG. NIEUW PLAN, IEDEREEN, SPRING IN DE EERSTE TURBINE DIE JE ZIET.
+HÉ, JONGENS. PAULING HIER. DIT IS EEN KLUS BIJ EEN WATERKRACHTCENTRALE. DIE ZET WATER OM IN ELEKTRICITEIT, DUS VAL NERGENS IN OF JE VERANDERT WAARSCHIJNLIJK IN PURE ELEKTRICITEIT. [00:05 STILTE] DAT KLINKT EIGENLIJK BEST GEWELDIG. NIEUW PLAN, IEDEREEN, SPRING IN DE EERSTE TURBINE DIE JE ZIET.
 
 <EINDE TRANSCRIPT>
 
@@ -1446,7 +1177,7 @@ VERWERKEN...
 
 ************
 
-GOED NIEUWS, JONGENS. HET IS EEN SNEEUWDAG. JULLIE MOETEN WEL NOG STEEDS WERKEN. MAAR DAT KUNNEN JULLIE DOEN TERWIJL JULLIE BEVRIEZEN.
+GOED NIEUWS, JONGENS. HET IS EEN SNEEUWDAG. JULLIE MOETEN NOG WEL GEWOON WERKEN. MAAR DAT MOGEN JULLIE DOEN TERWIJL JULLIE BEVRIEZEN.
 
 <EINDE TRANSCRIPT>
 
@@ -1689,38 +1420,8 @@ HEY GUYS. SADDLE UP! LOCK AND LOAD! DROP YOUR SOCKS AND GRAB YOUR WELL, GRAB YOU
 "[english]quest25012objectivedesc2"	"Capture the objective on Suijin: %s1"
 "quest25012objectivedesc3"	"Win een ronde in Suijin: %s1"
 "[english]quest25012objectivedesc3"	"Win a round on Suijin: %s1"
-"quest25013desc0"	"************
-
-MANNCO-CONTRACT FAXBERICHT 1.54.45
-
-JE HEBT 1 NIEUW BERICHT 
-BERICHT-ID: <915PAULING>
-
-VERWERKEN...
-
-************
-
-DIT IS NET ZOALS ALTIJD, JONGENS. JULLIE HEBBEN DIT AL EEN MILJOEN KEER GEDAAN, DUS MAAK JE NIET DRUK. ALLEEN HOUDEN WE DEZE KEER EEN SCORE BIJ. DUS MAAK JE MAAR HEEL ERG DRUK.
-
-<EINDE TRANSCRIPT>
-
-************"
-"[english]quest25013desc0"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-
-THIS ONE'S BY THE NUMBERS, GUYS. YOU'VE DONE THIS A MILLION TIMES BEFORE, SO NO PRESSURE. EXCEPT THIS TIME WE'RE KEEPING SCORE . SO ALL THE PRESSURE, ACTUALLY.
-
-<END TRANSCRIPT>
-
-************"
+"quest25013desc0"	"Je zult punten moeten scoren op welke map dan ook, met welke klasse dan ook, om dit contract te voltooien."
+"[english]quest25013desc0"	"You will be required to score points on any map and as any class to complete this contract."
 "quest25013desc1"	"************
 
 MANNCO-CONTRACT FAXBERICHT 1.54.45
@@ -1759,38 +1460,8 @@ PERFORMANCE REVIEW TIME, GUYS. GET OUT THERE AND DO WHAT YOU DO. NO PRESSURE. BU
 "[english]quest25013objectivedesc0"	"Score points: %s1"
 "quest25013objectivedesc1"	"Scoor 10 punten in één leven: %s1"
 "[english]quest25013objectivedesc1"	"Score 10 points in a single life: %s1"
-"quest25014desc0"	"************
-
-MANNCO-CONTRACT FAXBERICHT 1.54.45
-
-JE HEBT 1 NIEUW BERICHT 
-BERICHT-ID: <915PAULING>
-
-VERWERKEN...
-
-************
-
-HÉ, JONGENS, HOU DIT GEHEIM, MAAR HET IS VANDAAG DE VERJAARDAG VAN DE ADMINISTRATOR. DUS IK WIL DAT JULLIE EROPUIT GAAN EN MEER MENSEN DODEN DAN JULLIE OOIT GEDOOD HEBBEN, OKÉ? IK BEDOEL, IK WIL DAT JULLIE ZO VEEL MENSEN DODEN DAT HET GÊNANT WORDT.
-
-<EINDE TRANSCRIPT>
-
-************"
-"[english]quest25014desc0"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-
-HEY GUYS, KEEP IT UNDER YOUR HAT, BUT IT'S THE ADMINISTRATOR'S BIRTHDAY TODAY. SO I WANT YOU TO GET OUT THERE AND KILL MORE PEOPLE THAN YOU'VE EVER KILLED BEFORE, OKAY? I MEAN, I WANT YOU TO KILL SO MANY PEOPLE THAT IT GETS AWKWARD.
-
-<END TRANSCRIPT>
-
-************"
+"quest25014desc0"	"Je zult spelers moeten doden om dit contract te voltooien."
+"[english]quest25014desc0"	"You will be required to earn kills to complete this contract"
 "quest25014desc1"	"************
 
 MANNCO-CONTRACT FAXBERICHT 1.54.45
@@ -2083,7 +1754,7 @@ Hm. I'm surprised I put that one in there."
 "[english]quest25021objectivedesc4"	"Enter the clocktower during the witching hour: %s1"
 "quest25021objectivedesc5"	"Verzamel zielen in Helltower: %s1"
 "[english]quest25021objectivedesc5"	"Collect souls on Helltower: %s1"
-"quest25022desc1"	"Dat is een mooie ziel die je daar hebt. Het zou zonde zijn als een tovenaar hem AF ZOU PAKKEN wanneer je deze missie niet voltooit! Hahahaha! Ja, Merasmus, mooi. Subtiel. Ze snapten 'm waarschijnlijk niet eens. Je hebt 'm er gewoon gladjes tussengegooid."
+"quest25022desc1"	"Dat is een mooie ziel die je daar hebt. Het zou zonde zijn als een tovenaar hem AF ZOU PAKKEN wanneer je deze missie niet voltooit! Hahahaha! Ja, Merasmus, mooi. Subtiel. Ze snapten 'm waarschijnlijk niet eens. Je hebt 'm er gewoon gladjes tussen gegooid."
 "[english]quest25022desc1"	"That's a nice soul you have there. It would be a shame if a wizard were to CLAIM it when you fail this mission! Hahahaha! Yes, Merasmus, nice. Subtle. They probably didn't even get it. You just slipped it in there."
 "quest25022desc2"	"BEEF, sterveling, om de niet te begrijpen kwaadheid die zich in de afgronden van dit onheilige contract bevindt! Ahahah! Er zitten twee regels tussen elke alinea!"
 "[english]quest25022desc2"	"TREMBLE, mortal, at the fathomless evil pulsating in the gulfs of this unholy contract! Ahahah! It's double-spaced!"
@@ -2103,7 +1774,7 @@ Hm. I'm surprised I put that one in there."
 "[english]quest25022objectivedesc5"	"Kill an enemy while cursed: %s1"
 "quest25022objectivedesc6"	"Verzamel zielen in Carnival of Carnage: %s1"
 "[english]quest25022objectivedesc6"	"Collect souls on Carnival of Carnage: %s1"
-"quest25023desc1"	"Oh, hallo, Sauron. Wat? Ja, Merasmus heeft inderdaad de laatste tijd getraind. Het is erg vleiend dat het je opviel, ik -- wacht even, ik moet een of andere idiote huurling een contract geven."
+"quest25023desc1"	"O, hallo, Sauron. Wat? Ja, Merasmus heeft inderdaad de laatste tijd getraind. Het is erg vleiend dat het je opviel, ik -- wacht even, ik moet een of andere idiote huurling een contract geven."
 "[english]quest25023desc1"	"Oh, hello, Sauron. What's that? Yes, Merasmus HAS been working out. It's flattering you noticed, I -- hold on, I need to give some idiot mercenary a contract."
 "quest25023desc2"	"Kijk niet te goed naar DEZE Merasmissie! Het zit helemaal vol met een plaag helwormen die jullie menselijke wetenschappers ZILVERVISJES noemen! Ja, sterveling, er was AANZIENLIJKE WATERSCHADE in de opslag van Merasmus!"
 "[english]quest25023desc2"	"Don't look too closely at THIS Merasmission! It is infested with a host of hell-worms your human scientists would call SILVERFISH! Yes, mortal, there was SIGNIFICANT WATER DAMAGE in Merasmus's storage unit!"
@@ -2131,7 +1802,7 @@ Hm. I'm surprised I put that one in there."
 "[english]quest25024objectivedesc3"	"Kill with a pumpkin bomb: %s1"
 "quest25024objectivedesc4"	"Verzamel zielen in Harvest Event: %s1"
 "[english]quest25024objectivedesc4"	"Collect souls on Harvest Event: %s1"
-"quest25025desc1"	"Ik vertrouw erop dat je dit contract tot op de letter -- EXECUTEERT. Ik zou het niet vroegtijdig willen -- BEËINDIGEN. [lacht] Ik hoop dat je je contractuele... obligaties -- nakomt. Weet je, e-mail Merasmus maar als je voor die een beter einde weet."
+"quest25025desc1"	"Ik vertrouw erop dat je dit contract tot op de letter -- EXECUTEERT. Ik zou het niet vroegtijdig -- TEN EINDE WILLEN BRENGEN. [lacht] Ik hoop dat je je contractuele obligaties... -- nakomt. Weet je, e-mail Merasmus maar als je voor die een beter einde weet."
 "[english]quest25025desc1"	"I trust you'll -- EXECUTE -- this contract to the letter. I'd hate to -- TERMINATE -- it prematurely. [laughs] I hope you -- fulfill your -- contractual... obligations. You know what, email Merasmus if you come up with a better ending for that one."
 "quest25025name0"	"Gorge Event"
 "[english]quest25025name0"	"Gorge Event"
@@ -2207,8 +1878,8 @@ Hm. I'm surprised I put that one in there."
 "[english]quest25030objectivedesc3"	"Defend a Control Point on a CP map: %s1"
 "quest25030objectivedesc4"	"Win een ronde op een controlepostenmap: %s1"
 "[english]quest25030objectivedesc4"	"Win a round on a CP map: %s1"
-"quest25031desc1"	" "
-"[english]quest25031desc1"	""
+"quest25031desc1"	"Je zult de Frisdrankknaller als Scout moeten gebruiken om dit contract te voltooien."
+"[english]quest25031desc1"	"You will be required to use the Soda Popper as Scout to complete this contract."
 "quest25031name0"	"Scout - De Frisdrankknaller"
 "[english]quest25031name0"	"Scout - The Soda Popper"
 "quest25031name1"	"De Frisdrankknaller"
@@ -2546,9 +2217,23 @@ Hm. I'm surprised I put that one in there."
 "[english]quest25055name1"	"Pit of Death"
 "quest25055objectivedesc1"	"Verzamel zielen in Pit of Death: %s1"
 "[english]quest25055objectivedesc1"	"Collect souls on Pit of Death: %s1"
-"quest25055objectivedesc2"	"Verzamel spookzielen: %s1"
+"quest25055objectivedesc2"	"Verzamel vervloekte zielen: %s1"
 "[english]quest25055objectivedesc2"	"Collect haunted souls: %s1"
 "quest25055objectivedesc3"	"Lever vervloekte zielen af in de onderwereld: %s1"
 "[english]quest25055objectivedesc3"	"Deposit haunted souls in the Underworld: %s1"
+"quest25013objectivedesc2"	"Wees een beste speler aan het einde van een ronde: %s1"
+"[english]quest25013objectivedesc2"	"Be MVP at the end of a round: %s1"
+"quest25056desc0"	"Je zult verscheidene taken in Mercenary Park moeten voltooien om dit contract te voltooien."
+"[english]quest25056desc0"	"You will be required to complete various tasks on Lair to complete this contract."
+"quest25056name0"	"Lair"
+"[english]quest25056name0"	"Lair"
+"quest25056objectivedesc1"	"Scoor punten in Lair: %s1"
+"[english]quest25056objectivedesc1"	"Score points on Lair: %s1"
+"quest25056objectivedesc2"	"Verover een controlepost in Lair: %s1"
+"[english]quest25056objectivedesc2"	"Capture a Control Point on Lair: %s1"
+"quest25056objectivedesc3"	"Verdedig een controlepost in Lair: %s1"
+"[english]quest25056objectivedesc3"	"Defend a Control Point on Lair: %s1"
+"quest25056objectivedesc4"	"Win een ronde in Lair: %s1"
+"[english]quest25056objectivedesc4"	"Win a round on Lair: %s1"
 }
 }
