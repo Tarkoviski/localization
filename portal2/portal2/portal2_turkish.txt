@@ -1,4 +1,4 @@
-﻿"lang"
+"lang"
 {
 "Language"	"turkish"
 "Tokens"
@@ -1139,7 +1139,7 @@
 "[english]ItemHistory_Action_GiftDelivery_Remove"	"Gift sent"
 "ItemHistory_Action_GiftUnwrap_Remove"	"Hediye paketi açıldı"
 "[english]ItemHistory_Action_GiftUnwrap_Remove"	"Unwrapped"
-"ItemHistory_Action_PackageItem_Revoked"	"Geri alındı"
+"ItemHistory_Action_PackageItem_Revoked"	"İptal Edildi"
 "[english]ItemHistory_Action_PackageItem_Revoked"	"Revoked"
 "ItemHistory_Action_CafeOrSchoolItem_Remove"	"İnternet kafe veya okul uzaklaştırması"
 "[english]ItemHistory_Action_CafeOrSchoolItem_Remove"	"Cafe or school removal"

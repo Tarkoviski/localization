@@ -1,4 +1,4 @@
-﻿"lang"
+"lang"
 {
 "Language"	"finnish"
 "Tokens"
@@ -4259,7 +4259,7 @@
 "[english]sphere03.sp_a2_bts5_hose_all02"	"<clr:29,172,214>Wheatley: Hold on -"
 "sphere03.sp_a2_bts5_hose_any01"	"<clr:29,172,214>Wheatley: Se laskee edelleen! Jatka!"
 "[english]sphere03.sp_a2_bts5_hose_any01"	"<clr:29,172,214>Wheatley: It's still going down! Keep it up!"
-"sphere03.sp_a2_bts5_hose_half02"	"<clr:29,172,214>Wheatley: Jotain on pielessä – hermomyrkyn taso on noussut 50 prosenttiin! Ei vaan laskenut 50 prosenttiin. Anteeksi. Jatka vaan!"
+"sphere03.sp_a2_bts5_hose_half02"	"<clr:29,172,214>Wheatley: Jotain on pielessä – hermomyrkyn taso on noussut 50 prosenttiin! Ei, vaan laskenut 50 prosenttiin. Anteeksi. Jatka vaan!"
 "[english]sphere03.sp_a2_bts5_hose_half02"	"<clr:29,172,214>Wheatley: Hold on, something's wrong! Neurotoxin level's up to 50%! No, it's down. Sorry, my mistake. I meant to say it's down to fifty percent. Good news! Carry on!"
 "sphere03.sp_a2_bts5_intro01"	"<clr:29,172,214>Wheatley: Tiesin, että menemme oikeaan suuntaan."
 "[english]sphere03.sp_a2_bts5_intro01"	"<clr:29,172,214>Wheatley: Ha! I knew we were going the right way."

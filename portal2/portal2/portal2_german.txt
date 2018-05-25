@@ -1,4 +1,4 @@
-﻿"lang"
+"lang"
 {
 "Language"	"german"
 "Tokens"
@@ -1165,7 +1165,7 @@
 "[english]ItemHistory_Action_CollectItem_CollectedItem"	"Added to a collection"
 "ItemHistory_Action_EconSetUnowned"	"Gehandelt"
 "[english]ItemHistory_Action_EconSetUnowned"	"Traded"
-"ItemHistory_Action_Market_Remove"	"Auf dem Steam Communitymarkt angeboten"
+"ItemHistory_Action_Market_Remove"	"Auf dem Steam-Communitymarkt angeboten"
 "[english]ItemHistory_Action_Market_Remove"	"Listed on the Steam Community Market"
 "ItemHistory_ItemIsInInventory"	"In Ihrem Inventar"
 "[english]ItemHistory_ItemIsInInventory"	"In your inventory"

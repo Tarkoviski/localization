@@ -1,4 +1,4 @@
-﻿"lang"
+"lang"
 {
 "Language"	"hungarian"
 "Tokens"
@@ -2803,7 +2803,7 @@
 "[english]glados.sp_sabotage_glados_gibberish06"	"<clr:163,193,173>GLaDOS: [computer gibberish]"
 "glados.sp_sabotage_glados_gibberish07"	"<clr:163,193,173>GLaDOS: [számítógép-halandzsa]"
 "[english]glados.sp_sabotage_glados_gibberish07"	"<clr:163,193,173>GLaDOS: [computer gibberish]"
-"glados.sp_shoot_through_wall_completion01"	"<clr:163,193,173>GLaDOS: Segített a tippem? Ugye, igen? Tudod, ha bármelyik felügyelőnk is immúnis lett volna az idegméregre, most DÜHÖS lenne ránk."
+"glados.sp_shoot_through_wall_completion01"	"<clr:163,193,173>GLaDOS: Segített a tippem? Ugye, igen? Tudod, ha bármelyik felügyelőnk is immunis lett volna az idegméregre, most DÜHÖS lenne ránk."
 "[english]glados.sp_shoot_through_wall_completion01"	"<clr:163,193,173>GLaDOS: Did my hint help? It did, didn't it? You know, if any of our supervisors had been immune to neurotoxin, they'd be FURIOUS with us right now."
 "glados.sp_shoot_through_wall_entry01"	"<clr:163,193,173>GLaDOS: Tudod, nem szabadna ezt tennem, de... át tudsz lőni VALAMIT... a kék hidakon."
 "[english]glados.sp_shoot_through_wall_entry01"	"<clr:163,193,173>GLaDOS: You know, I'm not supposed to do this, but... you can shoot SOMETHING... through the blue bridges."
@@ -5365,7 +5365,7 @@
 "[english]#commentary\com-disassembly.wav"	"[Danika Wright] Since the co-op characters can die at any time, we needed a way to rebuild them quickly and often.  Therefore in co-op, we replaced the elevators that connected test chambers in singleplayer, with disassembly machines.  These are meant to reinforce the idea that since the robots are disposable, being destroyed is no big deal.  In the robot world, it happens all the time!"
 "Commentary_Title_AIRLOCKS"	"ZSILIPEK"
 "[english]Commentary_Title_AIRLOCKS"	"AIRLOCKS"
-"#commentary\com-airlocks.wav"	"[Garrett Rickey] A zsilipeket főleg azért alkalmaztuk, hogy a játékosok az egyedi feladványokra összpontosíthassanak. Korai vizsgálódásaink során a pályákon voltak együtt megoldandó feladványok, meg olyanok, amiket egyedileg kell megoldani. De úgy találtuk, ha a játékosok szabadon mozoghattak köztük, logikusan feltételezték, hogy az egyedi feladványok egy nagyobb feladvány részei. Ez rossz eredményt adott. Hogy egyértelműsítsük, létrehoztuk ezeket a feladványok közti ellenőrzőpontként szolgáló zsilipszerű újraszülető-szobákat. Mikor mindkét játékos belép a zsilipbe, lezárjuk azt."
+"#commentary\com-airlocks.wav"	"[Garrett Rickey] A zsilipeket főleg azért alkalmaztuk, hogy a játékosok az egyedi feladványokra összpontosíthassanak. Korai vizsgálódásaink során a pályákon voltak együtt megoldandó feladványok, meg olyanok, amiket egyedileg kell megoldani. De úgy találtuk, ha a játékosok szabadon mozoghattak köztük, logikusan feltételezték, hogy az egyedi feladványok egy nagyobb feladvány részei. Ez rossz eredményt adott. Hogy egyértelműsítsük, létrehoztuk ezeket a feladványok közti ellenőrzőpontként szolgáló zsilipszerű újraéledő-szobákat. Mikor mindkét játékos belép a zsilipbe, lezárjuk azt."
 "[english]#commentary\com-airlocks.wav"	"[Garret Rickey] Airlocks were introduced mainly as a way to allow players to focus on individual puzzles.  In some of our early investigations, areas contained puzzles that were meant to be solved as a group, as well as others that were for individual solution.  But we found that if players could move freely between them, they logically assumed that the individual puzzles were part of one big puzzle.  This had bad results.  For clarity, we created these airlock-like spawn rooms that act as checkpoints between puzzles.  Once both players enter the airlock, we lock off access."
 "Commentary_Title_IMPOSTERS"	"ÁLVILÁGOK"
 "[english]Commentary_Title_IMPOSTERS"	"WORLD IMPOSTERS"

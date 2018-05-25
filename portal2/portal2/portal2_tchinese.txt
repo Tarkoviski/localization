@@ -1,4 +1,4 @@
-﻿"lang"
+"lang"
 {
 "Language"	"tchinese"
 "Tokens"
@@ -1127,7 +1127,7 @@
 "[english]ItemHistory_Action_SupportStrangify_Remove"	"Steam Support Strangified item"
 "ItemHistory_Action_UnpackItemBundle"	"已開啟"
 "[english]ItemHistory_Action_UnpackItemBundle"	"Unpacked"
-"ItemHistory_Action_Unpurchase"	"退費"
+"ItemHistory_Action_Unpurchase"	"已退款"
 "[english]ItemHistory_Action_Unpurchase"	"Refunded"
 "ItemHistory_Action_RemoveItemName_Remove"	"已移除自訂名稱"
 "[english]ItemHistory_Action_RemoveItemName_Remove"	"Custom name removed"
@@ -1155,7 +1155,7 @@
 "[english]ItemHistory_Action_RemoveItemMakersMark_Remove"	"Removed crafter's name"
 "ItemHistory_Action_RemoveItemKillStreak_Remove"	"因移除連殺屬性而被移除"
 "[english]ItemHistory_Action_RemoveItemKillStreak_Remove"	"Removed by Killstreak removal"
-"ItemHistory_Action_TradeRollback_Remove"	"被交易被回朔"
+"ItemHistory_Action_TradeRollback_Remove"	"交易已回溯"
 "[english]ItemHistory_Action_TradeRollback_Remove"	"Trade was rolled back"
 "ItemHistory_Action_CDKeyRevoke"	"產品序號遭撤銷"
 "[english]ItemHistory_Action_CDKeyRevoke"	"CD key revoked"

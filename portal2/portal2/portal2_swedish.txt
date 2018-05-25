@@ -1,4 +1,4 @@
-﻿"lang"
+"lang"
 {
 "Language"	"swedish"
 "Tokens"
@@ -661,7 +661,7 @@
 "[english]P2COOP_Scoreboard_Stat6_Part1"	"SCIENCE"
 "P2COOP_Scoreboard_Stat6_Part2"	"VETENSKAPLIGT"
 "[english]P2COOP_Scoreboard_Stat6_Part2"	"COLLABORATION"
-"P2COOP_Scoreboard_Stat6_Part3"	"SAMARBETE"
+"P2COOP_Scoreboard_Stat6_Part3"	"POÄNG"
 "[english]P2COOP_Scoreboard_Stat6_Part3"	"POINTS"
 "P2COOP_Scanning"	"SKANNAR PERSONAL..."
 "[english]P2COOP_Scanning"	"SCANNING PERSONNEL..."

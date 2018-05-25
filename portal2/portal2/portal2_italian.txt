@@ -1,4 +1,4 @@
-﻿"lang"
+"lang"
 {
 "Language"	"italian"
 "Tokens"
@@ -1157,7 +1157,7 @@
 "[english]ItemHistory_Action_RemoveItemKillStreak_Remove"	"Removed by Killstreak removal"
 "ItemHistory_Action_TradeRollback_Remove"	"Scambio annullato"
 "[english]ItemHistory_Action_TradeRollback_Remove"	"Trade was rolled back"
-"ItemHistory_Action_CDKeyRevoke"	"CD Key revocata"
+"ItemHistory_Action_CDKeyRevoke"	"Codice prodotto revocato"
 "[english]ItemHistory_Action_CDKeyRevoke"	"CD key revoked"
 "ItemHistory_Action_CollectItem_RemoveCollection"	"Rimosso da una collezione"
 "[english]ItemHistory_Action_CollectItem_RemoveCollection"	"Removed old collection item"

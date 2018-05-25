@@ -1,4 +1,4 @@
-﻿"lang"
+"lang"
 {
 "Language"	"norwegian"
 "Tokens"
@@ -1081,6 +1081,10 @@
 "[english]P2_Bundle_ARGFlagsCatchup_Desc"	"Includes the ARG flags that were not in the initial COMPLETE PACK:\n"
 "P2_Wearable_Snorkel"	"GOO GEAR-SNORKEL"
 "[english]P2_Wearable_Snorkel"	"GOO GEAR SNORKEL"
+"ItemHistory_Action_SupportDescribe_Remove"	"Egendefinert beskrivelse lagt til av Steams kundestøtte"
+"[english]ItemHistory_Action_SupportDescribe_Remove"	"Custom description added by Steam Support"
+"ItemHistory_Action_UnpackItemBundle"	"Utpakket"
+"[english]ItemHistory_Action_UnpackItemBundle"	"Unpacked"
 "ItemHistory_Action_GiftDelivery_Remove"	"Gave sendt"
 "[english]ItemHistory_Action_GiftDelivery_Remove"	"Gift sent"
 }
