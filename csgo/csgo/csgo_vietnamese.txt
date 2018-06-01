@@ -32629,5 +32629,11 @@ Hộ tống VIP đến một trong các khu vực này."
 "[english]SFUI_GameMode_training"	"Training"
 "SFUI_Map_de_shortnuke"	"Nuke"
 "[english]SFUI_Map_de_shortnuke"	"Nuke"
+"SFUI_QMM_ERROR_X_AccountWarningTrustMinor"	"Trải nghiệm tìm trận của bạn có thể bị ảnh hưởng nhẹ do độ tin tưởng của %s1 thấp hơn bạn."
+"[english]SFUI_QMM_ERROR_X_AccountWarningTrustMinor"	"Your matchmaking experience may be slightly impacted because the Trust Factor of %s1 is lower than yours."
+"SFUI_QMM_ERROR_X_AccountWarningTrustMajor"	"Trải nghiệm tìm trận của bạn có thể bị ảnh hưởng lớn do độ tin tưởng của %s1 thấp hơn bạn nhiều."
+"[english]SFUI_QMM_ERROR_X_AccountWarningTrustMajor"	"Your matchmaking experience will be significantly affected because the Trust Factor of %s1 is substantially lower than yours."
+"SFUI_QMM_ERROR_X_AccountWarningTrustMajor_Summary"	"Hệ thống xếp trận CS:GO sẽ ưu tiên tìm đối thủ với độ tin tưởng thấp tương tự."
+"[english]SFUI_QMM_ERROR_X_AccountWarningTrustMajor_Summary"	"CS:GO's matchmaking will prioritize finding opponents with a similar substantially lower Trust Factor."
 }
 }

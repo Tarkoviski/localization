@@ -33473,5 +33473,11 @@ Bu kasa Yaban Ateşi Koleksiyonu'ndan 16 adet topluluk yapımı silah tasarımı
 "[english]SFUI_GameMode_training"	"Training"
 "SFUI_Map_de_shortnuke"	"Nuke"
 "[english]SFUI_Map_de_shortnuke"	"Nuke"
+"SFUI_QMM_ERROR_X_AccountWarningTrustMinor"	"Eşleştirme deneyiminiz, %s1 adlı oyuncunun Güven Faktörü sizinkinden daha düşük olduğu için biraz kötü olabilir."
+"[english]SFUI_QMM_ERROR_X_AccountWarningTrustMinor"	"Your matchmaking experience may be slightly impacted because the Trust Factor of %s1 is lower than yours."
+"SFUI_QMM_ERROR_X_AccountWarningTrustMajor"	"Eşleştirme deneyiminiz, %s1 adlı oyuncunun Güven Faktörü sizinkinden çok daha düşük olduğu için biraz etkilenecektir."
+"[english]SFUI_QMM_ERROR_X_AccountWarningTrustMajor"	"Your matchmaking experience will be significantly affected because the Trust Factor of %s1 is substantially lower than yours."
+"SFUI_QMM_ERROR_X_AccountWarningTrustMajor_Summary"	"CS:GO'nun eşleştirme sistemi benzer derecede düşük Güven Faktörüne sahip rakipler aramaya öncelik verecektir."
+"[english]SFUI_QMM_ERROR_X_AccountWarningTrustMajor_Summary"	"CS:GO's matchmaking will prioritize finding opponents with a similar substantially lower Trust Factor."
 }
 }
