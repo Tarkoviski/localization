@@ -21,17 +21,11 @@
 "[english]#TF_RichPresence_State_LoadingMatchGroup"	"Joining {#TF_RichPresence_MatchGroup_%matchgrouploc%}"
 "#TF_RichPresence_State_PlayingCommunity"	"Yhteisö - %currentmap%"
 "[english]#TF_RichPresence_State_PlayingCommunity"	"Community - %currentmap%"
-"#TF_RichPresence_State_LoadingCommunity"	"Liittyy yhteisöpalvelimelle"
-"[english]#TF_RichPresence_State_LoadingCommunity"	"Joining Community Server"
 "#TF_RichPresence_MatchGroup_Competitive6v6"	"Kilpailullinen"
 "[english]#TF_RichPresence_MatchGroup_Competitive6v6"	"Competitive"
 "#TF_RichPresence_MatchGroup_Casual"	"Tavallinen"
 "[english]#TF_RichPresence_MatchGroup_Casual"	"Casual"
 "#TF_RichPresence_MatchGroup_SpecialEvent"	"Erikoistapahtuma"
 "[english]#TF_RichPresence_MatchGroup_SpecialEvent"	"Special Event"
-"#TF_RichPresence_MatchGroup_MannUp"	"MvM Miehistymis-tila"
-"[english]#TF_RichPresence_MatchGroup_MannUp"	"MvM Mann Up"
-"#TF_RichPresence_MatchGroup_BootCamp"	"MvM Harjoitusleiri-tila"
-"[english]#TF_RichPresence_MatchGroup_BootCamp"	"MvM Boot Camp"
 }
 }

@@ -27,7 +27,7 @@
 "[english]#TF_RichPresence_MatchGroup_Competitive6v6"	"Competitive"
 "#TF_RichPresence_MatchGroup_Casual"	"Обычная игра"
 "[english]#TF_RichPresence_MatchGroup_Casual"	"Casual"
-"#TF_RichPresence_MatchGroup_SpecialEvent"	"Праздничный режим"
+"#TF_RichPresence_MatchGroup_SpecialEvent"	"Особое событие"
 "[english]#TF_RichPresence_MatchGroup_SpecialEvent"	"Special Event"
 "#TF_RichPresence_MatchGroup_MannUp"	"МпМ: МАННёвры"
 "[english]#TF_RichPresence_MatchGroup_MannUp"	"MvM Mann Up"

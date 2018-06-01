@@ -145,140 +145,12 @@
 "[english]4_25008_field { field_number: 6 }"	"You will be required to complete various tasks as Spy to complete this contract."
 "4_25009_field { field_number: 5 }"	"Powerhouse"
 "[english]4_25009_field { field_number: 5 }"	"Powerhouse"
-"4_25009_field { field_number: 6 }"	"************
-
-CONTRATO DE MANNCO LLAMADA-DE-FAX 1.54.45
-
-HAY 1 NUEVA LLAMADA 
-ID DEL MENSAJE: <915PAULING>
-
-PROCESANDO...
-
-************
-
-HOLA CHICOS, SOY PAULING. ESTE TRABAJO ESTÁ EN UNA PLANTA HIDROELÉCTRICA. CONVIERTE EL AGUA EN ENERGÍA, ASÍ QUE MEJOR NO TOCAR NADA QUE CONVERTIRSE EN ENERGÍA PURA. [00:05 DE SILENCIO] LA VERDAD ES QUE ESO SUENA GENIAL. CAMBIO DE PLANES, MEJOR ENTRAR EN LA PRIMERA TURBINA DISPONIBLE.
-
-<FIN DE LA TRANSCRIPCIÓN>
-
-************"
-"[english]4_25009_field { field_number: 6 }"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-
-HEY GUYS, PAULING HERE. THIS JOB'S AT A HYDROELECTRIC PLANT. IT TURNS WATER INTO ENERGY, SO DONT FALL INTO ANYTHING OR YOULL PROBABLY TURN INTO PURE ELECTRICITY. [00:05 SILENCE] ACTUALLY, THAT SOUNDS PRETTY GREAT. CHANGE OF PLAN, EVERYBODY JUMP INTO THE FIRST TURBINE YOU SEE.
-
-<END TRANSCRIPT>
-
-************"
 "4_25010_field { field_number: 5 }"	"Snowplow"
 "[english]4_25010_field { field_number: 5 }"	"Snowplow"
-"4_25010_field { field_number: 6 }"	"************
-
-CONTRATO DE MANNCO LLAMADA-DE-FAX 1.54.45
-
-HAY 1 NUEVA LLAMADA 
-ID DEL MENSAJE: <915PAULING>
-
-PROCESANDO...
-
-************
-
-BUENAS NOTICIAS, CHICOS. ESTÁ NEVANDO. SIN EMBARGO AÚN HAY TRABAJO QUE HACER, PERO ESTAMOS PASANDO FRÍO.
-
-<FIN TRANSCRIPCIÓN>
-
-************"
-"[english]4_25010_field { field_number: 6 }"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-
-GOOD NEWS, GUYS. IT'S A SNOW DAY. YOU STILL HAVE TO WORK THOUGH. BUT YOU GET TO DO IT WHILE YOU'RE FREEZING.
-
-<END TRANSCRIPT>
-
-************"
 "4_25011_field { field_number: 5 }"	"Borneo"
 "[english]4_25011_field { field_number: 5 }"	"Borneo"
-"4_25011_field { field_number: 6 }"	"************
-
-CONTRATO DE MANNCO LLAMADA-A-FAX 1.54.45
-
-TIENE 1 NUEVA LLAMADA 
-ID DEL MENSAJE: <915PAULING>
-
-PROCESANDO...
-
-************
-
-HEY, CHICOS. TEUFORT ESTÁ SIENDO FUMIGADO, ASÍ QUE OS HEMOS ENCONTRADO UN TRABAJO EN BORNEO. CREO QUE ESTÁ POR LAS CERCANÍAS. ESPERAD UN MOMENTO [SONIDO DE PASAR PÁGINAS, 00:06] NO, NO LO ESTÁ.
-
-<FIN TRANSCRIPCIÓN>
-
-************"
-"[english]4_25011_field { field_number: 6 }"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-
-HEY, GUYS. TEUFORT'S BEING FUMIGATED, SO WE FOUND YOU A JOB IN BORNEO. I THINK IT'S CLOSE BY, HOLD ON [SOUND OF PAGES FLIPPING, 00:06] NO IT IS NOT.
-
-<END TRANSCRIPT>
-
-************"
 "4_25012_field { field_number: 5 }"	"Suijin"
 "[english]4_25012_field { field_number: 5 }"	"Suijin"
-"4_25012_field { field_number: 6 }"	"************
-
-CONTRATO DE MANNCO LLAMADA-A-FAX 1.54.45
-
-TIENE 1 NUEVA LLAMADA 
-ID DEL MENSAJE: <915PAULING>
-
-PROCESANDO...
-
-************
-
-HEY, CHICOS. AQUÍ PAULING. ESPERO QUE OS GUSTE JAPÓN, PORQUE ALLÍ ES DONDE VAIS A IR. Y ESPERO QUE OS GUSTE MATAR GENTE EN JAPÓN, PORQUE ESO ES LO QUE VAIS A HACER.
-
-<FIN TRANSCRIPCIÓN>
-
-************"
-"[english]4_25012_field { field_number: 6 }"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-
-HEY GUYS, PAULING HERE. I HOPE YOU LIKE JAPAN, BECAUSE THAT'S WHERE YOU'RE GOING. AND I HOPE YOU LIKE KILLING PEOPLE IN JAPAN, BECAUSE THAT'S ALL YOU'LL BE DOING. 
-
-<END TRANSCRIPT>
-
-************"
 "4_25013_field { field_number: 5 }"	"Todos contra todos"
 "[english]4_25013_field { field_number: 5 }"	"Free For All"
 "4_25013_field { field_number: 6 }"	"Consigue puntos en cualquier mapa con cualquier clase para completar este contrato."
@@ -341,8 +213,6 @@ Hm. I'm surprised I put that one in there."
 "[english]4_25026_field { field_number: 6 }"	"A gibbous moon hangs pendulously in the night sky, mortal! It thinks you cannot finish this contract! Dare you make the moon look STUPID?"
 "4_25027_field { field_number: 5 }"	"Hellstone"
 "[english]4_25027_field { field_number: 5 }"	"Hellstone"
-"4_25027_field { field_number: 6 }"	"¿Sientes CALOR atrás, mortal? Deberías, ¡porque este contrato hará que tu trasero caiga al quinto infierno!"
-"[english]4_25027_field { field_number: 6 }"	"Does your backside feel WARM, mortal? It should! Because this contract just put you in the hot seat!"
 "4_25028_field { field_number: 5 }"	"Sinshine"
 "[english]4_25028_field { field_number: 5 }"	"Sinshine"
 "4_25028_field { field_number: 6 }"	"Exterior, un cementerio. Hacemos zoom sobre un cadáver que sostiene un contrato manchado de sangre: ¡EL CADÁVER ERES TÚ! ¡En efecto! ¡Merasmus ha estado trabajando en un GRAN guion!"
@@ -1449,8 +1319,6 @@ Hm. I'm surprised I put that one in there."
 "[english]9_160_field { field_number: 2 }"	"Autumn Mk.II"
 "9_161_field { field_number: 2 }"	"Cascanueces Mk.II"
 "[english]9_161_field { field_number: 2 }"	"Nutcracker Mk.II"
-"9_163_field { field_number: 2 }"	"Telaraña Macabra Mk.II"
-"[english]9_163_field { field_number: 2 }"	"Macabre Web Mk.II"
 "9_16_field { field_number: 2 }"	"Arruinador Rústico"
 "[english]9_16_field { field_number: 2 }"	"Rustic Ruiner"
 "9_17_field { field_number: 2 }"	"Incendiagraneros"
@@ -1461,12 +1329,8 @@ Hm. I'm surprised I put that one in there."
 "[english]9_19_field { field_number: 2 }"	"Lumber From Down Under"
 "9_1_field { field_number: 2 }"	"Cañón de Arena"
 "[english]9_1_field { field_number: 2 }"	"Sand Cannon"
-"9_200_field { field_number: 2 }"	"Flores Brillantes"
-"[english]9_200_field { field_number: 2 }"	"Bloom Buffed"
 "9_201_field { field_number: 2 }"	"Tapiz de Patitos"
 "[english]9_201_field { field_number: 2 }"	"Quack Canvassed"
-"9_202_field { field_number: 2 }"	"Dinero Chapado"
-"[english]9_202_field { field_number: 2 }"	"Bank Rolled"
 "9_203_field { field_number: 2 }"	"Mercenario Cúbico"
 "[english]9_203_field { field_number: 2 }"	"Merc Stained"
 "9_204_field { field_number: 2 }"	"Recuento de Víctimas"
@@ -1531,10 +1395,6 @@ Hm. I'm surprised I put that one in there."
 "[english]9_309_field { field_number: 2 }"	"Piña Polished"
 "9_30_field { field_number: 2 }"	"Encendedor Bovino"
 "[english]9_30_field { field_number: 2 }"	"Bovine Blazemaker"
-"9_310_field { field_number: 2 }"	"Leopardo impreso"
-"[english]9_310_field { field_number: 2 }"	"Leopard Printed"
-"9_31_field { field_number: 2 }"	"Sala de guerra"
-"[english]9_31_field { field_number: 2 }"	"War Room"
 "9_32_field { field_number: 2 }"	"Atormentador Metálico"
 "[english]9_32_field { field_number: 2 }"	"Treadplate Tormenter"
 "9_33_field { field_number: 2 }"	"Cazador del Pantano"
@@ -1609,8 +1469,6 @@ Hm. I'm surprised I put that one in there."
 "[english]9_62_field { field_number: 2 }"	"Pumpkin Patch"
 "9_63_field { field_number: 2 }"	"Telaraña Macabra"
 "[english]9_63_field { field_number: 2 }"	"Macabre Web"
-"9_64_field { field_number: 2 }"	"Marfil"
-"[english]9_64_field { field_number: 2 }"	"Boneyard"
 "9_65_field { field_number: 2 }"	"Bosque Salvaje"
 "[english]9_65_field { field_number: 2 }"	"Wildwood"
 "9_66_field { field_number: 2 }"	"Globunicornio"
@@ -1733,7 +1591,7 @@ Hm. I'm surprised I put that one in there."
 "[english]9_217_field { field_number: 2 }"	"Bomber Soul"
 "9_218_field { field_number: 2 }"	"Uranio"
 "[english]9_218_field { field_number: 2 }"	"Uranium"
-"9_220_field { field_number: 2 }"	"Ratam"
+"9_220_field { field_number: 2 }"	"Claustrofobia"
 "[english]9_220_field { field_number: 2 }"	"Cabin Fevered"
 "9_221_field { field_number: 2 }"	"Sorpresa Polar"
 "[english]9_221_field { field_number: 2 }"	"Polar Surprise"

@@ -3,7 +3,22 @@
 "Language"	"korean"
 "Tokens"
 {
-"quest25000desc0"	"이 계약을 완수하려면 스카웃으로 여러 작업을 완료해야 합니다."
+"quest25000desc0"	"************
+
+MANNCO 계약 통화-팩스 연결 1.54.45
+
+새 연락이 1개 있습니다
+전언 식별자: <915PAULING>
+
+처리 중...
+
+************
+
+스카웃? 폴링이에요. 지금도 떠들고 있는 것 같은데, 그만하죠. 이건 사적인 전화가 아니라고요. 할 일이 있어요.
+
+<사본 끝>
+
+************"
 "[english]quest25000desc0"	"Complete various tasks as Scout to complete this contract."
 "quest25000desc1"	"************
 
@@ -37,36 +52,6 @@ SCOUT? PAULING HERE. WRAP UP WHATEVER YOU WERE BRAGGING ABOUT AND LOOK AT THIS. 
 <END TRANSCRIPT>
 
 ************"
-"quest25000desc2"	"************
-
-MANNCO 계약 통화-팩스 1.54.45
-
-새 연락이 1개 있습니다 
-전언 식별자: <915PAULING>
-
-처리 중...
-
-************
-안녕, 스카웃. 폴링이에요. 그, 어, 전화에 남긴 말들 들어봤어요. 전부 말이죠. 그러니까 [00:05 침묵] 그러니까 남겨줘서 고마워요. [00:06 침묵] 어쨌든, 해야 할 일이 있으니 잘 들어요. 이건 비밀이니까 다른 사람들한테 말해주면 안 돼요. 내가 누구한테 말하고 있는지 잊어버려서 이게 얼마나 웃기는 문장인지 모르고 있었네. 그래서, 다른 사람들한테 너무 많이 말해주지는 말아요, 알겠죠? 그럼 안녕.
-
-<사본 끝>
-
-************"
-"[english]quest25000desc2"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-HEY, SCOUT. IT'S PAULING. I, UH, GOT YOUR PHONE MESSAGE. MESSAGES. ALL OF THEM. SO THANKS FOR [00:05 SILENCE] THANKS FOR ALL THOSE. [00:06 SILENCE] ANYWAY, LISTEN, I'VE GOT WORK. THIS IS LOW PROFILE, SO DON'T TELL ANYONE ABOUT IT. I JUST REMEMBERED WHO I WAS TALKING TO AND HOW STUPID THAT SENTENCE WAS, LOOK, JUST DON'T TELL ANYONE TOO MUCH ABOUT IT, OKAY? OKAY, BYE.
-
-<END TRANSCRIPT>
-
-************"
 "quest25000name0"	"스카웃 계약"
 "[english]quest25000name0"	"Scout Contract"
 "quest25000objectivedesc0"	"스카웃으로 점수 획득: %s1"
@@ -81,8 +66,6 @@ HEY, SCOUT. IT'S PAULING. I, UH, GOT YOUR PHONE MESSAGE. MESSAGES. ALL OF THEM. 
 "[english]quest25000objectivedesc4"	"Kill as Scout: %s1"
 "quest25000objectivedesc5"	"스카웃으로 메딕 처치: %s1"
 "[english]quest25000objectivedesc5"	"Kill a Medic as Scout: %s1"
-"quest25001desc0"	"이 계약을 완료하기 위해서는 솔저로 다양한 임무를 완수하여야 합니다."
-"[english]quest25001desc0"	"You will be required to complete various tasks as Soldier to complete this contract."
 "quest25001desc1"	"************
 
 MANNCO 계약 통화-팩스 연결 1.54.45
@@ -147,102 +130,6 @@ TEN HUT, SOLDIER. ALPHA. ROMEO. ZERO DARK ARMY WORDS. I'VE GOT A JOB FOR YOU, SO
 <END TRANSCRIPT>
 
 ************"
-"quest25001desc3"	"************
-
-MANNCO 계약 전화-팩스 1.54.45
-
-새 연락이 1개 있습니다 
-전언 식별자: <915PAULING>
-
-처리 중...
-
-************
-
-이 임무에 최대 부인권이 부여되지 않았다면 자네는 영웅이 됐을 거네, 제군. 축제를 개최할 거야. 훈장도 말이네. 축제의 사진이 붙은 훈장말이야.
-
-<사본 끝>
-
-************"
-"[english]quest25001desc3"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-
-IF THIS MISSION WEREN'T MAXIMUM DENIABILITY, YOU'D BE A HERO FOR THIS, SON. THERE WOULD BE A PARADE. AND MEDALS. WITH PICTURES OF THE PARADE ON THEM.
-
-<END TRANSCRIPT>
-
-************"
-"quest25001desc4"	"************
-
-MANNCO 계약 통화-팩스 1.54.45
-
-새 연락이 1개 있습니다
-전언 식별자: <915PAULING>
-
-처리 중...
-
-************
-
-솔져, 이번 일에는 당신과 후추통 피트, 짠돌이 피트, 피터 후추통바지 -- 아니, 골판지 친구들 모두가 필요해요.
-
-<사본 끝>
-
-************"
-"[english]quest25001desc4"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-
-SOLDIER, I NEED YOU, AND PEPPER POT PETE, AND SALTY PETE, AND PETER PEPPER PANTS -- HELL, ALL YOUR CARDBOARD FRIENDS ON THIS ONE. 
-
-<END TRANSCRIPT>
-
-************"
-"quest25001desc5"	"************
-
-MANNCO 계약 전화-팩스 1.54.45
-
-새 연락이 1개 있습니다 
-전언 식별자: <915PAULING>
-
-처리 중...
-
-************
-
-솔져, 이 일을 거부할 사람들이 누군지 아나요? 히피들. 공산주의자들. 톰 존스. 본때를 보여주세요, 솔져. 이들 모두에게.
-
-<사본 끝>
-
-************"
-"[english]quest25001desc5"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-
-SOLDIER, YOU KNOW WHO DOESN'T WANT YOU TO TAKE THIS JOB? HIPPIES. COMMUNISTS. TOM JONES. SHOW THEM, SOLDIER. SHOW THEM ALL.
-
-<END TRANSCRIPT>
-
-************"
 "quest25001name0"	"솔저 계약"
 "[english]quest25001name0"	"Soldier Contract"
 "quest25001objectivedesc0"	"솔저로 점수 획득: %s1"
@@ -271,7 +158,22 @@ SOLDIER, YOU KNOW WHO DOESN'T WANT YOU TO TAKE THIS JOB? HIPPIES. COMMUNISTS. TO
 "[english]quest25001objectivedesc8"	"Heal 200 damage as Soldier: %s1"
 "quest25001objectivedesc9"	"솔저로 메딕 처치: %s1"
 "[english]quest25001objectivedesc9"	"Medics killed as Soldier: %s1"
-"quest25002desc0"	"이 계약을 완수하려면 파이로로 여러 작업을 완료해야 합니다."
+"quest25002desc0"	"************
+
+MANNCO 계약 통화-팩스 연결 1.54.45
+
+새 연락이 1개 있습니다
+전언 식별자: <915PAULING>
+
+처리 중...
+
+************
+
+안녕, 파이로! 네가 해야 할 일을 갖고 왔어. 알겠지, 친구야?
+
+<사본 끝>
+
+************"
 "[english]quest25002desc0"	"You will be required to complete various tasks as Pyro to complete this contract."
 "quest25002desc1"	"************
 
@@ -351,40 +253,23 @@ HEY, PYRO! [SOUNDS OF MUFFLED VOICE WITH HAND OVER MOUTH, 00:07] ALWAYS WANTED T
 "[english]quest25002objectivedesc4"	"Ignite an invisible or disguised Spy as Pyro: %s1"
 "quest25002objectivedesc5"	"파이로로 처치: %s1"
 "[english]quest25002objectivedesc5"	"Kill as Pyro: %s1"
-"quest25003desc0"	"이 계약을 완수하려면 데모맨으로 여러 작업을 완료해야 합니다."
-"[english]quest25003desc0"	"You will be required to complete various tasks as Demoman to complete this contract."
-"quest25003desc1"	"************
+"quest25003desc0"	"************
 
-MANNCO 계약 전화-팩스 1.54.45
+Mann Co. 계약 통화-팩스 연결 1.54.45
 
-새 연락이 1개 있습니다
+새 연락이 1개 있습니다.
 전언 식별자: <915PAULING>
 
 처리 중...
 
 ************
 
-데모, 폴링이에요. 눈알로 이것 좀 봐봐요. 눈으로 쓰는 [00:03 침묵] 눈알로요. 뭘로 보든 상관없어요. 그게 [00:03 침묵] 이걸 쳐다보게 하면 돼요.
+이봐요, 데모. 어머니와 전화를 해봤는데, 그 분께서 자기 아들이 충분히 많은 일거리를 받지 못 했다고 전화로 말씀하셨어요. 그래서 일거리를 하나 더 드리려고요. 거짓말이 아니예요, 어머님께서 화나신 것 같더군요.
 
 <사본 끝>
 
 ************"
-"[english]quest25003desc1"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-
-DEMO, IT'S PAULING. PLANT YOUR EYEBALLS ON THIS. EYE [00:03 SILENCE] EYEBALL. WHATEVER YOU SEE WITH. MAKE IT [00:03 SILENCE] MAKE IT LOOK AT THIS.
-
-<END TRANSCRIPT>
-
-************"
+"[english]quest25003desc0"	"You will be required to complete various tasks as Demoman to complete this contract."
 "quest25003desc2"	"************
 
 MANNCO 계약 통화-팩스 연결 1.54.45
@@ -527,11 +412,9 @@ HEY DEMO. THIS JOB IS FOR YOUR EYES ONLY. EYE. I MEAN [00:03 SILENCE] YOU GET IT
 "[english]quest25003objectivedesc4"	"Get a kill as Demoman: %s1"
 "quest25003objectivedesc5"	"방패로 적 강타: %s1"
 "[english]quest25003objectivedesc5"	"Bash an enemy with a shield: %s1"
-"quest25004desc0"	"이 계약을 완수하려면 헤비로 여러 작업을 완료해야 합니다."
-"[english]quest25004desc0"	"You will be required to complete various tasks as Heavy to complete this contract."
-"quest25004desc1"	"************
+"quest25004desc0"	"************
 
-MANNCO 계약 통화-팩스 1.54.45
+MANNCO 계약 통화-팩스 연결 1.54.45
 
 새 연락이 1개 있습니다
 전언 식별자: <915PAULING>
@@ -540,64 +423,17 @@ MANNCO 계약 통화-팩스 1.54.45
 
 ************
 
-헤비, 폴링이에요. 일하고 있을 테니 아마 [00:03 침묵] 지금쯤이면 모두를 죽이고 있겠죠. 하지만 이번 일은 방금 들어왔어요.
+안녕 헤비, 폴링이에요. 잠시만요. [총격 소리, 00:07] 죄송해요. 잘 들어요. 당신 이름이 잔뜩 쓰인 계약을 하나 받았어요. 아 씨, 잠시만요. [질질 끄는 소리, 00:36] 휴, 어쨌건, 잘 들어요. 이 일을 처리할 수 있다면, 전 당신께 빚을 하나 진 거예요. 고마워요, 덩치. [땅 파는 소리, 09:46] [묻는 소리, 05:24] 아놔, 이걸 그냥 켜두고 있었 
 
 <사본 끝>
 
 ************"
-"[english]quest25004desc1"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-
-HEAVY, IT'S PAULING. I KNOW YOU'RE WORKING, SO YOU'RE PROBABLY KILLING [00:03 SILENCE]   LIKE, EVERYTHING RIGHT NOW. BUT THIS JUST CAME IN.
-
-<END TRANSCRIPT>
-
-************"
-"quest25004desc2"	"************
-
-MANNCO 계약 통화-팩스 1.54.45
-
-새 연락이 1개 있습니다 
-전언 식별자: <915PAULING>
-
-처리 중...
-
-************
-
-헤비. 이 일은 아무한테도 말해서는 안돼요. [00:04 침묵] 하긴, 말이 없는 편이긴 하지만. 더욱 조용히요.
-
-<사본 끝>
-
-************"
-"[english]quest25004desc2"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-
-HEAVY. I NEED YOU TO KEEP QUIET ON THIS. [00:04 SILENCE] WELL, YOU'RE ALWAYS QUIET. QUIETER.
-
-<END TRANSCRIPT>
-
-************"
+"[english]quest25004desc0"	"You will be required to complete various tasks as Heavy to complete this contract."
 "quest25004name0"	"헤비 계약"
 "[english]quest25004name0"	"Heavy Contract"
 "quest25004objectivedesc0"	"헤비로 점수 획득: %s1"
 "[english]quest25004objectivedesc0"	"Score points as Heavy: %s1"
-"quest25004objectivedesc1"	"헤비로 목표 수행: %s1"
+"quest25004objectivedesc1"	"헤비로 지점 점령 및 수비: %s1"
 "[english]quest25004objectivedesc1"	"Capture or defend an objective as Heavy: %s1"
 "quest25004objectivedesc2"	"헤비로 스카웃 처치: %s1"
 "[english]quest25004objectivedesc2"	"Kill a Scout as Heavy: %s1"
@@ -609,55 +445,6 @@ HEAVY. I NEED YOU TO KEEP QUIET ON THIS. [00:04 SILENCE] WELL, YOU'RE ALWAYS QUI
 "[english]quest25004objectivedesc5"	"Take 1000 damage in a single life as Heavy: %s1"
 "quest25004objectivedesc6"	"헤비로 처치: %s1"
 "[english]quest25004objectivedesc6"	"Get a kill as Heavy: %s1"
-"quest25005desc0"	"************
-
-MANNCO 계약 통화-팩스 1.54.45
-
-새 연락이 1개 있습니다  
-전언 식별자: <915PAULING>
-
-처리 중...
-
-************
-
-엔지니어, 폴링이에요. 내 모페드에서 이상한 소리가 나는데, 마치 칙-칙-칙 위이이잉 그런 소리가 [00:05 침묵] 됐어요, 바쁜 거 아니까. 어쨌든, 할 일이 있어요.
-
-<사본 끝>
-
-************"
-"[english]quest25005desc0"	"You will be required to complete various tasks as Engineer to complete this contract."
-"quest25005desc1"	"************
-
-MANNCO 계약 전화-팩스 1.54.45
-
-새 연락이 1개 있습니다
-전언 식별자: <915PAULING>
-
-처리 중...
-
-************
-
-엔지, 혹시 [00:03 침묵] 잠깐만요 [00:04 침묵] 시체 한 여든 개쯤 녹여버릴 수 있는 거 가지고 있나요? 제 분쇄기로는 부족해세요. 어쨌든, 생각해 봐요. 할 일을 드릴게요.
-
-<사본 끝>
-
-************"
-"[english]quest25005desc1"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-
-ENGIE, YOU GOT ANYTHING IN YOUR WAREHOUSE THAT CAN LIQUIFY ABOUT [00:03 SILENCE] HOLD ON [00:04 SILENCE]  LET'S CALL IT EIGHTY BODIES? MY CHIPPER-SHREDDER'S BACKED UP. ANYWAY, THINK ABOUT IT. I'VE GOT A JOB.
-
-<END TRANSCRIPT>
-
-************"
 "quest25005desc2"	"************
 
 MANNCO 계약 통화-팩스 연결 1.54.45
@@ -690,38 +477,6 @@ HEY, BIG BRAINS. PAULING HERE. THIS JOB REQUIRES SOMEONE WHO CAN READ. YOU'RE MY
 <END TRANSCRIPT>
 
 ************"
-"quest25005desc3"	"************
-
-MANNCO 계약 전화-팩스 1.54.45
-
-새 연락이 1개 있습니다 
-전언 식별자: <915PAULING>
-
-처리 중...
-
-************
-
-엔지, 폴링이에요. 옆에 스카웃이 있는 건 아니죠? 콜록 거기 있다면, 줄 일이 있어요. 스카웃 말고요.
-
-<사본 끝>
-
-************"
-"[english]quest25005desc3"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-
-ENGIE, IT'S PAULING. IS SCOUT THERE? COUGH IF HE'S THERE. I'VE GOT A JOB FOR YOU. NOT HIM.
-
-<END TRANSCRIPT>
-
-************"
 "quest25005name0"	"엔지니어 계약"
 "[english]quest25005name0"	"Engineer Contract"
 "quest25005objectivedesc0"	"엔지니어로 점수 획득: %s1"
@@ -736,119 +491,6 @@ ENGIE, IT'S PAULING. IS SCOUT THERE? COUGH IF HE'S THERE. I'VE GOT A JOB FOR YOU
 "[english]quest25005objectivedesc4"	"Get a kill as Engineer: %s1"
 "quest25005objectivedesc5"	"디스펜서로 아군 체력 500 회복: %s1"
 "[english]quest25005objectivedesc5"	"Dispense 500 health to teammates: %s1"
-"quest25006desc0"	"************
-
-MANNCO 계약 전화-팩스 1.54.45
-
-새 연락이 1개 있습니다 
-전언 식별자: <915PAULING>
-
-처리 중...
-
-************
-
-메딕, 폴링이에요. 이번 일은 난장판일 것 같군요.
-
-<사본 끝>
-
-************"
-"[english]quest25006desc0"	"You will be required to complete various tasks as Medic to complete this contract."
-"quest25006desc1"	"************
-
-MANNCO 계약 전화- 팩스 1.54.45
-
-새 연락이 1개 있습니다 
-전언 식별자: <915PAULING>
-
-처리 중...
-
-************
-
-폴링이에요. 이 일을 할 정도로 정신이 나간 사람은 박사님밖에 없는 것 같네요.
-
-<사본 끝>
-
-************"
-"[english]quest25006desc1"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-
-PAULING HERE. NOBODY'S CRAZY ENOUGH TO DO THIS BUT YOU, DOCTOR.
-
-<END TRANSCRIPT>
-
-************"
-"quest25006desc2"	"************
-
-MANNCO 계약 전화-팩스 1.54.45
-
-새 연락이 1개 있습니다  
-전언 식별자: <915PAULING>
-
-처리 중...
-
-************
-
-메디이이이익! 흉내 내본 거에요. [00:03 침묵] 생각해 보니, 좀 아닌 것 같네요. 이렇게 소리치는 사람들은 [00:06 침묵] 죽어가고 있을 테니까.
-
-<사본 끝>
-
-************"
-"[english]quest25006desc2"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-
-MEDDDDDDIC! THAT WAS JUST AN IMPRESSION. [00:03 SILENCE] IN BAD TASTE, NOW THAT I THINK OF IT. I GUESS THE PEOPLE SCREAMING THAT ARE USUALLY [00:06 SILENCE] YOU KNOW, DYING.
-
-<END TRANSCRIPT>
-
-************"
-"quest25006desc3"	"************
-
-MANNCO 계약 전화-팩스 1.54.45
-
-새 연락이 1개 있습니다 
-전언 식별자: <915PAULING>
-
-처리 중...
-
-************
-
-메딕, 폴링이에요. 이번 일에는 장갑이 필요없을 거에요. [00:04 침묵] 잠깐, 그냥 끼고 계세요. 난장판이 벌어질 수도 있을 것 같으니.
-
-<사본 끝>
-
-************"
-"[english]quest25006desc3"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-
-MEDIC, PAULING HERE. TAKE THE GLOVES OFF FOR THIS ONE. [00:04 SILENCE] ACTUALLY, KEEP THE GLOVES ON. IT MIGHT GET MESSY.
-
-<END TRANSCRIPT>
-
-************"
 "quest25006name0"	"메딕 계약"
 "[english]quest25006name0"	"Medic Contract"
 "quest25006objectivedesc0"	"메딕으로 점수 획득: %s1"
@@ -859,7 +501,22 @@ MEDIC, PAULING HERE. TAKE THE GLOVES OFF FOR THIS ONE. [00:04 SILENCE] ACTUALLY,
 "[english]quest25006objectivedesc2"	"Assist in destroying a sentry while Ubered: %s1"
 "quest25006objectivedesc3"	"우버를 데모맨에게 걸어 처치 도움: %s1"
 "[english]quest25006objectivedesc3"	"Get an assist with an Ubered Demoman: %s1"
-"quest25007desc0"	"이 계약을 완수하려면 스나이퍼로 여러 작업을 완료해야 합니다."
+"quest25007desc0"	"************
+
+MANNCO 계약 통화-팩스 연결 1.54.45
+
+새 연락이 1개 있습니다
+전언 식별자: <915PAULING>
+
+처리 중...
+
+************
+
+스나이퍼? 폴링이에요. 전략과 신중함이 요구되는 일을 얻었어요. 스나이퍼가 제격인 것 같네요.
+
+<사본 끝>
+
+************"
 "[english]quest25007desc0"	"You will be required to complete various tasks as Sniper to complete this contract."
 "quest25007desc1"	"************
 
@@ -941,87 +598,6 @@ SNIPER. IT'S PAULING. STOP TALKING TO YOURSELF AND GET TO WORK. I'VE GOT A CONTR
 "[english]quest25007objectivedesc5"	"Kill a Sniper as Sniper: %s1"
 "quest25007objectivedesc6"	"스나이퍼로 처치: %s1"
 "[english]quest25007objectivedesc6"	"Get a kill as Sniper: %s1"
-"quest25008desc0"	"************
-
-MANNCO 계약 전화-팩스 1.54.45
-
-새 연락이 1개 있습니다 
-전언 식별자: <915PAULING>
-
-처리 중...
-
-************
-
-안녕, 스파이. 폴링이에요. DNA 검사는 제가 처리했어요. 이제 당신이 빛을 갚을 차례에요. 이 일을 처리해 주세요.
-
-<사본 끝>
-
-************"
-"[english]quest25008desc0"	"You will be required to complete various tasks as Spy to complete this contract."
-"quest25008desc1"	"************
-
-MANNCO 계약 통화-팩스 1.54.45
-
-새 연락이 1개 있습니다 
-전언 식별자: <915PAULING>
-
-처리 중...
-
-************
-
-스파이? 우리 둘 사이에서만 하는 말인데 [00:04 침묵] 그 복면 정말로 빠는 게 좋을 거에요. 한 번이라도. 악취가 눈에 보일 정도로 냄새난다니까요. 어쨌든, 해야 하실 일이 있어요.
-
-<사본 끝>
-
-************"
-"[english]quest25008desc1"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-
-SPY? JUST BETWEEN YOU AND ME [00:04 SILENCE]  YOU SHOULD REALLY WASH THAT SKI MASK. LIKE, ONCE. THERE'S VISIBLE STINK LINES COMING OFF THAT THING. ANYWAY, I NEED A FAVOR.
-
-<END TRANSCRIPT>
-
-************"
-"quest25008desc2"	"************
-
-MANNCO 계약 통화-팩스 1.54.45
-
-새 연락이 1개 있습니다 
-전언 식별자: <915PAULING>
-
-처리 중...
-
-************
-
-안녕 스파이! [00:04 침묵] 맞다. 아마도 지금 숨어있겠죠. 누군가의 등을 따려고. 아, 지금 바로 찌르기 직전일지도 모르죠. [00:02 침묵] 누가 이거 듣는 건 아니죠? 이거 영상도 되는 건가?
-
-<사본 끝>
-
-************"
-"[english]quest25008desc2"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-
-HEY SPY! [00:04 SILENCE] OH RIGHT. YOU'RE PROBABLY SNEAKING UP ON SOMEBODY. TO STAB THEM. OHH, I BET YOU'RE JUST ABOUT TO DO IT, TOO. [00:02 SILENCE] THEY CAN'T HEAR ME, CAN THEY? DO YOU HAVE VIDEO ON THIS THING?
-
-<END TRANSCRIPT>
-
-************"
 "quest25008name0"	"스파이 계약"
 "[english]quest25008name0"	"Spy Contract"
 "quest25008objectivedesc0"	"스파이로 점수 획득: %s1"
@@ -1098,70 +674,6 @@ PROCESSING...
 ************
 
 I GOT YOU A JOB AT A HYDROELECTRIC PLANT. IT'S NOT ACTING AT PEAK EFFICIENCY, SO I SIGNED YOU GUYS UP TO REPLACE ALL THE HYDROPOWER TURBINES, CIRCUIT BREAKERS, PUMPS, AND RELATED AUXILIARY EQUIPMENT . I'M KIDDING, I JUST NEED YOU TO GO THERE AND KILL PEOPLE.
-
-<END TRANSCRIPT>
-
-************"
-"quest25009desc2"	"************
-
-MANNCO 계약 전화-팩스1.54.45
-
-새 연락이 1개 있습니다
-전언 식별자: <915PAULING>
-
-처리 중...
-
-************
-
-안녕, 여러분. 모두 수력발전소가 있는 댐에 가 주셔야 겠어요. 자세한 이유는 가서 알아보세요. 사실 저도 왜 가는지 모르겠지만 말이에요. 어쨌든, 아무것도 손대지 마세요.
-
-<사본 끝>
-
-************"
-"[english]quest25009desc2"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-
-HEY, GUYS. I NEED YOU TO GET TO A HYDROELECTRIC DAM. DONT ASK WHY, ITS ON A NEED-TO-KNOW BASIS. I DON'T KNOW EITHER, ACTUALLY. SO IT'S ON A NOBODY-KNOWS BASIS. ANYWAY, DON'T TOUCH ANYTHING.
-
-<END TRANSCRIPT>
-
-************"
-"quest25009desc3"	"************
-
-MANNCO 계약 전화-팩스 1.54.45
-
-새 연락이 1개 있습니다 
-전언 식별자: <915PAULING>
-
-처리 중...
-
-************
-
-안녕 여러분, 폴링이에요. 이번 일은 수력발전소에서 해야 돼요. 움직이는 건 다 쏴버리세요. [00:03 침묵] 움직이는 직원들은 빼고요. 그리고 물도. 터빈도 움직이고 있을테니 조심하고요. 반짝이는 많은 불빛들도요. [00:03 침묵] 다시 생각해보니까, 움직이는 것 중에서 최소한만 쏘도록 하세요. 머리로 알아서 판단해 보면 될 거에요.
-
-<사본 끝>
-
-************"
-"[english]quest25009desc3"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-
-HEY GUYS, PAULING HERE. THIS JOB'S AT A HYDROELECTRIC PLANT. SHOOT ANYTHING THAT MOVES. [00:04 SILENCE] EXCEPT THE PLANT WORKERS, I GUESS THEY'LL BE MOVING. AND THE WATER. THE TURBINES WILL BE MOVING TOO. LOTS OF BLINKING LIGHTS, PROBABLY. [00:03 SILENCE] ON SECOND THOUGHT, YOU'RE GOING TO WANT TO SHOOT VERY LITTLE OF WHAT'S MOVING. USE YOUR HEADS OUT THERE, FELLAS.
 
 <END TRANSCRIPT>
 
@@ -1316,38 +828,6 @@ HEY, GUYS. TEUFORT'S BEING FUMIGATED, SO WE FOUND YOU A JOB IN BORNEO. I THINK I
 <END TRANSCRIPT>
 
 ************"
-"quest25011desc1"	"************
-
-MANNCO 계약 전화-팩스 1.54.45
-
-새 연락이 1개 있습니다 
-전언 식별자: <915PAULING>
-
-처리 중...
-
-************
-
-이번에는 정글에 갈 테니 모두 예방 접종을 받았길 바래요. 정글은 독 그 자체죠. 동물들. 나무. 그냥 독. 거기 가시게 된 거 기왕이면 다 태워버리세요.
-
-<사본 끝>
-
-************"
-"[english]quest25011desc1"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-
-I HOPE YOU'VE GOT ALL YOUR SHOTS, BECAUSE THIS NEXT CONTRACT'S IN THE MIDDLE OF A JUNGLE. AND EVERYTHING IN A JUNGLE IS POISONOUS. THE ANIMALS. THE TREES. PURE POISON. BURN IT DOWN WHILE YOU'RE THERE, WHY DONT YOU.
-
-<END TRANSCRIPT>
-
-************"
 "quest25011name0"	"Borneo 계약"
 "[english]quest25011name0"	"Borneo Contract"
 "quest25011objectivedesc0"	"Borneo에서 점수 획득: %s1"
@@ -1400,142 +880,12 @@ HEY GUYS, PAULING HERE. I HOPE YOU LIKE JAPAN, BECAUSE THAT'S WHERE YOU'RE GOING
 "[english]quest25012objectivedesc2"	"Capture the objective on Suijin: %s1"
 "quest25012objectivedesc3"	"Suijin에서 승리: %s1"
 "[english]quest25012objectivedesc3"	"Win a round on Suijin: %s1"
-"quest25013desc0"	"************
-
-MANNCO 계약 전화-팩스 1.54.45
-
-새 연락이 1개 있습니다 
-전언 식별자: <915PAULING>
-
-처리 중...
-
-************
-
-이번 일은 쉬운 거에요. 이런 일은 수백만번도 더 했으니 어려울 건 없겠죠. 하지만 이번에는 저희가 기록을 측정하고 있어요. 그러니까, 긴장하는 게 좋을 거에요.
-
-<END TRANSCRIPT>
-
-************"
-"[english]quest25013desc0"	"You will be required to score points on any map and as any class to complete this contract."
-"quest25013desc1"	"************
-
-MANNCO 계약 전화-팩스 1.54.45
-
-새 연락이 1개 있습니다 
-전언 식별자: <915PAULING>
-
-처리 중...
-
-************
-
-자, 성과를 확인해 볼 시간이에요. 모두 가서 해야 할 일을 해 주세요. 특별한 건 없답니다. 물론 저희가 지켜보고 있으니 누군가는 해고당할 지도 모르겠죠.
-
-<사본 끝>
-
-************"
-"[english]quest25013desc1"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-
-PERFORMANCE REVIEW TIME, GUYS. GET OUT THERE AND DO WHAT YOU DO. NO PRESSURE. BUT WE'RE WATCHING AND PROBABLY SOMEONE'S GETTING FIRED.
-
-<END TRANSCRIPT>
-
-************"
 "quest25013name0"	"일반 계약"
 "[english]quest25013name0"	"Open Contract"
 "quest25013objectivedesc0"	"점수 획득: %s1"
 "[english]quest25013objectivedesc0"	"Score points: %s1"
 "quest25013objectivedesc1"	"죽지 않고 10점 획득: %s1"
 "[english]quest25013objectivedesc1"	"Score 10 points in a single life: %s1"
-"quest25014desc0"	"************
-
-MANNCO 계약 전화-팩스 1.54.45
-
-새 연락이 1개 있습니다 
-전언 식별자: <915PAULING>
-
-처리 중...
-
-************
-
-안녕하세요, 여러분. 오늘은 관리자님의 생일인데, 아는 척은 하지 마세요. 대신 가서 이제까지 죽인 사람들보다 더 많은 사람들을 죽여 주세요, 알겠죠? 아니, 신경쓰일 정도로 사람을 많이 죽여야 한다니까요.
-
-<사본 끝>
-
-************"
-"[english]quest25014desc0"	"You will be required to earn kills to complete this contract"
-"quest25014desc1"	"************
-
-MANNCO 계약 전화-팩스 1.54.45
-
-새 연락이 1개 있습니다 
-전언 식별자: <915PAULING>
-
-처리 중...
-
-************
-
-여러분, 이 생석회를 빨리 처리해버려야 해요. 일본 마피아한테서 훔쳐왔더니 이걸 되찾으러 오고 있거든요. 이번 일에는 시체 더미가 필요해요.
-
-<사본 끝>
-
-************"
-"[english]quest25014desc1"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-
-WE'VE GOT TO GET RID OF SOME QUICKLIME FAST, GUYS. WE STOLE IT FROM THE JAPANESE MAFIA AND THEY'RE COMING FOR IT. SO I NEED A HUGE PILE OF BODIES ON THIS ONE.
-
-<END TRANSCRIPT>
-
-************"
-"quest25014desc2"	"************
-
-MANNCO 계약 전화-팩스 1.54.45
-
-새 연락이 1개 있습니다 
-전언 식별자: <915PAULING>
-
-처리 중...
-
-************
-
-이번 건은 죽일 사람들이 좀 많아요, 여러분. 여러분이 죽인 사람들의 시체 더미가 우주에서도 보이게 하세요. 정말이에요. 관리자님이 소련 우주인들을 위협하려고 하시거든요.
-
-<사본 끝>
-
-************"
-"[english]quest25014desc2"	"************
-
-MANNCO CONTRACT CALL-TO-FAX 1.54.45
-
-YOU HAVE 1 NEW CALL 
-MESSAGE-ID: <915PAULING>
-
-PROCESSING...
-
-************
-
-WE NEED A BIG KILL-COUNT ON THIS ONE, GUYS. I WANT TO BE ABLE TO SEE THE PILE OF BODIES FROM SPACE. LITERALLY. ADMINISTRATOR'S TRYING TO INTIMIDATE SOME SOVIET ASTRONAUTS.
-
-<END TRANSCRIPT>
-
-************"
 "quest25014name0"	"처치 계약"
 "[english]quest25014name0"	"Kill Contract"
 "quest25014objectivedesc0"	"처치: %s1"
@@ -1878,7 +1228,7 @@ Hm. I'm surprised I put that one in there."
 "[english]quest25030objectivedesc3"	"Defend a Control Point on a CP map: %s1"
 "quest25030objectivedesc4"	"점령 지점 맵에서 승리: %s1"
 "[english]quest25030objectivedesc4"	"Win a round on a CP map: %s1"
-"quest25031desc1"	"이 계약을 완수하려면 스카웃으로 산탄총을 사용해야 합니다."
+"quest25031desc1"	"　"
 "[english]quest25031desc1"	"You will be required to use the Soda Popper as Scout to complete this contract."
 "quest25031name0"	"스카웃 - 탄산총"
 "[english]quest25031name0"	"Scout - The Soda Popper"
@@ -2002,7 +1352,7 @@ Hm. I'm surprised I put that one in there."
 "[english]quest25039name1"	"Sandvich"
 "quest25039objectivedesc1"	"헤비로 점수 획득: %s1"
 "[english]quest25039objectivedesc1"	"Score points as Heavy: %s1"
-"quest25039objectivedesc2"	"헤비로 목표 수행: %s1"
+"quest25039objectivedesc2"	"헤비로 지점 점령 및 수비: %s1"
 "[english]quest25039objectivedesc2"	"Capture or defend an objective as Heavy: %s1"
 "quest25039objectivedesc3"	"부상당한 아군에게 도시락 먹이기: %s1"
 "[english]quest25039objectivedesc3"	"Feed an injured teammate: %s1"
@@ -2188,33 +1538,17 @@ Hm. I'm surprised I put that one in there."
 "[english]quest25053name0"	"Maple Ridge"
 "quest25053name1"	"Maple Ridge"
 "[english]quest25053name1"	"Maple Ridge"
-"quest25053objectivedesc1"	"맵에서 영혼 수집하기: %s1"
-"[english]quest25053objectivedesc1"	"Collect souls on Maple Ridge Event: %s1"
-"quest25053objectivedesc2"	"핼러윈 호박 바구니 모으기: %s1"
-"[english]quest25053objectivedesc2"	"Collect a Halloween Pumpkin: %s1"
-"quest25053objectivedesc3"	"호박폭탄으로 처치: %s1"
-"[english]quest25053objectivedesc3"	"Kill with a pumpkin bomb: %s1"
 "quest25054desc1"	"　"
 "[english]quest25054desc1"	""
 "quest25054name0"	"Brimstone"
 "[english]quest25054name0"	"Brimstone"
 "quest25054name1"	"Brimstone"
 "[english]quest25054name1"	"Brimstone"
-"quest25054objectivedesc1"	"Brimstone 맵에서 영혼 수집하기: %s1"
-"[english]quest25054objectivedesc1"	"Collect souls on Brimstone: %s1"
-"quest25054objectivedesc2"	"핼러윈 호박 바구니 모으기: %s1"
-"[english]quest25054objectivedesc2"	"Collect a Halloween Pumpkin: %s1"
-"quest25054objectivedesc3"	"호박폭탄으로 처치: %s1"
-"[english]quest25054objectivedesc3"	"Kill with a pumpkin bomb: %s1"
 "quest25055desc1"	"　"
 "[english]quest25055desc1"	""
 "quest25055name0"	"Pit of Death"
 "[english]quest25055name0"	"Pit of Death"
 "quest25055name1"	"Pit of Death"
 "[english]quest25055name1"	"Pit of Death"
-"quest25055objectivedesc1"	"Pit of Death 맵에서 영혼 수집하기: %s1"
-"[english]quest25055objectivedesc1"	"Collect souls on Pit of Death: %s1"
-"quest25055objectivedesc2"	"귀신들린 영혼 수집하기: %s1"
-"[english]quest25055objectivedesc2"	"Collect haunted souls: %s1"
 }
 }
