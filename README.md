@@ -8,7 +8,7 @@ This repo contains the latest approved translations on [Steam Translation Server
   * tf_quests
   * tf_proto_obj_defs
   * tf_richpresence
-* Dota 2 (Updated once per week)
+* Dota 2 (Updated once a week)
   * dota
   * dotaS2
   * items
