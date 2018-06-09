@@ -1,6 +1,6 @@
 # About
 
-This repo contains the latest approved translations on [Steam Translation Server](https://translation.steampowered.com) and is meant to help the translators at [Official Team Fortress Wiki](https://wiki.teamfortress.com/wiki/Main_Page), [Unofficial Dota 2 Wiki](https://dota2.gamepedia.com/Dota_2_Wiki) and [The Portal Wiki](https://theportalwiki.com/wiki/Main_Page).
+This repository contains the latest applied translations on [Steam Translation Server](https://translation.steampowered.com) and is mainly meant to help the translators at [Official Team Fortress Wiki](https://wiki.teamfortress.com/wiki/Main_Page), [Unofficial Dota 2 Wiki](https://dota2.gamepedia.com/Dota_2_Wiki) and [The Portal Wiki](https://theportalwiki.com/wiki/Main_Page).
 
 # Files
 * Team Fortress 2 (Updated once a week)
@@ -12,6 +12,8 @@ This repo contains the latest approved translations on [Steam Translation Server
   * dota
   * dotaS2
   * items
+  * richpresence
+  * hero_chat_wheel
 * Counter-Strike: Global Offensive (Updated once a week)
   * csgo
 * Portal (Updated once a month)
