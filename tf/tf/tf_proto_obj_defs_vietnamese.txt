@@ -1,0 +1,23 @@
+"lang"
+{
+"Language"	"vietnamese"
+"Tokens"
+{
+"3_0_field { field_number: 2 }"	"root"
+"[english]3_0_field { field_number: 2 }"	"root"
+"4_25063_field { field_number: 6 }"	" "
+"[english]4_25063_field { field_number: 6 }"	""
+"4_25064_field { field_number: 6 }"	" "
+"[english]4_25064_field { field_number: 6 }"	""
+"4_25114_field { field_number: 6 }"	"Bạn sẽ được yêu cầu hoàn thành các nhiệm vụ khác nhau khi chơi Engineer để hoàn thành hợp đồng này."
+"[english]4_25114_field { field_number: 6 }"	"You will be required to complete various tasks as Engineer to complete this contract."
+"4_25115_field { field_number: 6 }"	"Bạn sẽ được yêu cầu hoàn thành các nhiệm vụ khác nhau khi chơi Heavy để hoàn thành hợp đồng này."
+"[english]4_25115_field { field_number: 6 }"	"You will be required to complete various tasks as Heavy to complete this contract."
+"4_25116_field { field_number: 6 }"	"Bạn sẽ được yêu cầu hoàn thành các nhiệm vụ khác nhau khi chơi Demoman để hoàn thành hợp đồng này."
+"[english]4_25116_field { field_number: 6 }"	"You will be required to complete various tasks as Demoman to complete this contract."
+"4_25166_field { field_number: 6 }"	"Bạn sẽ được yêu cầu hoàn thành các nhiệm vụ khác nhau khi chơi Solider để hoàn thành hợp đồng này."
+"[english]4_25166_field { field_number: 6 }"	"You will be required to complete various tasks as Soldier to complete this contract."
+"4_25167_field { field_number: 6 }"	"Bạn sẽ được yêu cầu hoàn thành các nhiệm vụ khác nhau khi chơi Pyro để hoàn thành hợp đồng này."
+"[english]4_25167_field { field_number: 6 }"	"You will be required to complete various tasks as Pyro to complete this contract."
+}
+}

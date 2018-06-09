@@ -1,0 +1,170 @@
+"lang"
+{
+"Language"	"pirate"
+"Tokens"
+{
+"quest25000desc0"	"************
+
+MANNCO CONTRACT CALL-TO-FAX 1.54.45
+
+YE HAVE 1 NEW CALL 
+MESSAGE-ID: <915PAULING>
+
+PROCESSING...
+
+************
+
+LASSIE? IT BE PAULING. I'M ASSUMIN' YER TALKIN' RIGHT NOW, PLEASE STOP. THIS ISN'T A SOCIAL CALL. I'VE GOT WORK.
+
+<END TRANSCRIPT>
+
+************"
+"[english]quest25000desc0"	"Complete various tasks as Scout to complete this contract."
+"quest25000desc1"	"************
+
+MANNCO CONTRACT CALL-TO-FAX 1.54.45
+
+YE HAVE 1 NEW CALL 
+MESSAGE-ID: <915PAULING>
+
+PROCESSING...
+
+************
+
+LASSIE? PAULING HERE. WRAP UP WHATEVER YE WERE BRAGGIN' ABOUT AND LOOK AT THIS. AND LASSIE? I NEED THIS DONE QUIETLY. LASSIE? QUIETLY.
+
+<END TRANSCRIPT>
+
+************"
+"[english]quest25000desc1"	"************
+
+MANNCO CONTRACT CALL-TO-FAX 1.54.45
+
+YOU HAVE 1 NEW CALL 
+MESSAGE-ID: <915PAULING>
+
+PROCESSING...
+
+************
+
+SCOUT? PAULING HERE. WRAP UP WHATEVER YOU WERE BRAGGING ABOUT AND LOOK AT THIS. AND SCOUT? I NEED THIS DONE QUIETLY. SCOUT? QUIETLY.
+
+<END TRANSCRIPT>
+
+************"
+"quest25000desc2"	"************
+
+MANNCO CONTRACT CALL-TO-FAX 1.54.45
+
+YE HAVE 1 NEW CALL 
+MESSAGE-ID: <915PAULING>
+
+PROCESSING...
+
+************
+HEY, SCOUT. IT be PAULING. I, UH, GOT YER PHONE MESSAGE. MESSAGES. ALL OF THEM. SO THANKS FOR [00:05 SILENCE] THANKS FOR ALL THOSE. [00:06 SILENCE] ANYWAY, LISTEN, I'VE GOT WORK. THIS IS LOW PROFILE, SO DON'T TELL ANYONE ABOUT IT. I JUST REMEMBERED WHO I WAS TALKING TO AND HOW STUPID THAT SENTENCE WAS, LOOK, JUST DON'T TELL ANYONE TOO MUCH ABOUT IT, AYE? AYE, BYE.
+
+<END TRANSCRIPT>
+
+************"
+"[english]quest25000desc2"	"************
+
+MANNCO CONTRACT CALL-TO-FAX 1.54.45
+
+YOU HAVE 1 NEW CALL 
+MESSAGE-ID: <915PAULING>
+
+PROCESSING...
+
+************
+HEY, SCOUT. IT'S PAULING. I, UH, GOT YOUR PHONE MESSAGE. MESSAGES. ALL OF THEM. SO THANKS FOR [00:05 SILENCE] THANKS FOR ALL THOSE. [00:06 SILENCE] ANYWAY, LISTEN, I'VE GOT WORK. THIS IS LOW PROFILE, SO DON'T TELL ANYONE ABOUT IT. I JUST REMEMBERED WHO I WAS TALKING TO AND HOW STUPID THAT SENTENCE WAS, LOOK, JUST DON'T TELL ANYONE TOO MUCH ABOUT IT, OKAY? OKAY, BYE.
+
+<END TRANSCRIPT>
+
+************"
+"quest25000name0"	"Lassie Contract"
+"[english]quest25000name0"	"Scout Contract"
+"quest25000objectivedesc0"	"Tally points as Lassie: %s1"
+"[english]quest25000objectivedesc0"	"Score points as Scout: %s1"
+"quest25000objectivedesc1"	"Kill while mid-leap as Lassie: %s1"
+"[english]quest25000objectivedesc1"	"Kill while mid-jump as Scout: %s1"
+"quest25000objectivedesc2"	"Kill a Grenadier as Lassie: %s1"
+"[english]quest25000objectivedesc2"	"Kill a Demoman as Scout: %s1"
+"quest25000objectivedesc3"	"Capture an objective as Lassie: %s1"
+"[english]quest25000objectivedesc3"	"Capture an objective as Scout: %s1"
+"quest25000objectivedesc4"	"Kill as Lassie: %s1"
+"[english]quest25000objectivedesc4"	"Kill as Scout: %s1"
+"quest25000objectivedesc5"	"Kill a Surgeon as Lassie: %s1"
+"[english]quest25000objectivedesc5"	"Kill a Medic as Scout: %s1"
+"quest25001desc0"	"************
+
+MANNCO CONTRACT CALL-TO-FAX 1.54.45
+
+YOU HAVE 1 NEW CALL 
+MESSAGE-ID: <915PAULING>
+
+PROCESSING...
+
+************
+
+HELLO, SON. I NEED YE TO HALT HOLDIN' YER BEST MATE'S GUTS IN AND LISTEN UP. I'VE GOT A CONTRACT FOR [00:03 SILENCE] I MEAN, I'VE GOT A MILITARY ARMY DARK OP FOR YOU. OPERATION ZULO BRAVO [00:02 SILENCE] DELTATROT. THERE'D BE A DAMN MEDAL IN THIS FOR YE IF IT WASN'T SO NAVY DARK SCUBA GRENADE OPS. WHICH IT IS, BY THE WAY, SO DON'T TELL THE OTHER GUYS. MAKE ME PROUD, SON. PAULING OUT.
+
+<END TRANSCRIPT>
+
+************"
+"[english]quest25001desc0"	"You will be required to complete various tasks as Soldier to complete this contract."
+"quest25001name0"	"Man o' War Contract"
+"[english]quest25001name0"	"Soldier Contract"
+"quest25001objectivedesc0"	"Tally points as Man o' War: %s1"
+"[english]quest25001objectivedesc0"	"Score points as Soldier: %s1"
+"quest25001objectivedesc1"	"Secondary weapon kill as Man o' War: %s1"
+"[english]quest25001objectivedesc1"	"Secondary weapon kill as Soldier: %s1"
+"quest25001objectivedesc10"	"Marksmans killed as Man o' War: %s1"
+"[english]quest25001objectivedesc10"	"Snipers killed as Soldier: %s1"
+"quest25001objectivedesc11"	"Traitors killed as Man o' War: %s1"
+"[english]quest25001objectivedesc11"	"Spies killed as Soldier: %s1"
+"quest25001objectivedesc12"	"Kill as Man o' War: %s1"
+"[english]quest25001objectivedesc12"	"Kill as Soldier: %s1"
+"quest25001objectivedesc2"	"Kill while blast leaping as Man o' War: %s1"
+"[english]quest25001objectivedesc2"	"Kill while blast jumping as Soldier: %s1"
+"quest25001objectivedesc3"	"Lassie's killed as Man o' War: %s1"
+"[english]quest25001objectivedesc3"	"Scouts killed as Soldier: %s1"
+"quest25001objectivedesc4"	"Kill a soarin' mark with yer secondary: %s1"
+"[english]quest25001objectivedesc4"	"Kill an airborne target with your secondary: %s1"
+"quest25001objectivedesc6"	"Grenadier killed as Man o' War: %s1"
+"[english]quest25001objectivedesc6"	"Demomen killed as Soldier: %s1"
+"quest25001objectivedesc7"	"Minicrit kill as Man o' War: %s1"
+"[english]quest25001objectivedesc7"	"Minicrit kill as Soldier: %s1"
+"quest25001objectivedesc8"	"Heal 200 damage as Man o' War: %s1"
+"[english]quest25001objectivedesc8"	"Heal 200 damage as Soldier: %s1"
+"quest25001objectivedesc9"	"Surgeons killed as Man o' War: %s1"
+"[english]quest25001objectivedesc9"	"Medics killed as Soldier: %s1"
+"quest25002desc0"	"************
+
+MANNCO CONTRACT CALL-TO-FAX 1.54.45
+
+YE HAVE 1 NEW CALL 
+MESSAGE-ID: <915PAULING>
+
+PROCESSING...
+
+************
+
+AHOY, FIREMAKER! I'VE GOT SOMETHING I NEED YE TO DO, AYE, BUDDY?
+
+<END TRANSCRIPT>
+
+************"
+"[english]quest25002desc0"	"You will be required to complete various tasks as Pyro to complete this contract."
+"quest25002name0"	"Firemaker Contract"
+"[english]quest25002name0"	"Pyro Contract"
+"quest25002objectivedesc0"	"Score points as Firemaker: %s1"
+"[english]quest25002objectivedesc0"	"Score points as Pyro: %s1"
+"quest25002objectivedesc1"	"Extinguish a crew member as Firemaker: %s1"
+"[english]quest25002objectivedesc1"	"Extinguish a teammate as Pyro: %s1"
+"quest25016desc3"	"Can ye murder... DAVY JONES HIMSELF? An', if it be not too much hassle, can ye do it before th' Russian mob does it? As they be makin' it as clear as day that they be not killin' Davy Jones so quickly."
+"[english]quest25016desc3"	"Can you murder... MERASMUS HIMSELF? And, if it's not too much trouble, can you do it before the Russian mob does it? Because they have made it really quite clear that they are NOT going to kill Merasmus quickly."
+"quest25020desc1"	"Bet ye'll WIN th' contract? Would ye bet... YER VERY SOUL? Hahaha! But do ye know I be not threatenin' ye, or ye'd be agreein' t' th' contract under duress. An'... hoo boy, that be not b' good fer Davy Jones."
+"[english]quest25020desc1"	"Bet you'll WIN this contract? Would you wager... YOUR VERY SOUL? Hahaha! Please note I'm not explicitly threatening you, or you'd be agreeing to this contract under duress. That... hoo boy, that would not be good for Merasmus."
+}
+}
