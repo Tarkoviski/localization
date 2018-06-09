@@ -1,0 +1,9 @@
+﻿"lang"
+{
+"Language"	"pirate"
+"Tokens"
+{
+"#DOTA_RP_INIT"	"Test2"
+"[english]#DOTA_RP_INIT"	"Main Menu"
+}
+}
