@@ -1,9 +1,0 @@
-"lang"
-{
-"Language"	"tchinese"
-"Tokens"
-{
-"0_54_field { field_number: 4 }"	"惡水"
-"[english]0_54_field { field_number: 4 }"	"Badwater"
-}
-}

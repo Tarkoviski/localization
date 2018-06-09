@@ -27,7 +27,7 @@
 "[english]#TF_RichPresence_MatchGroup_Competitive6v6"	"Competitive"
 "#TF_RichPresence_MatchGroup_Casual"	"Avslappet"
 "[english]#TF_RichPresence_MatchGroup_Casual"	"Casual"
-"#TF_RichPresence_MatchGroup_SpecialEvent"	"Spesiell hendelse"
+"#TF_RichPresence_MatchGroup_SpecialEvent"	"Spesielt arrangement"
 "[english]#TF_RichPresence_MatchGroup_SpecialEvent"	"Special Event"
 "#TF_RichPresence_MatchGroup_MannUp"	"MvM: Mann deg opp"
 "[english]#TF_RichPresence_MatchGroup_MannUp"	"MvM Mann Up"
