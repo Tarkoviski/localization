@@ -14901,7 +14901,7 @@ To win the round, destroy the enemy robots and collect reactor cores to win. Ret
 "[english]ItemHistory_Action_MvM_RemoveSquadSurplusVoucher"	"Used"
 "ItemHistory_Action_ItemEaterRecharge_Remove"	"チャージ追加に使用"
 "[english]ItemHistory_Action_ItemEaterRecharge_Remove"	"Used to add charges"
-"ItemHistory_Action_Market_Remove"	"Steamコミュニティマーケットに掲載しました"
+"ItemHistory_Action_Market_Remove"	"Steamコミュニティマーケットに出品しました"
 "[english]ItemHistory_Action_Market_Remove"	"Listed on the Steam Community Market"
 "TF_SteamWorkshop_AcceptableFilesMaps"	"マップファイル (*.bsp)"
 "[english]TF_SteamWorkshop_AcceptableFilesMaps"	"Map Files (*.bsp)"
@@ -15771,7 +15771,7 @@ To win the round, destroy the enemy robots and collect reactor cores to win. Ret
 "[english]TF_Matchmaking_HeaderCasual"	"Casual"
 "TF_Competitive_Stats_Total"	"合計"
 "[english]TF_Competitive_Stats_Total"	"Total"
-"TF_Competitive_Level"	"レベル: %s1"
+"TF_Competitive_Level"	"レベル: %s1 ティア: %s2"
 "[english]TF_Competitive_Level"	"Level: %s1 Tier: %s2"
 "TF_Competitive_RankTitle"	"ランク"
 "[english]TF_Competitive_RankTitle"	"Rank"
@@ -16041,5 +16041,7 @@ To win the round, destroy the enemy robots and collect reactor cores to win. Ret
 "[english]TF_TournamentMedal_TFCL_Ultiduo_Bronze"	"TFCL Ultiduo 3rd Place"
 "TF_TournamentMedal_TFCL_Ultiduo_Participant"	"TFCL Ultiduo 参加者"
 "[english]TF_TournamentMedal_TFCL_Ultiduo_Participant"	"TFCL Ultiduo Participant"
+"TF_Competitive_LevelTier1"	"レベル: %s1"
+"[english]TF_Competitive_LevelTier1"	"Level: %s1"
 }
 }

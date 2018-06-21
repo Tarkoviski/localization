@@ -29,7 +29,7 @@
 "[english]#TF_RichPresence_MatchGroup_Casual"	"Casual"
 "#TF_RichPresence_MatchGroup_SpecialEvent"	"Evento especial"
 "[english]#TF_RichPresence_MatchGroup_SpecialEvent"	"Special Event"
-"#TF_RichPresence_MatchGroup_MannUp"	"Mann McM"
+"#TF_RichPresence_MatchGroup_MannUp"	"Mann MvM"
 "[english]#TF_RichPresence_MatchGroup_MannUp"	"MvM Mann Up"
 "#TF_RichPresence_MatchGroup_BootCamp"	"Iniciación McM"
 "[english]#TF_RichPresence_MatchGroup_BootCamp"	"MvM Boot Camp"
