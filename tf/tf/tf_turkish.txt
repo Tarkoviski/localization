@@ -28835,5 +28835,7 @@ Shoot the alien explosive drones to take out enemies or Engineer buildings."
 "[english]TF_Medal_HugsTF_2018"	"Heartfelt Hero"
 "TF_Medal_HugsTF_2018_Desc"	"Hugs.tf 2018 bağış etkinliğine katkıda bulunan veya katılanlara ödül olarak verilmiştir."
 "[english]TF_Medal_HugsTF_2018_Desc"	"Awarded to those who contributed to or participated in the Hugs.tf 2018 charity event"
+"TF_ConfirmResetAchievements_Title"	"Tüm Başarımları Sıfırla"
+"[english]TF_ConfirmResetAchievements_Title"	"Reset All Achievements"
 }
 }
