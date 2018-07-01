@@ -8825,4 +8825,11 @@ Khi mà linh lực Selemene đang ở mức yếu nhất, và bè lũ ma quỷ p
 "DOTA_BattlePass_TippingTooltip_Title"	"Boa thưởng"
 "DOTA_BattlePass_UnderhollowTooltip_Title"	"Underhollow"
 "DOTA_BattlePass_UnderhollowTooltip_BattlePointsEarned"	"Điểm Battle đã nhận tuần này"
+"dota_play_lobbies_section"	"Phòng tùy chỉnh"
+"dota_play_create_lobby"	"Tạo"
+"dota_play_browse_lobbies"	"Duyệt"
+"DOTA_TeamInvite_DirectInvite"	"Mời trực tiếp"
+"DOTA_Compendium_Predictions_Qualifier_NA_3"	"Hạng ba vòng loại Bắc Mỹ"
+"DOTA_SplashAd_TI8_Immortals_2_Text"	"Giới thiệu vật phẩm Immortal mới cho Dark Seer, Juggernaut, Omniknight, Doom, Viper, Jakiro, Wraith King, và Outworld Devourer."
+"DOTA_LaneSelection_FasterQueue"	"Xếp trận nhanh hơn"
 }

@@ -24258,6 +24258,7 @@ A Halhatatlan tárgyak nem cserélhetők vagy értékesíthetők a The Internati
 "DOTA_Item_Crown_of_the_Abyssal_Kin"	"A Mélységszülött Koronája"
 "DOTA_Item_Crown_of_the_Sapphire_Shroud"	"A Zafír Lepel Koronája"
 "DOTA_Item_Desc_Pillar_of_the_Fractured_Citadel"	"Tartalmazza a 'Töredezett Citadella' tárgyszettet Spirit Breaker számára."
+"DOTA_Item_Desc_TI8_Collectors_Cache_V1"	"E kincs kinyitásához nincs szükség pecsétre vagy kulcsra, mivel már nyitva van."
 "DOTA_Item_Desc_TI8_Darkseer_Fungous_General"	"Tartalmazza a 'Zafír Lepel Éleslátása' tárgyszettet Dark Seer számára."
 "DOTA_Item_Desc_TI8_Invoker_Prism_Crystal_Spellcaster"	"Tartalmazza a 'Sorsdelelő' tárgyszettet és betöltőképernyőt Invoker számára."
 "DOTA_Item_Desc_TI8_PA_The_Gloomy_Veil"	"Tartalmazza a 'Felemelt Fátyol Látomásai' szettet Phantom Assassin számára."
@@ -24289,5 +24290,12 @@ A Halhatatlan tárgyak nem cserélhetők vagy értékesíthetők a The Internati
 "DOTA_Set_Pillar_of_the_Fractured_Citadel"	"A Töredezett Citadella Oszlopa"
 "DOTA_Set_Raptures_of_the_Abyssal_Kin"	"A Mélységszülött Elragadtatása"
 "DOTA_Set_Visions_of_the_Lifted_Veil"	"A Felemelt Fátyol Látomásai"
+"DOTA_Item_The_International_2018_Open_Qualifiers"	"The International 2018 - Nyílt selejtezők"
+"DOTA_Item_Astral_Drift"	"Asztrális Sodródás"
+"DOTA_Item_Edge_of_the_Lost_Order"	"Az Elveszett Rend Pengéje"
+"DOTA_Item_Pyrexaec_Flux"	"Tűzálló Áradat"
+"DOTA_Item_Battle_Level_Bundle_2018"	"Csataszint Csomag 2018"
+"DOTA_Item_Desc_Battle_Level_Bundle_2018"	"100 Csatabelépő-szintet tartalmaz, valamint hét-hét Halhatatlan Kincs I-et és II-t."
+"DOTA_Item_The_International_2018__100_Battle_Pass_Levels"	"The International 2018 - 100 Csatabelépő-szint"
 }
 }
