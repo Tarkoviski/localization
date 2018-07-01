@@ -2939,11 +2939,7 @@
 "[english]glados.testchambermisc15"	"<clr:163,193,173>GLaDOS: Anything? Take your time."
 "glados.testchambermisc16"	"<clr:163,193,173>ГЛаДОС: Добре, хубаво. Ще те попитам отново след няколко десетилетия."
 "[english]glados.testchambermisc16"	"<clr:163,193,173>GLaDOS: Okay, fine. I'll ask you again in a few decades."
-"glados.testchambermisc19"	"<clr:163,193,173>ГЛаДОС: 
-Много добре. 
-Всъщност се справи толкова добре, че ще оставя бележка в досието ти към секцията за препоръки. 
-О, тук има купища място. 
-„Справи се… достатъчно… добре.“"
+"glados.testchambermisc19"	"<clr:163,193,173>ГЛаДОС: Много добре. Всъщност се справи толкова добре, че ще оставя бележка в досието ти към секцията за похвали. О, тук има купища място. „Справи се… достатъчно… добре.“"
 "[english]glados.testchambermisc19"	"<clr:163,193,173>GLaDOS: Well done. In fact, you did so well, I'm going to note this on your file, in the commendations section. Oh, there's lots of room here. 'Did.... well.  ...  Enough.'"
 "glados.testchambermisc21"	"<clr:163,193,173>ГЛаДОС: С цел да поддържаме постоянен тестов цикъл, симулиран дневна светлина по всяко време и добавям адреналинови изпарения към кислородния ти приток. Ето защо вероятно си объркана относно изминалото време. Мисълта ми е, че вчера беше рожденият ти ден. Помислих, че ще искаш да знаеш."
 "[english]glados.testchambermisc21"	"<clr:163,193,173>GLaDOS: To maintain a constant testing cycle, I simulate daylight at all hours and add adrenal vapor to your oxygen supply. So you may be confused about the passage of time. The point is, yesterday was your birthday. I thought you'd want to know."
@@ -4967,7 +4963,7 @@
 "[english]turret.sp_sabotage_factory_defect_postrange24"	"<clr:197,208,230><low>Defective Turret: Standing down."
 "turret.sp_sabotage_factory_defect_postrange25"	"<clr:197,208,230><low>Дефектна сензорна картечница: Създавам неприятности."
 "[english]turret.sp_sabotage_factory_defect_postrange25"	"<clr:197,208,230><low>Defective Turret: I'm trouble."
-"turret.sp_sabotage_factory_defect_prerange01"	"<clr:197,208,230><low>Дефектна сензорна картечница: Наблюдавайте и се учете, всички. Наблюдавайте и се учете."
+"turret.sp_sabotage_factory_defect_prerange01"	"<clr:197,208,230><low>Дефектна сензорна картечница: Гледайте и се учете, всички. Гледайте и се учете."
 "[english]turret.sp_sabotage_factory_defect_prerange01"	"<clr:197,208,230><low>Defective Turret: Watch and learn, everybody. Watch and learn."
 "turret.sp_sabotage_factory_defect_prerange02"	"<clr:197,208,230><low>Дефектна сензорна картечница: Добре, скивайте ТОВА."
 "[english]turret.sp_sabotage_factory_defect_prerange02"	"<clr:197,208,230><low>Defective Turret: Alright, check THIS out."
@@ -4975,7 +4971,7 @@
 "[english]turret.sp_sabotage_factory_defect_prerange03"	"<clr:197,208,230><low>Defective Turret: Alright, stand back, everybody."
 "turret.sp_sabotage_factory_defect_prerange04"	"<clr:197,208,230><low>Дефектна сензорна картечница: Време е да наблюдавате майстора."
 "[english]turret.sp_sabotage_factory_defect_prerange04"	"<clr:197,208,230><low>Defective Turret: Time to watch the master."
-"turret.sp_sabotage_factory_defect_prerange05"	"<clr:197,208,230><low>Дефектна сензорна картечница: Наблюдавайте и се учете, всички. Наблюдавайте и се учете."
+"turret.sp_sabotage_factory_defect_prerange05"	"<clr:197,208,230><low>Дефектна сензорна картечница: Гледайте и се учете, всички. Гледайте и се учете."
 "[english]turret.sp_sabotage_factory_defect_prerange05"	"<clr:197,208,230><low>Defective Turret: Watch and learn, everyone. Watch and learn."
 "turret.sp_sabotage_factory_defect_prerange06"	"<clr:197,208,230><low>Дефектна сензорна картечница: И така, какво, ъъ, се очаква да правя тук?"
 "[english]turret.sp_sabotage_factory_defect_prerange06"	"<clr:197,208,230><low>Defective Turret: So what am I, uh, supposed to do here?"

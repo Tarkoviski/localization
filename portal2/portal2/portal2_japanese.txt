@@ -1149,7 +1149,7 @@
 "[english]ItemHistory_Action_CollectItem_CollectedItem"	"Added to a collection"
 "ItemHistory_Action_EconSetUnowned"	"トレード済み"
 "[english]ItemHistory_Action_EconSetUnowned"	"Traded"
-"ItemHistory_Action_Market_Remove"	"Steam コミュニティマーケットに掲載しました"
+"ItemHistory_Action_Market_Remove"	"Steam コミュニティマーケットに出品しました"
 "[english]ItemHistory_Action_Market_Remove"	"Listed on the Steam Community Market"
 }
 }

@@ -911,7 +911,7 @@
 "[english]P2_WearableType_Skin"	"Body"
 "P2_WearableType_Gesture"	"Gesto"
 "[english]P2_WearableType_Gesture"	"Gesture"
-"P2_WearableType_Misc"	"Objetos Varios"
+"P2_WearableType_Misc"	"objeto misceláneo"
 "[english]P2_WearableType_Misc"	"Miscellaneous Item"
 "P2_WearableType_Flag"	"Bandera"
 "[english]P2_WearableType_Flag"	"Flag"
