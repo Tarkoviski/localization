@@ -9778,7 +9778,7 @@ ________________________________________
 "Store_TryItem"	"試してみる！"
 "[english]Store_TryItem"	"Test It Out!"
 "ItemPreview_Confirm"	"このアイテムを試しに装着してみたいですか？\nこのアイテムを購入することなく、1週間だけ使用することができます。\n1週間後にアイテムの使用期限がきれます。この期間中に\nこのアイテムを購入すると何と25% ＯＦＦです！"
-"[english]ItemPreview_Confirm"	"Are you sure you want to take this item on a test run?\nYou will be able to use the item for one week.\nAfter that time, the item will expire. At any time\nduring the test period you can buy the item for a 25% discount!"
+"[english]ItemPreview_Confirm"	"Are you sure you want to take this item on a test run?\nYou will be able to use the item for one week.\nAfter that time, the item will expire. At any time\nduring the test period you can buy the item for a 25% discount\nif it's not already on sale!"
 "ItemPreview_PreviewStartedTitle"	"成功！"
 "[english]ItemPreview_PreviewStartedTitle"	"Success!"
 "ItemPreviewDialogTitle"	"%s1"
