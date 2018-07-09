@@ -5247,6 +5247,7 @@ Han husker fjernt om faner og rustninger, og brorskap ridende ved hans side med 
 "DOTA_Import_Wolves"	"Wolves"
 "DOTA_Import_Wolves_Desc"	"Lycans ulver krever en enkelt modell, som brukes til alle 4 evnenivå. Modellen skaleres opp for høyere nivå."
 "dota_vs"	"VS"
+"Econ_Store_PurchaseType_PreviewItemUpgrade"	"%s1 (oppgradering av prøveversjon)"
 "Econ_Store_PurchaseType_Standard"	"%s1"
 "UI_days"	"dager"
 "UI_hours"	"timer"

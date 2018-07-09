@@ -29,7 +29,7 @@
 "[english]#DOTA_RP_LOBBY_CUSTOM"	"%param0% Lobby"
 "#DOTA_RP_LOBBY_CUSTOM_UNNAMED"	"Sala de modo alternativo"
 "[english]#DOTA_RP_LOBBY_CUSTOM_UNNAMED"	"Custom Game Lobby"
-"#DOTA_RP_PLAYING_AS"	"{%param0%}: Nv. %param1%{%param2%}"
+"#DOTA_RP_PLAYING_AS"	"{%param0%}: {%param2%} (Nv. %param1%)"
 "[english]#DOTA_RP_PLAYING_AS"	"{%param0%}: Lvl %param1% {%param2%}"
 "#DOTA_RP_POST_GAME"	"{%param0%}: Pós-partida"
 "[english]#DOTA_RP_POST_GAME"	"{%param0%}: Post Game"

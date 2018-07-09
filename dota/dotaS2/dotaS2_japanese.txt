@@ -3493,6 +3493,7 @@
 "DOTA_SplashAd_TI6_Immortals_2_Available"	"登場"
 "DOTA_SplashAd_TI6_Immortals_2_Escalating"	"このトレジャーは確率アップを採用"
 "Action_GoToPlayerCards"	"プレイヤーカードを開く"
+"FileOpenDialog_ColHead_Size"	"サイズ"
 "FileOpenDialog_ColHead_Type"	"タイプ"
 "DOTA_PlayerCardsOpenPack"	"プレイヤーカードパックを開封"
 "DOTA_FantasyHelpTitle1"	"プレイヤーカードパックを開封"

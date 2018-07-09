@@ -83,7 +83,7 @@
 "[english]#DOTA_RP_QUEST"	"On A Training Mission"
 "#DOTA_RP_BOTPRACTICE"	"對抗電腦玩家中"
 "[english]#DOTA_RP_BOTPRACTICE"	"Playing Against Bots"
-"#DOTA_RP_COOPBOT"	"多人對電腦比賽"
+"#DOTA_RP_COOPBOT"	"合作對抗電腦"
 "[english]#DOTA_RP_COOPBOT"	"Co-op Bot match"
 "#DOTA_RP_TRAINING"	"進行訓練任務中"
 "[english]#DOTA_RP_TRAINING"	"On a Training Mission"
