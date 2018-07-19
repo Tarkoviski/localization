@@ -339,7 +339,7 @@
 "[english]#DOTA_lobby_type_name_bot_match"	"Bots"
 "#DOTA_lobby_type_name_spectator"	"Zuschauer"
 "[english]#DOTA_lobby_type_name_spectator"	"Spectator"
-"#demo_hero_mode_name"	"Held testen"
+"#demo_hero_mode_name"	"Testmodus"
 "[english]#demo_hero_mode_name"	"Demo Hero"
 "#game_mode_lobby_name_0"	"–"
 "[english]#game_mode_lobby_name_0"	"-"
@@ -371,7 +371,7 @@
 "[english]#game_mode_lobby_name_13"	"Limited Heroes"
 "#game_mode_lobby_name_14"	"Kompendium"
 "[english]#game_mode_lobby_name_14"	"Compendium"
-"#game_mode_lobby_name_15"	"Benutzerdefiniert"
+"#game_mode_lobby_name_15"	"Angepasst"
 "[english]#game_mode_lobby_name_15"	"Custom"
 "#game_mode_lobby_name_16"	"Captains Draft"
 "[english]#game_mode_lobby_name_16"	"Captains Draft"
@@ -387,5 +387,9 @@
 "[english]#game_mode_lobby_name_22"	"Ranked All Pick"
 "#game_mode_lobby_name_23"	"Turbo"
 "[english]#game_mode_lobby_name_23"	"Turbo"
+"#DOTA_RP_PLAYING_EVENT_MATCH"	"Spielt {%param0%}"
+"[english]#DOTA_RP_PLAYING_EVENT_MATCH"	"Playing {%param0%}"
+"#DOTA_EventGameName_International2018"	"Die Teufelsgrotte"
+"[english]#DOTA_EventGameName_International2018"	"The Underhollow"
 }
 }

@@ -1,0 +1,13 @@
+"dota"
+{
+"DOTA_HeroStatColumn_Header_Games"	"Partidas"
+"DOTA_HeroStat_Games"	"Partidas"
+"dota_profile_teammate_stats_header_games"	"Partidas"
+"DOTA_TournamentGroup_GamesPlayed"	"Partidas"
+"Cancel"	"Cancelar"
+"DOTA_Treasure_HelpHeaderGrantsAll"	"Cada tesoro contiene todos estos objetos"
+"DOTA_Treasure_HelpGrantAll"	"Recibirás todos estos objetos al abrir este tesoro."
+"DOTA_EventName_International2013"	"The International 2013"
+"DOTA_TI2018_Splash_RetroImmortals"	"Promesa del Renacimiento Eminente"
+"DOTA_TI2018_Splash_RetroImmortals_Level"	"Recompensa de nivel 615"
+}

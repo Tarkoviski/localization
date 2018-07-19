@@ -42,7 +42,7 @@
 "DOTA_WearableType_Helm"	"heaume"
 "DOTA_WearableType_Pegleg"	"Prothèse improvisée"
 "DOTA_WearableType_Sword"	"Épée"
-"DOTA_WearableType_Hat"	"tête"
+"DOTA_WearableType_Hat"	"Chapeau"
 "DOTA_WearableType_Ability_Modifier"	"Outil"
 "DOTA_WearableType_Toga"	"Toge"
 "DOTA_WearableType_Hand"	"Main"
@@ -24402,5 +24402,22 @@ Les items immortels ne peuvent pas être échangés ni vendus sur le marché de 
 "DOTA_Item_Battle_Level_Bundle_2018"	"Bundle de niveaux de bataille 2018"
 "DOTA_Item_Desc_Battle_Level_Bundle_2018"	"Comprend 100 niveaux de passe de bataille ainsi que sept trésors immortels I et II."
 "DOTA_Item_The_International_2018__100_Battle_Pass_Levels"	"The International 2018 - 100 niveaux de passe de bataille"
+"DOTA_Item_Desc_Dota_Plus_Victory_Shout"	"Utilisez ce cri avant que le match ne commence afin de provoquer l'équipe adverse et de prédire votre victoire. Si vous gagnez le match, votre gemme de prédiction de victoire gagnera un point et vous remporterez jusqu'à 50 fragments Dota Plus selon votre série de pronostics corrects. Si vous le perdez, elle perdra tous ses points."
+"DOTA_Item_Dota_Plus_Victory_Shout"	"Cri de victoire Dota Plus"
+"DOTA_Item_Seasonal_Terrain__Summer"	"Terrain saisonnier - Été"
+"DOTA_Item_Cauldron_of_Xahryx_of_Eminent_Revival"	"Chaudron de Xahryx du retour"
+"DOTA_Item_Desc_Cauldron_of_Xahryx_of_Eminent_Revival"	"Récupéré par Sylla après avoir vaincu le Xahryx cornu avant The International 2013, ce chaudron maléfique a reçu une nouvelle animation pour Entangling Claws, et fut le dernier indicateur du chemin qu'allaient suivre tous les futurs Immortels."
+"DOTA_Item_Desc_Fin_Kings_Charm_of_Eminent_Revival"	"Ramenée sur le champ de bataille par le Demon Witch pour la première fois lors de The International 2014, cette arme atypique a introduit le premier effet Hex personnalisé, ce qui changea la métamorphose des victimes de Lion de grenouille sauteuse à poisson agonisant."
+"DOTA_Item_Desc_Leviathan_Whale_Blade_of_Eminent_Revival"	"Accordée à l'amiral de la marine Claddish pour commémorer The International 2013, cette lame légendaire possède une nouvelle animation majestueuse pour la capacité Torrent de Kunkka. Ce changement de style ouvrit la voie à tous les Immortels à venir."
+"DOTA_Item_Desc_Promise_of_Eminent_Revival"	"Les cinq items du bundle seront immédiatement accordés dès son ouverture. Ce bundle contient de nouvelles versions d’items de précédents trésors immortels qui commémorent l’histoire de The International.
+
+Chacun de ces items est disponible dans deux styles : le style par défaut remet à l’honneur ces marqueurs immortels dans l’ambiance de l’événement de cette année, et le deuxième style, déblocable en jouant, adapte chaque item dans le ton des récompenses récentes des trésors immortels."
+"DOTA_Item_Desc_The_Lightning_Orchid_of_Eminent_Revival"	"D'abord porté par Raijin Thunderkeg pour The International 2014, ce chapeau inspiré des orchidées a été l'un des premiers à changer l'animation d'une capacité ultime et à ajouter des effets de statuts aux objets, dans ce cas, Orchid Malevolence."
+"DOTA_Item_Desc_Tormented_Staff_of_Eminent_Revival"	"Le bâton tourmenté fut la première arme que Tormented Soul prit dans ses mains, elle a non seulement changé l'animation de la capacité Split Earth de Leshrac, mais a également introduit de nouvelles animations pour l'attaque, la réapparition, la téléportation et la mort."
+"DOTA_Item_Fin_Kings_Charm_of_Eminent_Revival"	"Charme de la nageoire royale du retour"
+"DOTA_Item_Leviathan_Whale_Blade_of_Eminent_Revival"	"Épée de la baleine léviathan du retour"
+"DOTA_Item_Promise_of_Eminent_Revival"	"Promesse de retour"
+"DOTA_Item_The_Lightning_Orchid_of_Eminent_Revival"	"Orchidée foudroyante du retour"
+"DOTA_Item_Tormented_Staff_of_Eminent_Revival"	"Bâton tourmenté du retour"
 }
 }

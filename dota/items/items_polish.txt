@@ -42,7 +42,7 @@
 "DOTA_WearableType_Helm"	"hełm"
 "DOTA_WearableType_Pegleg"	"Prowizoryczna proteza"
 "DOTA_WearableType_Sword"	"Miecz"
-"DOTA_WearableType_Hat"	"głowa"
+"DOTA_WearableType_Hat"	"Nakrycie głowy"
 "DOTA_WearableType_Ability_Modifier"	"Narzędzie"
 "DOTA_WearableType_Toga"	"Toga"
 "DOTA_WearableType_Hand"	"Ręka"
@@ -23359,7 +23359,7 @@ Początek turnieju: 14-16 lipca 2017"
 
 <br><br>Posiadacze Przepustki na poziomie 2000 będą mogli pochwalić się swoim osiągnięciem dzięki niestandardowej wersji Roshana, która będzie zastępować jego domyślną formę w grach z ich udziałem.
 
-<br><br>Gracze, którzy osiągną 2000 poziom przed zakończeniem meczu finałowego The International 2017 otrzymają także kolekcjonerską figurkę małego Roshana poziomu 2000.
+<br><br>Gracze, którzy osiągną 2000 poziom przed zakończeniem meczu finałowego The International 2017 otrzymają także kolekcjonerską figurkę Małego Roshana poziomu 2000.
 
 <br><br>Niestandardowy efekt Roshana wygaśnie w dniu 1 maja 2018."
 "DOTA_Item_The_International_2017__Battle_Level_2000"	"The International 2017 - 2000 Poziom Bitewny"
@@ -24199,7 +24199,7 @@ Wiekopomnych przedmiotów nie można wymieniać ani sprzedawać przed The Intern
 
 <br><br>Posiadacze Przepustki na poziomie 2000 będą mogli pochwalić się swoim osiągnięciem dzięki niestandardowej wersji Roshana, która będzie zastępować jego domyślną formę w grach z ich udziałem.
 
-<br><br>Gracze, którzy osiągną 2000 poziom przed zakończeniem meczu finałowego The International 2018 otrzymają także kolekcjonerską figurkę małego Roshana poziomu 2000.
+<br><br>Gracze, którzy osiągną 2000 poziom przed zakończeniem meczu finałowego The International 2018 otrzymają także kolekcjonerską figurkę Małego Roshana poziomu 2000.
 
 <br><br>Niestandardowy efekt Roshana wygaśnie w dniu 1 maja 2019."
 "DOTA_Item_Desc_The_International_2087__24_Battle_Pass_Levels"	"Ulepsz swoją Przepustkę Bitewną The International 2018"
@@ -24492,5 +24492,13 @@ Wiekopomnych przedmiotów nie można wymieniać ani sprzedawać przed The Intern
 "DOTA_Item_Battle_Level_Bundle_2018"	"Pakiet Poziomów Bitewnych 2018"
 "DOTA_Item_Desc_Battle_Level_Bundle_2018"	"Zawiera 100 Poziomów Przepustki Bitewnej, a także po siedem Wiekopomnych Skarbów I i II."
 "DOTA_Item_The_International_2018__100_Battle_Pass_Levels"	"The International 2018 - 100 Poziomów Przepustki Bitewnej"
+"DOTA_Item_Dota_Plus_Victory_Shout"	"Dota Plus - okrzyk zwycięstwa"
+"DOTA_Item_Seasonal_Terrain__Summer"	"Sezonowy teren - lato"
+"DOTA_Item_Cauldron_of_Xahryx_of_Eminent_Revival"	"Kocioł Xahryxa Rychłego Odrodzenia"
+"DOTA_Item_Fin_Kings_Charm_of_Eminent_Revival"	"Talizman Płetwiastego Króla Rychłego Odrodzenia"
+"DOTA_Item_Leviathan_Whale_Blade_of_Eminent_Revival"	"Ostrze Wieloryba-Lewiatana Rychłego Odrodzenia"
+"DOTA_Item_Promise_of_Eminent_Revival"	"Obietnica Rychłego Odrodzenia"
+"DOTA_Item_The_Lightning_Orchid_of_Eminent_Revival"	"Orchidea Gromu Rychłego Odrodzenia"
+"DOTA_Item_Tormented_Staff_of_Eminent_Revival"	"Udręczone Berło Rychłego Odrodzenia"
 }
 }

@@ -57,7 +57,7 @@
 "[english]#DOTA_RP_FINDING_YEAR_BEAST_BRAWL"	"Finding Year Beast Brawl"
 "#DOTA_RP_FINDING_EVENT_MATCH"	"Finner en kamp ({%param0%})"
 "[english]#DOTA_RP_FINDING_EVENT_MATCH"	"Finding {%param0%} Match"
-"#DOTA_RP_UNKNOWN_EVENT_GAME"	"Tilpasset hendelse"
+"#DOTA_RP_UNKNOWN_EVENT_GAME"	"Tilpasset arrangement"
 "[english]#DOTA_RP_UNKNOWN_EVENT_GAME"	"Custom Event"
 "#DOTA_RP_SPECTATING_WHILE_FINDING"	"Finner en kamp og ser på"
 "[english]#DOTA_RP_SPECTATING_WHILE_FINDING"	"Finding A Match & Spectacting"
@@ -391,5 +391,9 @@
 "[english]#game_mode_lobby_name_24"	"Mutation"
 "#game_mode_24"	"Mutasjon"
 "[english]#game_mode_24"	"Mutation"
+"#DOTA_RP_PLAYING_EVENT_MATCH"	"Spiller {%param0%}"
+"[english]#DOTA_RP_PLAYING_EVENT_MATCH"	"Playing {%param0%}"
+"#DOTA_EventGameName_International2018"	"Underhollow"
+"[english]#DOTA_EventGameName_International2018"	"The Underhollow"
 }
 }

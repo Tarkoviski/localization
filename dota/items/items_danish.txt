@@ -42,7 +42,7 @@
 "DOTA_WearableType_Helm"	"hjelm"
 "DOTA_WearableType_Pegleg"	"Improviseret protese"
 "DOTA_WearableType_Sword"	"Sværd"
-"DOTA_WearableType_Hat"	"hoved"
+"DOTA_WearableType_Hat"	"Hat"
 "DOTA_WearableType_Ability_Modifier"	"Værktøj"
 "DOTA_WearableType_Toga"	"Toga"
 "DOTA_WearableType_Hand"	"Hånd"
@@ -9696,6 +9696,7 @@ At have en holdfane i dit arsenal vil forøge det holds fanescore, der vises i V
 "DOTA_Item_Dark_Geode_Vambraces"	"Dark Geode Vambraces"
 "DOTA_Item_Default_Bomb_Arsenal"	"Standard-bombearsenal"
 "DOTA_Item_Desc_Announcer_Techies"	"Denne genstand erstatter standardkommentatoren med eksplosive kommentarer fra Squee og Spleen fra Techies Demolitions! Tilgængelig på engelsk og koreansk."
+"DOTA_Item_Desc_Assured_Victory_Shout"	"Brug dette råb før runden begynder til at håne det andet hold og forudsige jeres sejr. Hvis I vinder kampen, føjes der et point til din ædelsten over sejrsforudsigelser. Hvis I taber, mister din ædelsten alle sine point."
 "DOTA_Item_Desc_Axes_Access"	"Indeholder alle genstandene i \"Axe's Access\"-sættet til Axe samt en indlæsningsskærm:"
 "DOTA_Item_Desc_Black_Wyrm_Bow_Hunter"	"Indeholder alle genstandene i \"Black Wyrm Bow Hunter\"-sættet til Drow samt en indlæsningsskærm:"
 "DOTA_Item_Desc_Cavalier_of_Anarchy"	"Dette bundt indeholder alle genstandene i \"Cavalier of Anarchy\"-sættet til Chaos Knight samt en indlæsningsskærm:"
@@ -18697,5 +18698,20 @@ Hvilket hold vinder den første Minor afholdt i Kina? Se med og find ud af det s
 "DOTA_Item_Battle_Level_Bundle_2018"	"Battle-levelbundt 2018"
 "DOTA_Item_Desc_Battle_Level_Bundle_2018"	"Indeholder 100 Battle Pass-levels samt syv Udødelig Skat I og II."
 "DOTA_Item_The_International_2018__100_Battle_Pass_Levels"	"The International 2018 - 100 Battle Pass-levels"
+"DOTA_Item_Desc_Dota_Plus_Victory_Shout"	"Brug dette råb, før runden begynder til at håne det andet hold og forudsige jeres sejr. Hvis I vinder kampen, føjes der et point til din ædelsten over sejrsforudsigelser, og du vinder op til 50 Dota Plus-skår afhængigt af din række af korrekte forudsigelser. Hvis I taber, mister din ædelsten alle sine point."
+"DOTA_Item_Cauldron_of_Xahryx_of_Eminent_Revival"	"Cauldron of Xahryx of Eminent Revival"
+"DOTA_Item_Desc_Cauldron_of_Xahryx_of_Eminent_Revival"	"Denne afskyelige kedel, som blev gjort krav på af Sylla fra den hornede Xahryx før The International 2013, gav en ny animation til Entangling Claws-evnen og var det afgørende tegn på, hvilken retning alle fremtidige Udødelige genstande skulle følge."
+"DOTA_Item_Desc_Fin_Kings_Charm_of_Eminent_Revival"	"Dette mærkværdige våben, som først blev bragt ind i kampen af Dæmonheksen i løbet af The International 2014, introducerede den første tilpassede Hex-effekt, hvilket ændrede Lions ofre fra hoppende frøer til sprællende fisk."
+"DOTA_Item_Desc_Leviathan_Whale_Blade_of_Eminent_Revival"	"Denne legendariske klinge, som blev udstedt til Claddish-flådens admiral for at fejre The International 2013, indeholdt en dramatisk ny animation til Kunkkas Torrent-evne - en stilændring der blev taget udgangspunkt i til alle fremtidige Udødelige genstande."
+"DOTA_Item_Desc_Promise_of_Eminent_Revival"	"Denne bundt, som øjeblikkeligt giver alle fem genstande, indeholder nye udseender til udvalgte genstande fra tidligere Udødelige Skatte, som fejrer The Internationals historie.
+
+Hver genstand indeholder en standardstil, der ændrer dens udseende, så den passer med dette års begivenhed, og en sekundær stil, der låses op af at spille, som transformerer hver genstand om til en stil lignende de seneste belønninger i de Udødelige Skatte."
+"DOTA_Item_Desc_The_Lightning_Orchid_of_Eminent_Revival"	"Denne orkidé-inspirerede hjelm, som Raijin Thunderkeg iførte sig for første gang til The International 2014, tilføjede én af de første opdateringer til en Ultimate-evnes animation og udvidede de Udødelige genstande til også at indeholde effekter til genstande, som i dette tilfælde var til Orchid Malevolence."
+"DOTA_Item_Desc_Tormented_Staff_of_Eminent_Revival"	"Tormented Staff, som var det første våben Den Forpinte Sjæl nogensinde holdt om med sine tidligere tomme hænder. Udover at ændre Leshracs animation til hans Split Earth-evne, introducerede den også helt nye animationer til angreb, genoplivning, teleportering og dødsfald."
+"DOTA_Item_Fin_Kings_Charm_of_Eminent_Revival"	"Fin King's Charm of Eminent Revival"
+"DOTA_Item_Leviathan_Whale_Blade_of_Eminent_Revival"	"Leviathan Whale Blade of Eminent Revival"
+"DOTA_Item_Promise_of_Eminent_Revival"	"Promise of Eminent Revival"
+"DOTA_Item_The_Lightning_Orchid_of_Eminent_Revival"	"The Lightning Orchid of Eminent Revival"
+"DOTA_Item_Tormented_Staff_of_Eminent_Revival"	"Tormented Staff of Eminent Revival"
 }
 }

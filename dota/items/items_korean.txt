@@ -42,7 +42,7 @@
 "DOTA_WearableType_Helm"	"투구"
 "DOTA_WearableType_Pegleg"	"인공 신체"
 "DOTA_WearableType_Sword"	"검"
-"DOTA_WearableType_Hat"	"머리"
+"DOTA_WearableType_Hat"	"모자"
 "DOTA_WearableType_Ability_Modifier"	"도구"
 "DOTA_WearableType_Toga"	"예복"
 "DOTA_WearableType_Hand"	"손"
@@ -24345,5 +24345,22 @@ CD 4.0에서는 다시 한번 최고의 실력과 정신을 갖춘 도타 선수
 "DOTA_Item_Battle_Level_Bundle_2018"	"2018 전투 레벨 번들"
 "DOTA_Item_Desc_Battle_Level_Bundle_2018"	"전투 패스 100레벨과 불멸 보물 I과 불멸 보물 II가 각각 7개씩 들어 있습니다."
 "DOTA_Item_The_International_2018__100_Battle_Pass_Levels"	"The International 2018 - 전투 패스 100레벨"
+"DOTA_Item_Desc_Dota_Plus_Victory_Shout"	"게임이 시작되기 전에 이 도발 아이템을 사용하여 다른 팀을 도발하고 승리를 예감해 보세요. 매치에서 이기면 승리 예측 보석에 1점이 추가되며 연속 예측에 따라 최대 도타 플러스 파편 50개를 획득할 수 있습니다. 패배하면 승리 예측 보석의 점수가 모두 사라집니다."
+"DOTA_Item_Dota_Plus_Victory_Shout"	"도타 플러스 승리의 함성"
+"DOTA_Item_Seasonal_Terrain__Summer"	"계절 지형 - 여름"
+"DOTA_Item_Cauldron_of_Xahryx_of_Eminent_Revival"	"탁월한 소생이 깃든 자흐릭스의 가마솥"
+"DOTA_Item_Desc_Cauldron_of_Xahryx_of_Eminent_Revival"	"The International 2013 이전에 실라가 뿔 달린 자흐릭스로부터 가로챈 악의의 가마솥입니다. 앞으로의 모든 불멸자들이 따라야 할 길을 알려주는 마지막 지표가 되었으며, 장착 시 휘감는 발톱에 새로운 애니메이션이 적용됩니다."
+"DOTA_Item_Desc_Fin_Kings_Charm_of_Eminent_Revival"	"악마 마술사가 The International 2014 기간에 처음으로 전장에 도입했고 아주 기이한 무기입니다. 처음으로 선보인 맞춤 주술 효과로 라이온에게 희생되는 대상이 팔딱이는 개구리가 아니라 파닥거리는 물고기로 변형됩니다."
+"DOTA_Item_Desc_Leviathan_Whale_Blade_of_Eminent_Revival"	"The International 2013을 기념하여 클라드 해군 제독에게 증정된 전설의 검입니다. 컨카의 급류 능력에 놀라우면서도 색다른 애니메이션을 부여합니다. 놀랍도록 색다른 스타일로 모든 불멸자를 가야 할 길로 이끕니다."
+"DOTA_Item_Desc_Promise_of_Eminent_Revival"	"개봉 시 곧바로 안에 담긴 아이템 다섯 가지 모두를 획득합니다. The International의 역사를 기념하는 기존 불멸 보물 중 몇 가지를 선정하여 새로운 분위기로 재해석한 아이템입니다.
+
+모든 아이템에는 올해 대회 불멸 보물의 특징에 따라 디자인된 기본 스타일과 플레이하면서 해제되며 최근 불멸 보물함의 내용물과 더욱 유사한 분위기로 바꾸어 주는 두 번째 스타일이 제공됩니다."
+"DOTA_Item_Desc_The_Lightning_Orchid_of_Eminent_Revival"	"The International 2014에 라이진 선더케그가 처음으로 썼던 꽃가지 투구입니다. 처음으로 궁극기 애니메이션을 다르게 선보였으며 불멸 보물 디자인에 아이템 상태 효과까지 포함되었습니다. 이 꽃가지 투구 효과가 적용되는 아이템은 증오의 꽃가지입니다."
+"DOTA_Item_Desc_Tormented_Staff_of_Eminent_Revival"	"맨손이었던 고통받는 영혼이 처음으로 휘두른 무기입니다. 고통받는 지팡이로 레슈락의 대지 부수기 능력 애니메이션이 변경될 뿐만 아니라 공격, 생성, 순간이동 완료, 사망 애니메이션이 완전히 새롭게 변합니다."
+"DOTA_Item_Fin_Kings_Charm_of_Eminent_Revival"	"탁월한 소생이 깃든 지느러미 왕의 부적"
+"DOTA_Item_Leviathan_Whale_Blade_of_Eminent_Revival"	"탁월한 소생이 깃든 레비아탄의 고래무늬 검"
+"DOTA_Item_Promise_of_Eminent_Revival"	"탁월한 소생의 약속"
+"DOTA_Item_The_Lightning_Orchid_of_Eminent_Revival"	"탁월한 소생이 깃든 번갯불 꽃가지"
+"DOTA_Item_Tormented_Staff_of_Eminent_Revival"	"탁월한 소생의 고통받는 지팡이"
 }
 }
