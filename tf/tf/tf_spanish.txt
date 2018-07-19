@@ -7638,7 +7638,7 @@
 "[english]Replay_SearchText"	"Search"
 "Replay_RenderAdvancedOptions"	"Mostrar opciones avanzadas"
 "[english]Replay_RenderAdvancedOptions"	"Show Advanced Options"
-"Replay_RenderSetting"	"Calidad video:"
+"Replay_RenderSetting"	"Calidad vídeo:"
 "[english]Replay_RenderSetting"	"Movie Quality:"
 "Replay_RenderSetting_Low"	"Borrador"
 "[english]Replay_RenderSetting_Low"	"Draft"
