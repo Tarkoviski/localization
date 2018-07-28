@@ -391,5 +391,9 @@
 "[english]#game_mode_lobby_name_24"	"Mutation"
 "#game_mode_24"	"Mutation"
 "[english]#game_mode_24"	"Mutation"
+"#DOTA_RP_PLAYING_EVENT_MATCH"	"กำลังเล่น {%param0%}"
+"[english]#DOTA_RP_PLAYING_EVENT_MATCH"	"Playing {%param0%}"
+"#DOTA_EventGameName_International2018"	"Underhollow"
+"[english]#DOTA_EventGameName_International2018"	"The Underhollow"
 }
 }

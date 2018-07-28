@@ -391,5 +391,7 @@
 "[english]#game_mode_lobby_name_24"	"Mutation"
 "#game_mode_24"	"Mutation"
 "[english]#game_mode_24"	"Mutation"
+"#DOTA_RP_PLAYING_EVENT_MATCH"	"Spiller {%param0%}"
+"[english]#DOTA_RP_PLAYING_EVENT_MATCH"	"Playing {%param0%}"
 }
 }
