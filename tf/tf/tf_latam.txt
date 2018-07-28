@@ -28821,7 +28821,7 @@ Shoot the alien explosive drones to take out enemies or Engineer buildings."
 "TF_TournamentMedal_Blapature2018_Tier3"	"Benefactor de Blapature Co."
 "[english]TF_TournamentMedal_Blapature2018_Tier3"	"Blapature Co. Benefactor"
 "TF_TournamentMedal_Blapature2018_Tier3_Desc"	"Distínguete de los millennials proclamando con orgullo que comes tostadas de aguacate. ¡Gracias por apoyar la Blapature Co. Summer Jam 2018!"
-"[english]TF_TournamentMedal_Blapature2018_Tier3_Desc"	"Distinguish yourself from Millennials by proudly proclaiming you eat avocado toast. Thank you for supporting the Blapature Co. Summer Jam 2018!"
+"[english]TF_TournamentMedal_Blapature2018_Tier3_Desc"	"Distinguish yourself from Millennials by proudly proclaiming you eat avocado toast. Thank you for supporting the Blapature Co. Charity Bash 2018!"
 "ItemHistory_Action_DeletedAccountTerminated"	"Eliminado por cierre de la cuenta"
 "[english]ItemHistory_Action_DeletedAccountTerminated"	"Deleted by Account Termination"
 }

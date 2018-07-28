@@ -30,8 +30,8 @@
 "#TF_RichPresence_MatchGroup_SpecialEvent"	"Særlig begivenhed"
 "[english]#TF_RichPresence_MatchGroup_SpecialEvent"	"Special Event"
 "#TF_RichPresence_MatchGroup_MannUp"	"MvM Mann Up"
-"[english]#TF_RichPresence_MatchGroup_MannUp"	"MvM Mann Up"
+"[english]#TF_RichPresence_MatchGroup_MannUp"	"Mann Up"
 "#TF_RichPresence_MatchGroup_BootCamp"	"MvM-træning"
-"[english]#TF_RichPresence_MatchGroup_BootCamp"	"MvM Boot Camp"
+"[english]#TF_RichPresence_MatchGroup_BootCamp"	"Boot Camp"
 }
 }

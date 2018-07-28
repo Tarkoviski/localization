@@ -7611,7 +7611,7 @@
 "[english]Replay_YouTubeView"	"View on YouTube"
 "Replay_YouTubeShareURL"	"Αντιγραφή URL"
 "[english]Replay_YouTubeShareURL"	"Copy URL"
-"Replay_CopyURL_Title"	"URL αντιγράφτηκε!"
+"Replay_CopyURL_Title"	"Το URL αντιγράφηκε!"
 "[english]Replay_CopyURL_Title"	"Copied URL!"
 "Replay_CopyURL_Text"	"Το YouTube™ URL αυτής της ταινίας έχει αντιγραφεί στο πρόχειρό σας."
 "[english]Replay_CopyURL_Text"	"The movie's YouTube™ URL has been copied to your clipboard."
@@ -28464,5 +28464,9 @@ Shoot the alien explosive drones to take out enemies or Engineer buildings."
 "[english]TF_ConfirmResetAchievements_OK"	"Reset"
 "TF_TournamentMedal_Spring2018"	"Άνοιξη 2018"
 "[english]TF_TournamentMedal_Spring2018"	"Spring 2018"
+"TF_TournamentMedal_Blapature2018_Tier1_Desc"	"Το πιο σημαντικό πράγμα όταν φτιάχνεις μαρμελάδα είναι να αντικαταστήσεις τα πάντα με αβοκάντο. Σας ευχαριστούμε που υποστηρίξατε το Blapature Co. Charity Bash 2018!"
+"[english]TF_TournamentMedal_Blapature2018_Tier1_Desc"	"The most important thing when making jam is to replace literally everything with avocados. Thank you for supporting the Blapature Co. Charity Bash 2018!"
+"TF_TournamentMedal_Blapature2018_Tier2_Desc"	"Ένα αβοκάντο την ημέρα, τον γιατρό τον κάνει πέρα: απλώς πρέπει να τον χτυπήσετε ανάμεσα στα μάτια. Σας ευχαριστούμε που υποστηρίξατε το Blapature Co. Charity Bash 2018!"
+"[english]TF_TournamentMedal_Blapature2018_Tier2_Desc"	"An avocado a day keeps the doctor away: you just have to hit them between the eyes. Thank you for supporting the Blapature Co. Charity Bash 2018!"
 }
 }

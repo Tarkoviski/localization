@@ -30,8 +30,8 @@
 "#TF_RichPresence_MatchGroup_SpecialEvent"	"特殊活動"
 "[english]#TF_RichPresence_MatchGroup_SpecialEvent"	"Special Event"
 "#TF_RichPresence_MatchGroup_MannUp"	"曼恩對決機器曼起來模式"
-"[english]#TF_RichPresence_MatchGroup_MannUp"	"MvM Mann Up"
+"[english]#TF_RichPresence_MatchGroup_MannUp"	"Mann Up"
 "#TF_RichPresence_MatchGroup_BootCamp"	"曼恩對決機器訓練營"
-"[english]#TF_RichPresence_MatchGroup_BootCamp"	"MvM Boot Camp"
+"[english]#TF_RichPresence_MatchGroup_BootCamp"	"Boot Camp"
 }
 }

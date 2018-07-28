@@ -29,9 +29,9 @@
 "[english]#TF_RichPresence_MatchGroup_Casual"	"Casual"
 "#TF_RichPresence_MatchGroup_SpecialEvent"	"Особлива подія"
 "[english]#TF_RichPresence_MatchGroup_SpecialEvent"	"Special Event"
-"#TF_RichPresence_MatchGroup_MannUp"	"МпМ «Манневри»"
-"[english]#TF_RichPresence_MatchGroup_MannUp"	"MvM Mann Up"
-"#TF_RichPresence_MatchGroup_BootCamp"	"МпМ «Тренувальний табір»"
-"[english]#TF_RichPresence_MatchGroup_BootCamp"	"MvM Boot Camp"
+"#TF_RichPresence_MatchGroup_MannUp"	"«Манневри»"
+"[english]#TF_RichPresence_MatchGroup_MannUp"	"Mann Up"
+"#TF_RichPresence_MatchGroup_BootCamp"	"«Тренувальний табір»"
+"[english]#TF_RichPresence_MatchGroup_BootCamp"	"Boot Camp"
 }
 }
