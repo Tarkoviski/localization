@@ -751,7 +751,7 @@
 "[english]cheaptitles_core01.babbleb24"	"Core 1: (excited gasps)"
 "cheaptitles_sphere03.outro_apology01"	"Wheatley: Chciałbym to wszystko cofnąć. Naprawdę. Naprawdę chciałbym to wszystko cofnąć. I nie tylko dlatego, że znalazłem się w kosmosie."
 "[english]cheaptitles_sphere03.outro_apology01"	"Wheatley: I wish I could take it all back. I honestly do. I honestly do wish I could take it all back. And not just because I'm stranded in space."
-"cheaptitles_core01.space04"	"Rdzeń 1: Jestem w przestrzeni."
+"cheaptitles_core01.space04"	"Rdzeń 1: Jestem w kosmosie."
 "[english]cheaptitles_core01.space04"	"Core 1: I'm in space."
 "cheaptitles_sphere03.outro_apology02"	"Wheatley: Wiem, że jesteś, stary. Ta. Obaj jesteśmy w kosmosie."
 "[english]cheaptitles_sphere03.outro_apology02"	"Wheatley: I know you are, mate. Yup. We're both in space."

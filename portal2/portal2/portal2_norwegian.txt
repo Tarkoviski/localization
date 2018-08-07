@@ -1087,5 +1087,7 @@
 "[english]ItemHistory_Action_UnpackItemBundle"	"Unpacked"
 "ItemHistory_Action_GiftDelivery_Remove"	"Gave sendt"
 "[english]ItemHistory_Action_GiftDelivery_Remove"	"Gift sent"
+"ItemHistory_Action_Market_Remove"	"Annonsert på Steam-samfunnsmarkedet"
+"[english]ItemHistory_Action_Market_Remove"	"Listed on the Steam Community Market"
 }
 }

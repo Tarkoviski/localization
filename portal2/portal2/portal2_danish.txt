@@ -745,7 +745,7 @@
 "[english]cheaptitles_core01.space02"	"Core 1: Space? SPACE!"
 "cheaptitles_core01.space21"	"Core 1: RUUUUUUMMET!"
 "[english]cheaptitles_core01.space21"	"Core 1: SPAAACCCCCE!"
-"cheaptitles_core01.babbleb18"	"Kerne 1: Så meget rum. Nødt til at se det hele."
+"cheaptitles_core01.babbleb18"	"Core 1: Så meget rum. Nødt til at se det hele."
 "[english]cheaptitles_core01.babbleb18"	"Core 1: So much space. Need to see it all."
 "cheaptitles_core01.babbleb24"	"Core 1: (begejstrede gisp)"
 "[english]cheaptitles_core01.babbleb24"	"Core 1: (excited gasps)"

@@ -881,7 +881,7 @@
 "[english]P2Econ_CLOSE"	"CLOSE"
 "P2Econ_Confirm"	"OK"
 "[english]P2Econ_Confirm"	"OK"
-"P2Econ_TradingTitle"	"近日公開"
+"P2Econ_TradingTitle"	"近日登場"
 "[english]P2Econ_TradingTitle"	"Coming Soon"
 "P2Econ_TradingText"	"アイテム交換がもうすぐ可能になります!"
 "[english]P2Econ_TradingText"	"You'll be able to trade items soon!"
