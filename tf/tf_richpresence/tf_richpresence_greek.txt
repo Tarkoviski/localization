@@ -27,5 +27,9 @@
 "[english]#TF_RichPresence_MatchGroup_Competitive6v6"	"Competitive"
 "#TF_RichPresence_MatchGroup_Casual"	"Casual"
 "[english]#TF_RichPresence_MatchGroup_Casual"	"Casual"
+"#TF_RichPresence_MatchGroup_MannUp"	"Mann Up"
+"[english]#TF_RichPresence_MatchGroup_MannUp"	"Mann Up"
+"#TF_RichPresence_MatchGroup_BootCamp"	"Boot Camp"
+"[english]#TF_RichPresence_MatchGroup_BootCamp"	"Boot Camp"
 }
 }

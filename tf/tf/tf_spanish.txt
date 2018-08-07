@@ -28854,5 +28854,7 @@ Shoot the alien explosive drones to take out enemies or Engineer buildings."
 "[english]ToolContainerRestrictedTitle"	"Opening Not Allowed"
 "ToolContainerRestricted"	"No se permite la apertura de este contenedor en tu país."
 "[english]ToolContainerRestricted"	"Opening this container is not allowed in your country."
+"Store_ConfirmDecoderRestrictionCheckoutText"	"Las cajas no se pueden abrir en tu país. Cualquier caja o llave adquirida no será utilizable."
+"[english]Store_ConfirmDecoderRestrictionCheckoutText"	"Cases and crates may not be opened in your country.  Any purchased cases, crates, or key items will not be usable."
 }
 }

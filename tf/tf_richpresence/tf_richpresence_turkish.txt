@@ -29,9 +29,9 @@
 "[english]#TF_RichPresence_MatchGroup_Casual"	"Casual"
 "#TF_RichPresence_MatchGroup_SpecialEvent"	"Özel Etkinlik"
 "[english]#TF_RichPresence_MatchGroup_SpecialEvent"	"Special Event"
-"#TF_RichPresence_MatchGroup_MannUp"	"MvM Mann Up"
+"#TF_RichPresence_MatchGroup_MannUp"	"Mann Up"
 "[english]#TF_RichPresence_MatchGroup_MannUp"	"Mann Up"
-"#TF_RichPresence_MatchGroup_BootCamp"	"MvM Eğitim"
+"#TF_RichPresence_MatchGroup_BootCamp"	"Eğitim"
 "[english]#TF_RichPresence_MatchGroup_BootCamp"	"Boot Camp"
 }
 }

@@ -29,9 +29,9 @@
 "[english]#TF_RichPresence_MatchGroup_Casual"	"Casual"
 "#TF_RichPresence_MatchGroup_SpecialEvent"	"Sự kiện đặc biệt"
 "[english]#TF_RichPresence_MatchGroup_SpecialEvent"	"Special Event"
-"#TF_RichPresence_MatchGroup_MannUp"	"MvM Mann Up"
+"#TF_RichPresence_MatchGroup_MannUp"	"Mann Up"
 "[english]#TF_RichPresence_MatchGroup_MannUp"	"Mann Up"
-"#TF_RichPresence_MatchGroup_BootCamp"	"MvM Boot Camp"
+"#TF_RichPresence_MatchGroup_BootCamp"	"Boot Camp"
 "[english]#TF_RichPresence_MatchGroup_BootCamp"	"Boot Camp"
 }
 }
